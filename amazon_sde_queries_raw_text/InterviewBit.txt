@@ -1,0 +1,151 @@
+Interview Guides
+Amazon Interview Questions
+Amazon Interview Questions
+Last Updated: Nov 10, 2023
+Jump to Problems
+✨ 200 Amazon Interview Questions Found
+Copied
+Powered by
+Certificate included
+About the Speaker
+What will you Learn?
+I wish to receive further updates and confirmation via whatsapp
+Register Now
+About Amazon
+Earth's most 'Customer Centric' company, Amazon was founded by Jeff Bezos from his garage in Bellevue, Washington on July 5, 1994. Amazon is an American multinational technology company whose focus is on a large number of fields, for instance, E-Commerce, Cloud Computing, Artificial Intelligence, Digital Streaming, etcetera. It is considered to be one of the Big Five companies in the United States Information Technology industry, along with Google, Apple, Microsoft, and Facebook.
+Amazon is renowned for its huge disruption of industries through technological innovation and mass scale. Being the world's largest online marketplace, AI assistant provider, and cloud computing platform, Amazon has a workforce of over six lakh employees, out of which over fifty thousand are Indians. It is the largest Internet company by revenue in the world right now and the second-largest private employer in the United States. Because of this, Amazon has the highest global brand valuation.
+Given the plethora of services that Amazon offers, it is pretty obvious that a lot of people want to join Amazon and be part of its evergreen culture. But what really is the secret sauce to Amazon’s humongous success? Well, if you ask this question to any of the employees at Amazon, we are pretty sure that everyone would unanimously say: 'The Leadership Principles of Amazon'
+Play
+Amazon Interview Preparation
+1. Interview Preparation Tips
+Now that we know about the rich heritage of Amazon, its work culture, and its Leadership Principles, I am sure that you will be tempted to interview at Amazon and take a job! Here are a few tips which you can use to crack Amazon's interview and get a job
+Understand the Leadership Principles Well
+- As mentioned before, Amazonians take great pride as far as their Leadership Principles are concerned. Therefore, knowing about these principles and citing an instance or two where the candidate has applied them in real life will have a positive impact on the interviewers. This leaves an impression that the candidate is genuinely interested in working with the company.
+Be Thorough with Data Structures and Algorithms
+- At Amazon, there is always an appreciation for great problem solvers. If you want to have a good impression of the interviewers, the best way is to prove that you have worked a lot on developing your logic structures and solving algorithmic problems. A good understanding of Data Structures and Algorithms and having one or two good projects always earn you brownie points with Amazon.
+Use the STAR method to format your Response
+- STAR is an acronym for Situation, Task, Action, and Result. The STAR method is a structured way to respond to behavioral-based interview questions. To answer a provided question using the STAR method, you start by describing the situation that was at hand, the Task which needed to be done, the action taken by you as a response to the Task, and finally the Result of the experience. It is important to think about all the details and recall everyone and everything that was involved in the situation. Let the interviewer know how much of an impact that experience had on your life and in the lives of all others who were involved. It is always good practice to be prepared with a real-life story that you can describe using the STAR method.
+Know and Describe your Strengths
+- Many people who interview at various companies, stay shy during the interviews and feel uncomfortable when they are asked to describe their strengths. Remember that if you do not show how good you are at the skills you know, no one will ever be able to know about the same and this might just cost you a lot. So it is okay to think about yourself and highlight your strengths properly and honestly as and when required.
+Discuss with your interviewer and keep the conversation going
+- Remember that an interview is not a written exam and therefore even if you come up with the best of solutions for the given problems, it is not worth anything until and unless the interviewer understands what you are trying to say. Therefore, it is important to make the interviewer that he or she is also a part of the interview. Also, asking questions might always prove to be helpful during the interview.
+Create a free personalised study plan
+Create a FREE custom study plan
+Get into your dream companies with expert guidance
+Get into your dream companies with expert..
+Real-Life Problems
+Prep for Target Roles
+Custom Plan Duration
+Flexible Plans
+Create My Plan
+Amazon Recruitment Process
+1. Interview Process
+Recruiter Connect:
+Best way to get noticed by Amazon recruiters is to maintain a good Linkedin profile and message recruiters. The candidate can also apply on the Amazon job portal but it is suggested that they also get a referral from an Amazon employee.
+Interview Rounds
+: Amazon conducts four interview rounds alongside an initial coding test. The coding test consists of DS/Algo problems. The first round is an HR round where they ask behavioral questions along with Computer Science theory questions to the candidate. The next three rounds focus solely on DS/Algo.
+After Interviews:
+The recruiter contacts the candidate after these rounds and tells the verdict. They also look at the candidate’s leadership principles along with technical skills.
+Hired:
+Once the team and you both are comfortable and ready to start, the offer letter is prepared and shared with you by the recruiters and you are HIRED!
+2. Interview Rounds
+HR Round(1 Round):
+This is when they ask computer science theory and behavioural questions to the candidate. The questions may enquire about the candidate’s experience at previous companies and conflicts the candidate might have faced with colleagues/managers.
+Data Structures and Algorithms Rounds(3 Rounds):
+The candidate is asked DS/Algo problems where production ready code might be expected from the candidate. It is not out of the realm of possibility to face minor behavioural questions here as well. The problems range from easy to hard but they are not the sole deciding factor for the final offer. Leadership principles also come into play here. The interviews are conducted on Amazon Chime.
+You can download a PDF version of Amazon Interview Questions.
+Download PDF
+Download PDF
+Download PDF
+Your requested download is ready!
+Click
+here
+to download.
+Frequently Asked Questions
+1. What are the Amazon interview rounds?
+There are 5 rounds (4- Data Structures and Algorithms, 1- System Design, and 1- HR) at Amazon.
+2. Are Amazon interviews hard?
+The toughness of an interview depends upon the amount of hard work you have put in to prepare for them. Usually, the questions asked in a standard Amazon interview are of Easy to Medium Level but it varies from person to person.
+Learn via our Video Courses
+3. How do I apply for a job at Amazon?
+You can go to the Amazon Jobs portal and apply for any open role matching your skill set over there.
+4. Can I apply for multiple roles at Amazon?
+Yes, we can apply to any role that aligns with both our interests and skills. We are evaluated against the requirements for each role and we can give interviews for different roles at the same time.
+Advance your career with
+Mock Assessments
+Refine your coding skills with Mock Assessments
+Real-world coding challenges for top company interviews
+Real-world coding challenges for top companies
+Real-Life Problems
+Detailed reports
+Attempt Now
+5. What are some of the questions which one should ask the interviewer at Amazon?
+It is always nice to ask questions about the company's culture and what is the current technology using which the company makes its products. Asking about the future innovations at Amazon also might be a good idea as it might make the interviewer believe that you are looking forward to joining Amazon for a long time. You can also ask about the interviewer's personal experience at Amazon and what skills you must develop before you join the job.
+6. How to prepare for the coding interviews at Amazon?
+The secret lies in the amount of practice you do. Put in a lot of effort in solving challenging problems on Data Structures and Algorithms. Having a good knowledge of fundamental Computer Science Concepts like Object-Oriented Programming, Computer Networks, Operating Systems, etc. might also be helpful.
+7. Does Amazon have a dress code?
+No, Amazon does not have a dress code. However, all employees are supposed to wear decent clothes at their respective places of work.
+8. Is having a project on Web or Android Development or Machine Learning a must for being hired at Amazon?
+No, only good problem-solving skills are required to get hired at Amazon for an SDE position. Having said that, you will always get brownie points if you have a good project or two in your Resume as it shows that you are referenced and interested in the domain on which you have made your project.
+Coding Problems
+0/4
+Easy Problems
+Greedy Algorithm
+Dynamic Programming
+Majority Element
+Easy
+19.7 Mins
+Solve
+Unique Binary Search Trees
+Easy
+62.0 Mins
+Solve
+Best Time to Buy and Sell Stocks II
+Easy
+40.18 Mins
+Solve
+Best Time to Buy and Sell Stocks I
+Easy
+28.13 Mins
+Solve
+0/5
+Intermediate Problems
+Greedy Algorithm
+Dynamic Programming
+Gas Station
+Medium
+56.42 Mins
+Solve
+Distribute Candy
+Medium
+65.48 Mins
+Solve
+Longest Increasing Subsequence
+Medium
+30.39 Mins
+Solve
+Max Product Subarray
+Medium
+65.25 Mins
+Solve
+Ways to Decode
+Medium
+70.8 Mins
+Solve
+0/1
+Advanced Problems
+Dynamic Programming
+Best Time to Buy and Sell Stocks III
+Hard
+64.56 Mins
+Solve
+View All Problems
+Excel at your interview with Masterclasses
+Know More
+Certificate included
+What will you Learn?
+I wish to receive further updates and confirmation via whatsapp
+Register Now For FREE!
+Powered By
+You Have Successfully registered!
+Join our WhatsApp group for free learning material and session link.

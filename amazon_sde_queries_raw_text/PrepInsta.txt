@@ -1,0 +1,1950 @@
+PrepInsta would like to send you awesome updates and offers!
+Notifications can be turned off anytime from browser settings
+Don't Allow
+Allow
+Unlock this article for Free,
+by logging in
+Don’t worry, unlock all articles / blogs on PrepInsta by just simply logging in on our website
+Sign in with Google
+Sign in with Google. Opens in new tab
+Amazon Coding Questions
+July 5, 2023
+Amazon Coding Questions and Answers
+On this page, the 2024 Amazon Coding Questions and Answers are discussed. One of the most crucial rounds for landing a job at Amazon is the coding round.
+You can use this section to analyse the level of complexity of the Amazon problem. Understanding the level of complexity and question format for the coding phase is made easier by practising Amazon code questions and answers.
+The Amazon Coding Round questions and their solutions in different languages can be found below. For a good grade, you must be prepared for the Amazon code problems.
+Coding Test Format
+The Amazon coding round is an important step in the interview process.
+It assesses a candidate’s problem-solving skills and ability to apply algorithms and data structures to solve coding problems.
+Coding round contains 3 questions that will have to be attended in 3 hours.
+Each questions have different difficulty level.
+There is one
+Easy
+problem based on
+Algorithm
+Aptitude
+and
+Data structures
+One of the problem is of
+Medium
+level and that problem is based on
+Greedy Algorithm
+One is of
+Hard
+difficulty level, and usually based on
+Dynamic Programming
+No Of Questions
+Marks per question
+Question 1
+Question 2
+Question 3
+Prime Course Trailer
+Related Banners
+Get PrepInsta Prime & get Access to all 200+ courses offered by PrepInsta in One Subscription
+Get Prime
+Question 1
+Problem Statement:
+Check if strings are rotations of each other or not
+Given two strings s1 and s2. The task is to check if s2 is a rotated version of the string s1. The characters in the strings are in lowercase.
+Test Case 1:
+Input:
+mightandmagic
+andmagicmigth
+Output:
+Explanation:
+Here with any amount of rotation s2 can’t be obtained by s1.
+Your Task:
+The task is to complete the function
+areRotations()
+which checks if the two strings are rotations of each other. The function returns true if string 1 can be obtained by rotating string 2, else it returns false.
+Expected Time Complexity:
+O(N).
+Expected Space Complexity:
+O(N).
+Note:
+N = |s1|.
+Constraints:
+1 <= |s1|, |s2| <= 107
+Java
+C++
+Java
+Run
+import
+java
+util
+.*;
+public
+class
+Main
+public
+static
+void
+main
+String
+args
+Scanner
+new
+Scanner
+System
+int
+nextInt
+();
+int
+price
+new
+int
+for
+int
+i diff
+new
+Vector
+();
+for
+int
+--)
+diff
+add
+price
+price
+]);}
+int
+ans
+solve
+diff
+ans
+System
+out
+println
+);}
+else
+System
+out
+println
+ans
+);}
+private
+static
+int
+solve
+Vector
+int
+size
+();
+return
+int
+get
+for
+int
+++)
+Math
+max
+get
+));}
+return
+int
+mxSum
+csum
+for
+int
+++)
+csum
+get
+csum
+csum
+mxSum
+Math
+max
+csum
+mxSum
+);}
+return
+mxSum
+C++
+Run
+#include
+bits
+stdc
+++.
+using
+namespace
+std
+class
+Main
+public
+bool
+Rotation
+string
+string
+int
+size
+int
+size
+return
+false
+string
+temp
+temp
+find
+return
+false
+int
+main
+int
+cin
+while
+--)
+string
+string
+cin
+Solution
+obj
+cout
+obj
+Rotation
+)<<
+endl
+return
+Run
+#include
+<stdio.h>
+#include
+<string.h>
+int
+areRotations
+char
+char
+int
+len1
+strlen
+int
+len2
+strlen
+len1
+len2
+return
+char
+temp
+200
+strcpy
+temp
+strcat
+temp
+strstr
+temp
+return
+return
+int
+main
+char
+100
+100
+printf
+"Enter string 1: "
+scanf
+"%s"
+printf
+"Enter string 2: "
+scanf
+"%s"
+int
+result
+areRotations
+result
+printf
+"1\n"
+else
+printf
+"0\n"
+return
+Question 2
+Problem Statement:
+Jarvis is weak in computing palindromes for Alphanumeric characters.
+While Ironman is busy fighting Thanos, he needs to activate sonic punch but Jarvis is stuck in computing palindromes.
+You are given a string
+containing alphanumeric characters. Find out whether the string is a palindrome or not.
+If you are unable to solve it then it may result in the death of Iron Man.
+Test Case 1:-
+Input:
+S = “I am :IronnorI Ma, i”
+Output:
+YES
+Explanation:
+Ignore all the symbols and whitespaces S = “IamIronnorIMai”. Now, Check for palindrome ignoring uppercase and lowercase English letter.
+Test Case 2:-
+Input:
+S = Ab?/Ba
+Output:
+YES
+Explanation:
+Here with any amount of rotation s2 can’t be obtained by s1.
+Your Task:
+This is a function problem. The input is already taken care of by the driver code. You only need to complete the function
+saveIronman()
+that takes an string
+(ch)
+, and return the
+true
+if the string is a palindrome and
+false
+if the string is not a palindrome. The driver code takes care of the printing.
+Expected Time Complexity:
+O(N).
+Expected Space Complexity:
+O(1).
+Note:
+N = |s1|.
+Constraints:
+1 ≤ |S| ≤ 100000
+Note:
+Consider
+alphabets and numbers only
+for palindrome check. Ignore symbols and whitespaces.
+Java
+C++
+Java
+Run
+import
+java
+util
+.*;
+import
+java
+lang
+.*;
+import
+java
+.*;
+class
+Main
+public
+static
+void
+main
+String
+args
+throws
+Exception
+BufferedReader
+new
+BufferedReader
+new
+InputStreamReader
+System
+));
+String
+readLine
+();
+toLowerCase
+();
+replaceAll
+" [,?/:;!]"
+char
+toCharArray
+();
+int
+int
+length
+boolean
+check
+true
+while
+check
+false
+++;
+continue
+check
+false
+--;
+continue
+]))
+check
+false
+break
+++;
+--;
+check
+System
+out
+println
+"YES"
+else
+System
+out
+println
+"NO"
+public
+static
+boolean
+check
+char
+boolean
+false
+byte
+byte
+122
+return
+true
+else
+'1'
+'2'
+'3'
+'4'
+'5'
+'6'
+'7'
+'8'
+'9'
+'0'
+return
+true
+return
+C++
+Run
+#include
+<iostream>
+#include
+<cctype>
+#include
+<string>
+using
+namespace
+std
+bool
+isPalindrome
+const
+string
+str
+int
+str
+length
+while
+// Skip symbols and whitespaces
+while
+isalnum
+str
+++;
+while
+isalnum
+str
+--;
+// Convert characters to lowercase for comparison
+char
+left
+tolower
+str
+]);
+char
+right
+tolower
+str
+]);
+left
+right
+return
+false
+++;
+--;
+return
+true
+int
+main
+string
+str
+getline
+cin
+str
+// Read input string with spaces
+isPalindrome
+str
+cout
+"YES\n"
+else
+cout
+"NO\n"
+return
+Run
+#include
+<stdio.h>
+#include
+<ctype.h>
+#include
+<stdbool.h>
+bool
+isPalindrome
+char
+[],
+int
+len
+int
+len
+while
+// Skip symbols and whitespaces
+while
+isalnum
+++;
+while
+isalnum
+--;
+// Convert characters to lowercase for comparison
+char
+left
+tolower
+]);
+char
+right
+tolower
+]);
+left
+right
+return
+false
+++;
+--;
+return
+true
+int
+main
+char
+100001
+scanf
+" %[^\n]s"
+// Read input string with spaces
+int
+len
+for
+int
+'\0'
+++)
+len
+++;
+isPalindrome
+len
+printf
+"YES\n"
+else
+printf
+"NO\n"
+return
+Question 3
+Problem Statement:
+Given a binary tree, print the bottom view from left to right.
+A node is included in bottom view if it can be seen when we look at the tree from bottom.
+/ \
+5 3
+/ \
+For the above tree, the bottom view is 5 10 3 14 25.
+If there are
+multiple
+bottom-most nodes for a horizontal distance from root, then print the later one in level traversal. For example, in the below diagram, 3 and 4 are both the bottommost nodes at horizontal distance 0, we need to print 4.
+/ \ / \
+5 3 4 25
+/ \
+10 14
+For the above tree the output should be 5 10 4 14 25.
+Example 1:
+Input:
+/ \
+3 2
+Output:
+3 1 2
+Explanation:
+First case represents a tree with 3 nodes and 2 edges where root is 1, left child of 1 is 3 and right child of 1 is 2.
+Example 2:
+Input:
+/ \
+20 30
+/ \
+40 60
+Output:
+40 20 60 30
+Your Task:
+This is a functional problem, you
+don’t
+need to care about input, just complete the function
+bottomView
+() which takes the root node of the tree as input and returns an array containing the bottom view of the given tree.
+Expected Time Complexity:
+O(N).
+Expected Auxiliary Space:
+O(N).
+Constraints:
+1 <= Number of nodes <= 105
+1 <= Data of a node <= 105
+C++
+C++
+Run
+// C++ Program to print Bottom View of Binary Tree
+#include
+bits
+stdc
+++.
+using
+namespace
+std
+// Tree node class
+struct
+Node
+int
+data
+//data of the node
+int
+//horizontal distance of the node
+Node
+left
+right
+//left and right references
+// Constructor of tree node
+Node
+int
+key
+data
+key
+INT_MAX
+left
+right
+NULL
+// Method that prints the bottom view.
+void
+bottomView
+Node
+root
+root
+NULL
+return
+// Initialize a variable 'hd' with 0
+// for the root element.
+int
+// TreeMap which stores key value pair
+// sorted on key value
+map
+// Queue to store tree nodes in level
+// order traversal
+queue
+// Assign initialized horizontal distance
+// value to root node and add it to the queue.
+root
+push
+root
+// In STL, push() is used enqueue an item
+// Loop until the queue is empty (standard
+// level order loop)
+while
+empty
+())
+Node
+temp
+front
+();
+pop
+();
+// In STL, pop() is used dequeue an item
+// Extract the horizontal distance value
+// from the dequeued tree node.
+temp
+// Put the dequeued tree node to TreeMap
+// having key as horizontal distance. Every
+// time we find a node having same horizontal
+// distance we need to replace the data in
+// the map.
+temp
+data
+// If the dequeued node has a left child, add
+// it to the queue with a horizontal distance hd-1.
+temp
+left
+NULL
+temp
+left
+push
+temp
+left
+// If the dequeued node has a right child, add
+// it to the queue with a horizontal distance
+// hd+1.
+temp
+right
+NULL
+temp
+right
+push
+temp
+right
+// Traverse the map elements using the iterator.
+for
+auto
+begin
+();
+end
+();
+cout
+second
+" "
+// Driver Code
+int
+main
+Node
+root
+new
+Node
+root
+left
+new
+Node
+root
+right
+new
+Node
+root
+left
+left
+new
+Node
+root
+left
+right
+new
+Node
+root
+right
+left
+new
+Node
+root
+right
+right
+new
+Node
+root
+left
+right
+left
+new
+Node
+root
+left
+right
+right
+new
+Node
+cout
+"Bottom view of the given binary tree :\n"
+bottomView
+root
+return
+Run
+#include
+<stdio.h>
+#include
+<stdlib.h>
+#include
+<limits.h>
+// Tree node structure
+typedef
+struct
+Node
+int
+data
+// Data of the node
+int
+// Horizontal distance of the node
+struct
+Node
+left
+right
+// Left and right references
+Node
+// Constructor of tree node
+Node
+createNode
+int
+key
+Node
+newNode
+Node
+malloc
+sizeof
+Node
+));
+newNode
+data
+key
+newNode
+INT_MAX
+newNode
+left
+newNode
+right
+NULL
+return
+newNode
+// Linked list to store tree nodes in level order traversal
+typedef
+struct
+QueueNode
+Node
+node
+struct
+QueueNode
+next
+QueueNode
+// Balanced Binary Search Tree to store key value pair
+typedef
+struct
+MapNode
+int
+key
+int
+value
+struct
+MapNode
+left
+struct
+MapNode
+right
+MapNode
+// Create a new MapNode and initialize its values
+MapNode
+createMapNode
+int
+key
+int
+value
+MapNode
+newMapNode
+MapNode
+malloc
+sizeof
+MapNode
+));
+newMapNode
+key
+key
+newMapNode
+value
+value
+newMapNode
+left
+newMapNode
+right
+NULL
+return
+newMapNode
+// Insert a new MapNode into the balanced BST
+MapNode
+insertMapNode
+MapNode
+node
+int
+key
+int
+value
+node
+NULL
+return
+createMapNode
+key
+value
+key
+node
+key
+node
+left
+insertMapNode
+node
+left
+key
+value
+else
+key
+node
+key
+node
+right
+insertMapNode
+node
+right
+key
+value
+else
+// Update the value for nodes with the same horizontal distance
+node
+value
+value
+return
+node
+// Enqueue a tree node to the queue
+void
+enqueue
+QueueNode
+front
+QueueNode
+rear
+Node
+node
+QueueNode
+newQueueNode
+QueueNode
+malloc
+sizeof
+QueueNode
+));
+newQueueNode
+node
+node
+newQueueNode
+next
+NULL
+rear
+NULL
+front
+rear
+newQueueNode
+return
+rear
+)->
+next
+newQueueNode
+rear
+newQueueNode
+// Dequeue a tree node from the queue
+Node
+dequeue
+QueueNode
+front
+QueueNode
+rear
+front
+NULL
+return
+NULL
+QueueNode
+temp
+front
+Node
+node
+temp
+node
+front
+front
+)->
+next
+front
+NULL
+rear
+NULL
+free
+temp
+return
+node
+// Method that prints the bottom view.
+void
+bottomView
+Node
+root
+root
+NULL
+return
+// Initialize a variable 'hd' with 0 for the root element.
+int
+QueueNode
+front
+NULL
+QueueNode
+rear
+NULL
+MapNode
+rootMap
+NULL
+// Assign initialized horizontal distance value to root node and add it to the queue.
+root
+enqueue
+front
+rear
+root
+// Loop until the queue is empty (standard level order loop)
+while
+front
+NULL
+Node
+temp
+dequeue
+front
+rear
+// Extract the horizontal distance value from the dequeued tree node.
+temp
+// Put the dequeued tree node to the balanced BST having key as horizontal distance.
+// Every time we find a node having the same horizontal distance, we need to replace the data in the BST.
+rootMap
+insertMapNode
+rootMap
+temp
+data
+// If the dequeued node has a left child, add it to the queue with a horizontal distance hd-1.
+temp
+left
+NULL
+temp
+left
+enqueue
+front
+rear
+temp
+left
+// If the dequeued node has a right child, add it to the queue with a horizontal distance hd+1.
+temp
+right
+NULL
+temp
+right
+enqueue
+front
+rear
+temp
+right
+// Traverse the map elements in order and print the values
+MapNode
+currentNode
+rootMap
+while
+currentNode
+NULL
+printf
+"%d "
+currentNode
+value
+currentNode
+currentNode
+right
+// Driver Code
+int
+main
+Node
+root
+createNode
+root
+left
+createNode
+root
+right
+createNode
+root
+left
+left
+createNode
+root
+left
+right
+createNode
+root
+right
+left
+createNode
+root
+right
+right
+createNode
+root
+left
+right
+left
+createNode
+root
+left
+right
+right
+createNode
+printf
+"Bottom view of the given binary tree:\n"
+bottomView
+root
+return
+Question 4
+An expression is called the postfix expression if the operator appears in the expression after the operands.
+Example :
+Infix expression: A + B * C – D
+Postfix expression: A B + C D – *
+Given a postfix expression, the task is to evaluate the expression. The answer could be very large, output your answer modulo (10^9+7). Also, use modular division when required.
+Note:
+Operators will only include the basic arithmetic operators like ‘*’, ‘/’, ‘+’, and ‘-‘.
+The operand can contain multiple digits.
+The operators and operands will have space as a separator between them.
+There won’t be any brackets in the postfix expression.
+Input Format:
+The first line of input contains an integer ‘T’ denoting the number of test cases.
+The next ‘T’ lines represent the ‘T’ test cases.
+The first and only line of each test case contains a postfix expression.
+Output Format:
+The first line of input contains an integer ‘T’ denoting the number of test cases.
+For each test case, print an integer obtained by evaluating the given postfix expression.
+Note:
+You are not required to print the expected output; it has already been taken care of, Just implement the function.
+Constraints
+1 <= T <= 100
+1 <= N <= 10^3
+1 <= NUM <= 100
+Where ‘N’ denotes the length of postfix expression and ‘NUM’ denotes the operand.
+Time Limit: 1 sec
+Sample input 1
+2 3 1 * + 9 –
+1 2 3 + * 8 –
+Explanation of sample input 1:
+Sample output 1
+Test case 1:
+2 3 1 * + 9 –
+– : ( ) – ( )
+9 : ( ) – (9)
++ : ( ( ) + ( ) ) – (9)
+‘*’: ( ( ) + ( ( ) * ( ) ) ) – (9)
+1 : ( ( ) + ( ( ) * (1) ) ) – (9)
+3 : ( ( ) + ( (3) * (1) ) ) – (9)
+2 : ( (2) + ( (3) * (1) ) ) – (9)
+Result = (2 + 3) – 9 = 5 – 9 = -4
+Test case 2
+1 2 3 + * 8 –
+– : ( ) – ( )
+8 : ( ) – (8)
+* : ( ( ) * ( ) ) – (8)
++ : ( ( ) * ( ( ) + ( ) ) ) – (8)
+3 : ( ( ) * ( ( ) + (3) ) ) – (8)
+2 : ( ( ) * ( (2) + (3) ) ) – (8)
+1 : ( (1) * ( (2) + (3) ) ) – (8)
+Result = (1 * 5) – 8 = 5 – 8 = -3
+Sample input 2
+100 200 + 2 / 5 * 7 +
+Explanation of sample input 2:
+100 + 200 = 300
+300 / 2 = 150
+150 * 5 = 750
+750 + 7 = 757
+Sample output 2
+757
+C++
+C++
+Run
+// C++ program to evaluate value of a postfix expression
+#include
+bits
+stdc
+++.
+using
+namespace
+std
+// The main function that returns value
+// of a given postfix expression
+int
+evaluatePostfix
+string
+exp
+// Create a stack of capacity equal to expression size
+stack
+int
+// Scan all characters one by one
+for
+int
+exp
+size
+();
+// If the scanned character is an operand
+// (number here), push it to the stack.
+isdigit
+exp
+]))
+push
+exp
+'0'
+// If the scanned character is an operator,
+// pop two elements from stack apply the operator
+else
+int
+val1
+top
+();
+pop
+();
+int
+val2
+top
+();
+pop
+();
+switch
+exp
+case
+'+'
+push
+val2
+val1
+break
+case
+'-'
+push
+val2
+val1
+break
+case
+'*'
+push
+val2
+val1
+break
+case
+'/'
+push
+val2
+val1
+break
+return
+top
+();
+// Driver code
+int
+main
+int
+scanf
+"%d"
+getchar
+();
+vector
+string
+expressions
+for
+int
+char
+expression
+1005
+fgets
+expression
+sizeof
+expression
+stdin
+expression
+strcspn
+expression
+"\n"
+'\0'
+expressions
+expression
+vector
+long
+long
+results
+for
+int
+results
+evaluatePostfix
+expressions
+]);
+for
+int
+printf
+"%lld\n"
+results
+]);
+return
+Run
+// C program to evaluate value of a postfix
+// expression having multiple digit operands
+#include
+<ctype.h>
+#include
+<stdio.h>
+#include
+<stdlib.h>
+#include
+<string.h>
+// Stack type
+struct
+Stack
+int
+top
+unsigned
+capacity
+int
+array
+// Stack Operations
+struct
+Stack
+createStack
+unsigned
+capacity
+struct
+Stack
+stack
+struct
+Stack
+malloc
+sizeof
+struct
+Stack
+));
+stack
+return
+NULL
+stack
+top
+stack
+capacity
+capacity
+stack
+array
+int
+malloc
+stack
+capacity
+sizeof
+int
+));
+stack
+array
+return
+NULL
+return
+stack
+int
+isEmpty
+struct
+Stack
+stack
+return
+stack
+top
+int
+peek
+struct
+Stack
+stack
+return
+stack
+array
+stack
+top
+int
+pop
+struct
+Stack
+stack
+isEmpty
+stack
+return
+stack
+array
+stack
+top
+--];
+return
+'$'
+void
+push
+struct
+Stack
+stack
+int
+stack
+array
+[++
+stack
+top
+// The main function that returns value
+// of a given postfix expression
+int
+evaluatePostfix
+char
+exp
+// Create a stack of capacity equal to expression size
+struct
+Stack
+stack
+createStack
+strlen
+exp
+));
+int
+// See if stack was created successfully
+stack
+return
+// Scan all characters one by one
+for
+exp
+// if the character is blank space then continue
+exp
+' '
+continue
+// If the scanned character is an
+// operand (number here),extract the full number
+// Push it to the stack.
+else
+isdigit
+exp
+]))
+int
+num
+// extract full number
+while
+isdigit
+exp
+]))
+num
+num
+int
+exp
+'0'
+++;
+--;
+// push the element in the stack
+push
+stack
+num
+// If the scanned character is an operator, pop two
+// elements from stack apply the operator
+else
+int
+val1
+pop
+stack
+int
+val2
+pop
+stack
+switch
+exp
+case
+'+'
+push
+stack
+val2
+val1
+break
+case
+'-'
+push
+stack
+val2
+val1
+break
+case
+'*'
+push
+stack
+val2
+val1
+break
+case
+'/'
+push
+stack
+val2
+val1
+break
+return
+pop
+stack
+// Driver program to test above functions
+int
+main
+char
+exp
+"100 200 + 2 / 5 * 7 +"
+// Function call
+printf
+"%d"
+evaluatePostfix
+exp
+));
+return
+Question 5
+Asked in Infosys Placment Paper – Feb 2022
+Problem Statement :
+You are given a binary tree, the task is to find out the length of the longest path which contains nodes with the exact same value. It is not necessary for the path to pass through the root of the binary tree.
+Between two nodes, the length of the path can be defined as the number of edges contained between them.
+For example, consider the following binary tree:
+/ \
+7 7
+/ \ \
+8 3 7
+For the above tree, the length of the longest path where each node in the path has the same value is 3 and path is 7 -> 7 -> 7 -> 7
+Input format:
+The first line of input contains an integer ‘T’ representing the number of test cases. Then the test cases follow.
+The only line of each test case contains elements in the level order form. The line consists of values of nodes separated by a single space. In case a node is null, we take -1 on its place.
+For example, the input for the tree depicted in the below image would be:
+2 3
+4 -1 5 6
+-1 7 -1 -1 -1 -1
+-1 -1
+Explanation:
+Level 1:
+The root node of the tree is 1
+Level 2:
+Left child of 1 = 2
+Right child of 1 = 3
+Level 3:
+Left child of 2 = 4
+Right child of 2 = null (-1)
+Left child of 3 = 5
+Right child of 3 = 6
+Level 4:
+Left child of 4 = null (-1)
+Right child of 4 = 7
+Left child of 5 = null (-1)
+Right child of 5 = null (-1)
+Left child of 6 = null (-1)
+Right child of 6 = null (-1)
+Level 5:
+Left child of 7 = null (-1)
+Right child of 7 = null (-1)
+The first not-null node(of the previous level) is treated as the parent of the first two nodes of the current level. The second not-null node (of the previous level) is treated as the parent node for the next two nodes of the current level and so on.
+The input ends when all nodes at the last level are null(-1).
+Note:
+The above format was just to provide clarity on how the input is formed for a given tree.
+The sequence will be put together in a single line separated by a single space. Hence, for the above-depicted tree, the input will be given as:
+1 2 3 4 -1 5 6 -1 7 -1 -1 -1 -1 -1 -1
+Output Format:
+For each test case, a single integer denoting the length of the longest path where each node in the path has the same value is printed.
+The output for each test case is to be printed on a separate line.
+Note:
+You do not need to print anything; it has already been taken care of. Just implement the given function.
+Constraints:
+1 <= T <= 100
+1 <= N <= 3000
+-10^9 <= data <= 10^9 and data != -1
+Where ‘T’ is the number of test cases, ‘N’ is the total number of nodes in the binary tree, and “data” is the value of the binary tree node.
+Time Limit
+: 1sec
+Sample Input 1:
+7 7 7 1 1 -1 7 -1 -1 -1 -1 -1 -1
+10 3 4 3 3 -1 5 -1 -1 -1 -1 -1 -1
+Sample Output 1:
+Sample Input 2:
+1 4 5 4 4 -1 5 -1 -1 -1 -1 -1 -1
+5 4 5 1 1 -1 5 -1 -1 -1 -1 -1 -1
+Sample Output 2:
+Explanation of Sample Input 1:
+/ \
+7 7
+/ \ \
+1 1 7
+For the first test case, the length of the longest path where each node in the path has the same value is 3 and path is 7 -> 7 -> 7 -> 7.
+/ \
+3 4
+/ \ \
+3 3 5
+For the second test case, the length of the longest path where each node in the path has the same value is 2 and path is 3 -> 3 -> 3.
+Java
+C++
+Java
+Run
+class
+Main
+static
+class
+Node
+int
+val
+Node
+left
+right
+static
+Node
+newNode
+int
+data
+Node
+temp
+new
+Node
+();
+temp
+val
+data
+temp
+left
+temp
+right
+null
+return
+temp
+public
+static
+void
+main
+String
+args
+Node
+root
+null
+root
+newNode
+root
+left
+newNode
+root
+right
+newNode
+root
+left
+left
+newNode
+root
+left
+right
+newNode
+root
+right
+right
+newNode
+System
+out
+print
+longestSamevaluePath
+root
+));
+static
+int
+res
+public
+static
+int
+longestSamevaluePath
+Node
+root
+root
+null
+return
+solve
+root
+return
+res
+public
+static
+int
+solve
+Node
+root
+root
+null
+return
+int
+lHeight
+solve
+root
+left
+int
+rHeight
+solve
+root
+right
+int
+lchk
+int
+rchk
+root
+left
+null
+root
+left
+val
+root
+val
+lchk
+lHeight
+root
+right
+null
+root
+right
+val
+root
+val
+rchk
+rHeight
+res
+Math
+max
+res
+lchk
+rchk
+return
+Math
+max
+lchk
+rchk
+C++
+Run
+#include
+<iostream>
+using
+namespace
+std
+class
+Node
+public
+int
+val
+Node
+left
+Node
+right
+Node
+newNode
+int
+data
+Node
+temp
+new
+Node
+();
+temp
+val
+data
+temp
+left
+temp
+right
+nullptr
+return
+temp
+int
+res
+int
+solve
+Node
+root
+root
+nullptr
+return
+int
+lHeight
+solve
+root
+left
+int
+rHeight
+solve
+root
+right
+int
+lchk
+int
+rchk
+root
+left
+nullptr
+root
+left
+val
+root
+val
+lchk
+lHeight
+root
+right
+nullptr
+root
+right
+val
+root
+val
+rchk
+rHeight
+res
+max
+res
+lchk
+rchk
+return
+max
+lchk
+rchk
+int
+longestSamevaluePath
+Node
+root
+root
+nullptr
+return
+solve
+root
+return
+res
+int
+main
+Node
+root
+nullptr
+root
+newNode
+root
+left
+newNode
+root
+right
+newNode
+root
+left
+left
+newNode
+root
+left
+right
+newNode
+root
+right
+right
+newNode
+cout
+longestSamevaluePath
+root
+endl
+return
+Run
+#include
+<stdio.h>
+#include
+<stdlib.h>
+struct
+Node
+int
+val
+struct
+Node
+left
+struct
+Node
+right
+struct
+Node
+newNode
+int
+data
+struct
+Node
+temp
+struct
+Node
+malloc
+sizeof
+struct
+Node
+));
+temp
+val
+data
+temp
+left
+temp
+right
+NULL
+return
+temp
+int
+res
+int
+solve
+struct
+Node
+root
+root
+NULL
+return
+int
+lHeight
+solve
+root
+left
+int
+rHeight
+solve
+root
+right
+int
+lchk
+int
+rchk
+root
+left
+NULL
+root
+left
+val
+root
+val
+lchk
+lHeight
+root
+right
+NULL
+root
+right
+val
+root
+val
+rchk
+rHeight
+res
+res
+lchk
+rchk
+res
+lchk
+rchk
+return
+lchk
+rchk
+lchk
+rchk
+int
+longestSamevaluePath
+struct
+Node
+root
+root
+NULL
+return
+solve
+root
+return
+res
+int
+main
+struct
+Node
+root
+NULL
+root
+newNode
+root
+left
+newNode
+root
+right
+newNode
+root
+left
+left
+newNode
+root
+left
+right
+newNode
+root
+right
+right
+newNode
+printf
+"%d\n"
+longestSamevaluePath
+root
+));
+return
+Get over 200+ course One Subscription
+Courses like AI/ML, Cloud Computing, Ethical Hacking, C, C++, Java, Python, DSA (All Languages), Competitive Coding (All Languages), TCS, Infosys, Wipro, Amazon, DBMS, SQL and others
+Get Prime
+Course List
+Course List
+Checkout list of all the video courses in PrepInsta Prime Subscription
+Checkout list of all the video courses in PrepInsta Prime Subscription
+Checkout
+Checkout
+Login/Signup
+to comment
+30+ Companies are Hiring
+Get Hiring Updates right in your inbox from PrepInsta
