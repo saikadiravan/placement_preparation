@@ -1,0 +1,214 @@
+```txt
+AMAZON SDE INTERVIEW ANALYSIS: INFOSYS
+
+This analysis compiles insights from GeeksforGeeks and InterviewBit regarding the Infosys SDE interview process, focusing on frequently asked DSA problems, System Design expectations (or lack thereof for entry-level), and Behavioral/Leadership Principles. PrepInsta provided no relevant content.
+
+---
+
+SITE: GeeksforGeeks
+
+GeeksforGeeks primarily focuses on Data Structures and Algorithms (DSA) problems, categorized by difficulty. It provides a comprehensive list of coding questions frequently asked in Infosys interviews.
+
+*   **Top Infosys Coding Questions (DSA):**
+
+    *   **Easy Level:**
+        *   Print first n Fibonacci Numbers
+        *   Find the first non-repeating character from a stream of characters
+        *   Best Time to Buy and Sell Stock (at most one transaction allowed)
+        *   Pair with given Sum (Two Sum)
+        *   Remove duplicates from Sorted Array
+        *   Sentence Palindrome (Palindrome after removing spaces, dots, etc.)
+        *   Sort string of characters
+        *   Program for addition of two matrices
+        *   Binary Search
+        *   Program for Armstrong Numbers
+        *   Area of Rectangle, Right Angled Triangle and Circle
+        *   Program to check if two given matrices are identical
+        *   Convert from any base to decimal
+        *   Celsius to Fahrenheit Conversion
+        *   Print 1 to n without using loops
+        *   Middle of Three
+        *   Binary representation
+        *   Greatest of three numbers
+        *   Number Of Open Doors
+        *   Maximum Possible Sum of Products
+        *   Check if given four points form a square
+        *   Overlapping rectangles
+        *   Sum of all prime numbers between 1 and N.
+        *   Check if a number is power of another number
+        *   Common Divisors
+        *   Perfect Number
+        *   Sum Palindrome
+        *   Remove common characters and concatenate
+        *   Check if string is rotated by two places
+        *   Check if date is valid
+        *   The Lazy Caterer's Problem
+        *   Program to print Sum Triangle for a given array
+        *   Party of Couples
+        *   Form largest number from digits
+        *   Print the left element
+        *   Tidy Number
+        *   Mean
+
+    *   **Medium Level:**
+        *   Longest Palindromic Substring
+        *   Allocate minimum number of pages
+        *   Reverse digits of an integer with overflow handled
+        *   Longest Increasing Subsequence
+        *   Next Permutation
+        *   Minimum number of jumps
+        *   Minimize the Heights II
+        *   Find the smallest positive integer value that cannot be represented as sum of any subset of a given array
+        *   Rotate Array
+        *   Minimum Platforms
+        *   House Robber
+        *   Max length chain
+        *   Find the element that appears once in a sorted array
+        *   Fractional Knapsack
+        *   Count Number of Nodes With Value One in Undirected Tree
+        *   Job Sequencing Problem
+        *   Minimum Cost Path
+        *   Number of subarrays having sum exactly equal to k
+        *   Find K-Avoiding Array
+        *   Generate Parentheses
+        *   Majority Element
+        *   Largest Number formed from an Array
+
+    *   **Hard Level:**
+        *   0 - 1 Knapsack Problem
+        *   Partition Equal Subset Sum
+        *   Wildcard Pattern Matching
+        *   Maximize cost of forming a set of words using given set of characters
+        *   Form a palindrome
+        *   Minimize refills to reach end of path
+        *   Matrix Chain Multiplication
+        *   Count Smaller elements
+        *   Minimum number of deletions.
+        *   Probability of Knight
+        *   Maximum sum of segments among all segments formed in array after Q queries
+        *   Longest Common Substring
+        *   Max rectangle
+        *   Find all distinct subset (or subsequence) sums
+        *   Find all possible palindromic partitions of a String
+
+*   **Top 5 DSA Topics (Based on problem frequency):**
+    1.  **Arrays:** Frequent problems involving searching, sorting, manipulation, and specific properties (e.g., Two Sum, Rotate Array, Majority Element).
+    2.  **Strings:** Palindrome checks, substring problems, character manipulation.
+    3.  **Dynamic Programming / Greedy:** Knapsack, Longest Increasing Subsequence, Minimum Jumps, Minimum Cost Path.
+    4.  **Basic Math/Logic:** Fibonacci, Armstrong, Primes, Number properties.
+    5.  **Linked Lists / Trees / Graphs:** While "high-end" trees/graphs are downplayed by InterviewBit, GfG lists "Count Number of Nodes With Value One in Undirected Tree" and "Matrix Chain Multiplication" which imply some graph/tree understanding. Basic concepts are a must.
+
+---
+
+SITE: InterviewBit
+
+InterviewBit provides a detailed overview of the Infosys recruitment process, specific technical questions, and behavioral expectations.
+
+*   **Infosys Recruitment Process:**
+    *   **Eligibility:** Minimum 60% marks in Class 10, Class 12, and graduation.
+    *   **Rounds:**
+        1.  **Online Assessment Test:**
+            *   **Sections:** Logical and Analytical Reasoning (data sufficiency, interpretation, visual, statement, syllogism), Quantitative Aptitude (time, permutation/combination, speed/distance, number series, algebra, probability), Verbal Ability (synonyms, antonyms, fill-in-blanks, sentence correction, vocabulary).
+            *   **Focus:** Speed and accuracy are vital. Difficulty is moderate.
+        2.  **Technical Interview:**
+            *   **Content:** Questions based on Resume and area of interest.
+            *   **Key Areas:** Sound knowledge of at least one programming language (C, C++, Java), computer fundamentals (Operating Systems, Data Structures, Algorithms), latest emerging technologies.
+            *   **Skills Tested:** Problem-solving (puzzles, aptitude), project/internship discussions.
+            *   **Preparation Tip:** Be clear, precise, confident, and well-groomed. Admit if you don't know an answer.
+        3.  **HR Interview:**
+            *   **Objective:** Assess cultural fit and sincerity.
+            *   **Content:** Background, education, hobbies, view of life, Infosys company-related questions, self-introduction, strengths, and weaknesses.
+            *   **Preparation Tip:** Good communication skills are key. Be cool and friendly. Research Infosys.
+    *   **Experienced Candidates:** Same process, but may involve two or more technical interviews for critical roles. Questions are generally tougher than for freshers.
+
+*   **Technical Interview Questions (Specific Topics):**
+
+    *   **Object-Oriented Programming (OOP) in Java:**
+        *   Explain four major OOP concepts in Java (Encapsulation, Abstraction, Inheritance, Polymorphism).
+        *   Can we implement multiple inheritances in Java? (Achieved via interfaces).
+        *   How method overloading is different from method overriding?
+        *   Distinguish between classes and interfaces in Java.
+    *   **SQL/Database Concepts:**
+        *   What are DDL and DML commands in SQL? (CREATE, ALTER, DROP, TRUNCATE vs. INSERT, UPDATE, DELETE).
+        *   Differentiate between TRUNCATE and DELETE commands in SQL.
+        *   Why indexing in SQL is useful?
+        *   Differentiate between DDL and DML commands in SQL.
+        *   What is the left outer join and the right outer join in SQL?
+        *   What is a stored procedure?
+    *   **C++:**
+        *   Explain pointers in C++.
+        *   What is meant by a null pointer?
+        *   Write a C++ program to check whether a number is palindrome or not.
+        ```cpp
+        /* A palindrome number is a number that remains same after reversing the digits. */
+        #include <iostream.h>
+        #include <conio.h>
+        void main() {
+            int num, n, rem, rev=0;
+            clrscr();
+            cout << "Enter a number:";
+            cin >> num;
+            n=num; //Used for comparision after reversal of a number
+            while (num > 0) {
+                /* In this block, we retrieve each digit from a given number and will get the reversed number at the end stored at rev variable. */
+                rem = num % 10;
+                rev = (rev * 10) + rem;
+                num = num / 10;
+            }
+            if (n == rev) //Comparing given number with reversed number
+                cout << n << " is a palindrome." << endl;
+            else
+                cout << n << " is not a palindrome." << endl;
+            getch();
+        }
+        ```
+    *   **Software Engineering Concepts:**
+        *   What is SDLC (Software Development Life Cycle)? (Requirements, Planning, Definition, Design, Development, Testing, Deployment, Maintenance, Support).
+        *   What are the disadvantages of the Waterfall model?
+        *   Explain about Agile model.
+    *   **General Computer Science:**
+        *   What is DLL and EXE file extension?
+        *   What is a frame in HTML?
+        *   Differentiate between white box and black box testing.
+        *   Explain different levels of programming languages (Low-level, Assembly, Middle-level (C/C++), High-level (Java, Python)).
+
+*   **Behavioral / Leadership Principles (LP) & Company-Specific Questions:**
+
+    *   **Must-Know LP / Behavioral Themes:**
+        1.  **Why do you want to join Infosys?** (Demonstrate company research, alignment with values, career goals).
+        2.  **Why should we hire you?** (Highlight skills, potential contribution, enthusiasm).
+        3.  **What qualifications and personal skills does Infosys normally look for in freshers?** (Learnability, analytical ability, communication skills, teamwork, leadership skills, ability to innovate).
+        4.  **Strengths and Weaknesses:** (Self-awareness and growth mindset).
+        5.  **Understanding Infosys Culture:** (Open-minded, minimal hierarchy, transparent, employee-centric, work-life balance).
+    *   **Other FAQs:**
+        *   How many rounds are there in Infosys placement? (Normally 3).
+        *   What is special about Infosys? (Indian company, world-class campus/training, employee care, values).
+        *   How is Infosys interview for experienced? (2 rounds, potentially more technical for critical roles).
+        *   What is InfyTQ certification? (Infosys platform for job/certification, tests Programming and Databases).
+        *   How do I qualify for InfyTQ? (BE, B.Tech, ME, M.Tech, MCA, MSc, MCM; no backlogs; min 60% academics; >65% in InfyTQ exam for SE role).
+        *   What additional benefits do employees avail at Infosys? (Healthcare, entertainment, insurance, paid leaves, campus facilities, career growth, training).
+        *   Is Infosys Interview easy? (Moderate difficulty, crackable with good technical and communication skills).
+        *   Does Infosys require a degree? (Commonly yes, but now also hires based on relevant certifications).
+        *   What is the salary for freshers in Infosys? (Rs. 2-5 Lakhs per annum, average Rs. 3.2 Lakhs).
+
+*   **System Design Expectations:**
+    *   For entry-level SDE roles at Infosys, System Design is generally *not* a primary focus. The content heavily emphasizes DSA, core programming concepts, and fundamental computer science topics. There's no mention of distributed systems, scalability, or architecture design.
+
+---
+
+SITE: PrepInsta
+
+PrepInsta content provided was a user comment regarding a mock test and contained no relevant interview preparation material.
+
+---
+
+**Overall Summary for Infosys SDE Interview:**
+
+The Infosys SDE interview process, especially for freshers, is primarily focused on foundational computer science knowledge.
+
+*   **DSA is Crucial:** GeeksforGeeks highlights a vast array of DSA problems across easy, medium, and hard difficulties, indicating that strong problem-solving skills are paramount. Key areas include Arrays, Strings, Dynamic Programming, and basic data structures like Linked Lists, Stacks, and Queues.
+*   **Core CS Fundamentals:** InterviewBit emphasizes a solid understanding of at least one programming language (Java, C, C++), OOP concepts, Database Management Systems (SQL), Operating Systems, and Software Engineering principles (SDLC, Agile, Testing).
+*   **No Explicit System Design:** For entry-level roles, System Design is not mentioned as a core expectation. The focus is on individual problem-solving and fundamental technical knowledge.
+*   **Behavioral/HR is Standard:** Expect questions about your motivation for joining Infosys, self-assessment (strengths/weaknesses), and general fit for the company culture. Infosys values "learnability," analytical ability, communication, teamwork, leadership, and innovation in freshers.
+*   **Online Assessment Gateway:** The initial online assessment tests logical, quantitative, and verbal aptitude, acting as a crucial filter before technical rounds.
+*   **Preparation is Key:** Both sources stress the importance of thorough preparation, mock tests, and clear communication during interviews.

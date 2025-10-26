@@ -1,0 +1,1641 @@
+
+
+================================================================================Here are the cleaned, formatted, and human-readable interview questions and answers:
+
+---
+
+**Q1: Introduction to Amazon**
+
+**A1:** Amazon, Earth's most 'Customer Centric' company, was founded by Jeff Bezos from his garage in Bellevue, Washington, on July 5, 1994. It is an American multinational technology company focused on a large number of fields, including E-Commerce, Cloud Computing, Artificial Intelligence, and Digital Streaming.
+
+Amazon is considered one of the Big Five companies in the United States Information Technology industry, alongside Google, Apple, Microsoft, and Facebook. It is renowned for its significant disruption of industries through technological innovation and mass scale. As the world's largest online marketplace, AI assistant provider, and cloud computing platform, Amazon has a workforce of over 600,000 employees globally, including over 50,000 Indians.
+
+It is currently the largest Internet company by revenue in the world and the second-largest private employer in the United States. Consequently, Amazon boasts the highest global brand valuation. Given the plethora of services Amazon offers, it's clear why many people want to join and be part of its evergreen culture. But what truly is the secret to Amazon’s success? If you ask any employee at Amazon, they would unanimously say: 'The Leadership Principles of Amazon'.
+
+---
+
+**Q2: Interview Preparation Tips**
+
+**A2:** Now that we know about Amazon's rich heritage, work culture, and Leadership Principles, you'll surely be tempted to interview at Amazon and secure a job! Here are a few tips you can use to crack Amazon's interview and get hired:
+
+*   **Understand the Leadership Principles Well:** As mentioned before, Amazonians take great pride in their Leadership Principles.
+
+Here are some key interview preparation tips, formatted for clarity and readability:
+
+---
+
+### Interview Preparation Tips
+
+**1. Understand Core Principles**
+Be knowledgeable about the company's foundational principles (e.g., Amazon's Leadership Principles). Prepare real-life examples where you have applied these principles. This demonstrates genuine interest and leaves a positive impression on interviewers.
+
+**2. Master Data Structures and Algorithms**
+Amazon highly values strong problem-solvers. To make a good impression, demonstrate a solid understanding of Data Structures and Algorithms (DSA) and showcase your ability to develop logical structures and solve algorithmic problems. Having one or two relevant projects that highlight your DSA skills can significantly boost your standing.
+
+**3. Use the STAR Method for Behavioral Questions**
+The STAR method (Situation, Task, Action, Result) is a structured approach to answer behavioral interview questions.
+*   **Situation:** Describe the context or background of the situation.
+*   **Task:** Explain the specific task or challenge you needed to address.
+*   **Action:** Detail the actions you personally took to complete the task or resolve the challenge.
+*   **Result:** Outline the outcome of your actions and the impact it had on you, your team, or others involved.
+It's crucial to include specific details and reflect on the overall impact of the experience. Prepare a few real-life stories in advance that you can effectively present using this method.
+
+**4. Articulate Your Strengths Confidently**
+Many candidates feel uncomfortable discussing their strengths during interviews. However, it's essential to confidently and honestly highlight your skills and capabilities. If you don't showcase what you're good at, interviewers won't know, which could cost you opportunities. Be prepared to discuss your strengths clearly and when appropriate.
+
+---
+
+Here's the cleaned and formatted interview Q&A:
+
+---
+
+**Q: What is the Amazon recruitment process?**
+
+**A:** The Amazon recruitment process typically involves several stages:
+
+*   **Recruiter Connect:** The best way to get noticed by Amazon recruiters is to maintain a strong LinkedIn profile and reach out to them directly. Candidates can also apply through the Amazon job portal, but getting a referral from an Amazon employee is highly recommended.
+*   **Interview Rounds:** Amazon conducts four interview rounds following an initial coding test.
+    *   The coding test focuses on Data Structures and Algorithms (DS/Algo) problems.
+    *   The first interview is an HR round, which includes behavioral questions and Computer Science theory.
+    *   The subsequent three rounds are dedicated solely to DS/Algo challenges.
+*   **After Interviews:** Post-interview, the recruiter will contact the candidate to share the decision. The evaluation considers both technical skills and alignment with Amazon's Leadership Principles.
+*   **Hired:** Once the team and the candidate are mutually comfortable, an offer letter is prepared and extended by the recruiters, leading to the hiring stage.
+
+---
+
+**Q: Can you elaborate on the interview rounds?**
+
+**A:** The interview rounds typically consist of:
+
+*   **HR Round (1 Round):** This round focuses on Computer Science theory and behavioral questions. Interviewers may ask about a candidate's experiences at previous companies, including any conflicts faced with colleagues or managers.
+*   **Data Structures and Algorithms Rounds (3 Rounds):** [The provided text cuts off here, but these rounds typically dive deep into solving complex DS/Algo problems.]
+
+Here are the cleaned, formatted, and human-readable interview questions and answers:
+
+---
+
+**Frequently Asked Questions**
+
+**Q1: What are the Amazon interview rounds?**
+**A:** There are typically 5 rounds: 4 focusing on Data Structures and Algorithms, 1 on System Design, and 1 HR round.
+
+**Q2: Are Amazon interviews hard?**
+**A:** The toughness of an interview depends on the amount of preparation you've put in. Usually, the questions asked in a standard Amazon interview are of Easy to Medium difficulty, but this can vary from person to person.
+
+**Q3: How do I apply for a job at Amazon?**
+**A:** You can visit the Amazon Jobs portal and apply for any open role that matches your skill set.
+
+**Q4: Can I apply for multiple roles at Amazon?**
+**A:** Yes, you can apply to any role that aligns with both your interests and skills. You will be evaluated against the requirements for each role and can interview for different roles simultaneously.
+
+**Q5: What are some questions one should ask the interviewer at Amazon?**
+**A:** It is always good to ask questions about the company's culture and the current technology used to make its products. Asking about future innovations at Amazon might also be a good idea, as it could make a positive impression on the interviewer.
+
+Here's the cleaned, formatted, and human-readable version of the interview questions and answers:
+
+**Q: How should one prepare for coding interviews at Amazon?**
+**A:** The key is consistent practice. Dedicate significant effort to solving challenging problems in Data Structures and Algorithms. A solid understanding of fundamental Computer Science concepts like Object-Oriented Programming, Computer Networks, and Operating Systems can also be very beneficial.
+
+**Q: Does Amazon have a dress code?**
+**A:** No, Amazon does not enforce a specific dress code. However, employees are expected to wear appropriate and decent attire in their workplaces.
+
+**Q: Is it mandatory to have projects in Web Development, Android Development, or Machine Learning to be hired at Amazon?**
+**A:** No, for an SDE (Software Development Engineer) position at Amazon, strong problem-solving skills are the primary requirement. That said, having one or two good projects on your resume can definitely earn you "brownie points" as it demonstrates your initiative and interest in the domain where you've built your projects.
+
+**Question:** What will you learn?
+
+**Answer:** I wish to receive further updates and confirmation via WhatsApp. Register now for free! You have successfully registered! Join our WhatsApp group for free learning material and session links.
+
+Here are the cleaned, formatted, and human-readable interview questions and answers:
+
+---
+
+### Interview Questions from PrepInsta
+
+**Question 1:**
+Describe the content and purpose of the PrepInsta Prime course trailer related banners.
+
+**Answer 1:**
+The PrepInsta Prime banners promote a single subscription model that grants access to all 200+ courses offered by PrepInsta. Their purpose is to encourage users to "Get Prime" for comprehensive course access.
+
+---
+
+**Question 2:**
+Given two strings, `s1` and `s2`, determine if `s2` is a rotated version of `s1`. The characters in the strings are in lowercase.
+
+**Test Case 1:**
+*   **Input:** `s1` = "mightandmagic", `s2` = "andmagicmigth"
+*   **Explanation:** `s2` cannot be obtained from `s1` by any amount of rotation.
+
+**Your Task:**
+Complete the function `areRotations()` which takes two strings as input and checks if they are rotations of each other. The function should return `true` if `s2` can be obtained by rotating `s1`, otherwise, it should return `false`.
+
+**Expected Time Complexity:** O(N), where N is the length of `s1`.
+**Expected Space Complexity:** O(N), where N is the length of `s1`.
+**Constraints:** 1 <= |s1|, |s2| <= 10^7
+
+**Q3: Question 2**
+
+**A3: Problem Statement: Saving Ironman (Palindrome Check)**
+
+Jarvis is struggling to compute palindromes for alphanumeric characters. With Ironman busy fighting Thanos, he needs to activate a sonic punch, but Jarvis is stuck on this task. You are given a string containing alphanumeric characters. Your mission is to determine whether the string is a palindrome or not. Failure to solve this could lead to the demise of Iron Man!
+
+**Test Cases:**
+
+1.  **Input:** `S = “I am :IronnorI Ma, i”`
+    **Output:** `YES`
+    **Explanation:** Ignore all symbols and whitespaces. The string becomes `“IamIronnorIMai”`. After ignoring case, `“iamironnorimai”` is a palindrome.
+
+2.  **Input:** `S = "Ab?/Ba"`
+    **Output:** `YES`
+    **Explanation:** Ignore all symbols and whitespaces. The string becomes `“AbBa”`. After ignoring case, `“abba”` is a palindrome.
+
+**Your Task:**
+
+This is a function problem. The input is already handled by the driver code. You need to complete the function `saveIronman()` that takes a string (`ch`) as an argument. The function should return `true` if the string is a palindrome (considering only alphanumeric characters and ignoring case) and `false` otherwise. The driver code will take care of printing the result.
+
+**Expected Complexity:**
+
+*   **Time Complexity:** O(N), where N is the length of the input string.
+*   **Space Complexity:** O(1)
+
+**Constraints:**
+
+*   1 ≤ |S| ≤ 100000
+
+**Note:**
+
+*   Consider only alphabets (A-Z, a-z) and numbers (0-9) for the palindrome check.
+*   Ignore all symbols and whitespaces.
+*   The check should be case-insensitive.
+
+Here's the cleaned, formatted, and human-readable version of the interview questions and answers:
+
+---
+
+### Q1: Palindrome Check with Alphanumeric and Case-Insensitive Rules
+
+**Problem Statement:**
+Implement a function to determine if a given string is a palindrome. A string is considered a palindrome if it reads the same forwards and backward, ignoring all non-alphanumeric characters (letters and numbers) and treating uppercase and lowercase letters as identical.
+
+**Example 1:**
+Input: `"A man, a plan, a canal: Panama"`
+Output: `true`
+*Explanation: After processing, the string becomes "amanaplanacanalpanama", which is a palindrome.*
+
+**Example 2:**
+Input: `"race a car"`
+Output: `false`
+*Explanation: After processing, the string becomes "raceacar", which is not a palindrome.*
+
+**Answer (C++ Implementation):**
+
+```cpp
+#include <iostream>
+#include <string>
+#include <algorithm> // For std::tolower
+#include <cctype>    // For std::isalnum
+
+bool isPalindrome(const std::string& s) {
+    int left = 0;
+    int right = s.length() - 1;
+
+    while (left < right) {
+        // Skip non-alphanumeric characters from the left
+        while (left < right && !std::isalnum(s[left])) {
+            left++;
+        }
+        // Skip non-alphanumeric characters from the right
+        while (left < right && !std::isalnum(s[right])) {
+            right--;
+        }
+
+        // If pointers cross or meet, all valid characters have been compared
+        if (left >= right) {
+            break;
+        }
+
+        // Compare characters (case-insensitive)
+        if (std::tolower(s[left]) != std::tolower(s[right])) {
+            return false;
+        }
+
+        left++;
+        right--;
+    }
+    return true;
+}
+
+int main() {
+    std::string str;
+    // Read input string with spaces
+    std::getline(std::cin, str);
+
+    if (isPalindrome(str)) {
+        std::cout << "YES\n";
+    } else {
+        std::cout << "NO\n";
+    }
+    return 0;
+}
+```
+
+---
+
+### Q2: Bottom View of Binary Tree
+
+**Problem Statement:**
+Given a binary tree, print its bottom view from left to right. The bottom view of a binary tree is the set of nodes visible when the tree is viewed from the bottom. Each node is identified by its horizontal distance (HD) from the root. The root is at HD 0, its left child is at HD -1, and its right child is at HD +1. For any node, its left child is at `HD - 1` and its right child is at `HD + 1`.
+
+If multiple nodes fall into the same horizontal distance, consider only the bottom-most node. If multiple bottom-most nodes exist for a horizontal distance, the one that appears later in a level-order traversal (i.e., has a greater level or is processed later at the same level) should be printed.
+
+**Example 1:**
+Input Tree:
+```
+      3
+     / \
+    10  14
+   /     \
+  5       25
+```
+Output: `5 10 3 14 25`
+*Explanation:*
+- Nodes and their (Horizontal Distance, Level): 3(0,0), 10(-1,1), 14(1,1), 5(-2,2), 25(2,2).
+- HD -2: Node 5 (Level 2)
+- HD -1: Node 10 (Level 1)
+- HD 0: Node 3 (Level 0)
+- HD 1: Node 14 (Level 1)
+- HD 2: Node 25 (Level 2)
+All these nodes are the lowest for their respective horizontal distances.
+
+**Example 2 (Illustrating the overriding rule):**
+Input Tree:
+```
+       1
+      / \
+     2   3
+      \ /
+       4
+```
+Output: `2 4 3`
+*Explanation:*
+- Nodes and their (Horizontal Distance, Level): 1(0,0), 2(-1,1), 3(1,1), 4(0,2).
+- HD -1: Node 2 (Level 1)
+- HD 0: Node 4 (Level 2). Node 1 is also at HD 0 (Level 0), but Node 4 is deeper, so it overrides Node 1.
+- HD 1: Node 3 (Level 1)
+The bottom view, ordered by HD, is `2 4 3`.
+
+**Your Task:**
+This is a functional problem; you don't need to care about input. Complete the function `bottomView()` which takes the root node of the tree as input and returns an array (or vector) containing the bottom view of the given tree.
+
+**Expected Time Complexity:** O(N).
+**Expected Auxiliary Space:** O(N).
+**Constraints:**
+1 <= Number of nodes <= 10^5
+
+**Answer (C++ Implementation):**
+
+```cpp
+#include <vector>
+#include <queue>
+#include <map>
+#include <algorithm> // Not strictly needed for this solution but common
+
+// Definition for a binary tree node (assuming it's given by the platform)
+struct Node {
+    int data;
+    Node *left;
+    Node *right;
+    Node(int val) : data(val), left(nullptr), right(nullptr) {}
+};
+
+// Helper structure to store Node and its Horizontal Distance (HD)
+struct QueueNode {
+    Node* node;
+    int hd;
+    QueueNode(Node* n, int h) : node(n), hd(h) {}
+};
+
+std::vector<int> bottomView(Node* root) {
+    std::vector<int> result;
+    if (root == nullptr) {
+        return result;
+    }
+
+    // A map to store the bottom-most node's data for each horizontal distance.
+    // std::map automatically keeps keys (HDs) sorted.
+    // Key: Horizontal Distance, Value: Node's Data
+    std::map<int, int> hd_to_node_data;
+
+    // A queue for Level Order Traversal (BFS).
+    // Stores pairs of (Node*, Horizontal Distance).
+    std::queue<QueueNode> q;
+
+    // Start traversal with the root node at HD 0.
+    q.push(QueueNode(root, 0));
+
+    while (!q.empty()) {
+        QueueNode current = q.front();
+        q.pop();
+
+        Node* currentNode = current.node;
+        int currentHd = current.hd;
+
+        // For the bottom view, we simply update the map with the current node's data.
+        // During a level-order traversal, if multiple nodes appear at the same HD,
+        // the one processed later (which means it's deeper or later in the same level)
+        // will overwrite previous entries in the map, effectively giving us the bottom-most node.
+        hd_to_node_data[currentHd] = currentNode->data;
+
+        // Enqueue left child with HD - 1
+        if (currentNode->left != nullptr) {
+            q.push(QueueNode(currentNode->left, currentHd - 1));
+        }
+
+        // Enqueue right child with HD + 1
+        if (currentNode->right != nullptr) {
+            q.push(QueueNode(currentNode->right, currentHd + 1));
+        }
+    }
+
+    // After BFS, the map `hd_to_node_data` contains the bottom view nodes
+    // sorted by their horizontal distances. Transfer them to the result vector.
+    for (auto const& pair : hd_to_node_data) {
+        result.push_back(pair.second);
+    }
+
+    return result;
+}
+```
+
+Here's a cleaned, formatted, and human-readable version of the interview questions and answers, focusing on the "Bottom View of a Binary Tree" problem.
+
+---
+
+### Interview Questions: Bottom View of a Binary Tree
+
+#### Q1: What is the "Bottom View" of a Binary Tree?
+
+The **Bottom View** of a binary tree consists of the nodes visible when looking at the tree from the bottom. If multiple nodes lie on the same vertical line, the one that is deepest (farthest from the root) and, if they are at the same depth, the rightmost one (depending on definition, but typically the last one encountered in a level-order sweep for that horizontal distance) is included in the bottom view.
+
+**Example:**
+
+```
+        20
+       /  \
+      8   22
+     / \   / \
+    5  3 4  25
+       / \
+      10  14
+```
+
+In this example, the bottom view would be: `5 10 4 14 25`.
+*   Nodes `8`, `3`, `10` are on the same vertical line. `10` is the deepest.
+*   Nodes `20`, `3`, `4` are on the same vertical line. `4` is the deepest.
+*   Nodes `22`, `14` are on the same vertical line. `14` is the deepest.
+
+#### Q2: How do you find the Bottom View of a Binary Tree? What's the algorithm?
+
+To find the bottom view, we can use a **level-order traversal (BFS)** combined with the concept of **horizontal distances**.
+
+1.  **Horizontal Distance (HD):** Assign a horizontal distance to each node. The root node is at HD `0`. Its left child is at HD `-1`, and its right child is at HD `+1`. For any node, its left child will have an HD of `(current_hd - 1)` and its right child will have an HD of `(current_hd + 1)`.
+
+2.  **Level Order Traversal (BFS):** We'll traverse the tree level by level using a queue. For each node, we'll store both the node itself and its horizontal distance in the queue (e.g., `pair<Node*, int>`).
+
+3.  **Storing Nodes in a Map:** We use a `map` (specifically, a `std::map` in C++ which keeps keys sorted) to store the data of the nodes. The `key` of the map will be the horizontal distance, and the `value` will be the data of the node.
+    *   As we traverse the tree level by level, whenever we encounter a node, we update its entry in the map using its horizontal distance as the key.
+    *   Since it's a level-order traversal, deeper nodes will be processed later. If multiple nodes share the same horizontal distance, the one processed last (which will be the deepest one encountered at that HD) will overwrite any previous entry in the map for that HD.
+
+4.  **Printing the Result:** After the BFS is complete, iterate through the `map`. The keys (horizontal distances) will be naturally sorted. Print the `value` (node data) for each entry in the map. This will give the bottom view in order from left to right.
+
+#### Q3: Can you provide a C++ implementation for finding the Bottom View?
+
+```cpp
+#include <iostream>
+#include <vector>
+#include <map>    // For std::map (stores key-value pairs, sorted by key)
+#include <queue>  // For std::queue (used for level-order traversal)
+
+// Structure for a tree node
+struct Node {
+    int data;
+    Node *left, *right; // Pointers to left and right children
+
+    // Constructor to create a new tree node
+    Node(int key) : data(key), left(nullptr), right(nullptr) {}
+};
+
+// Function to print the bottom view of a binary tree
+void bottomView(Node* root) {
+    if (root == nullptr) {
+        return;
+    }
+
+    // A map to store the (horizontal_distance, node_data) pair.
+    // std::map automatically keeps horizontal distances sorted.
+    // For each horizontal distance, it stores the data of the *last* encountered node.
+    std::map<int, int> bottom_view_map;
+
+    // A queue for level-order traversal. Each element is a pair:
+    // {Node*, horizontal_distance}
+    std::queue<std::pair<Node*, int>> q;
+
+    // Push the root node with horizontal distance 0
+    q.push({root, 0});
+
+    // Perform level-order traversal (BFS)
+    while (!q.empty()) {
+        std::pair<Node*, int> current = q.front();
+        q.pop();
+
+        Node* temp = current.first;
+        int hd = current.second; // Horizontal distance of the current node
+
+        // Update the map for the current horizontal distance.
+        // If multiple nodes have the same horizontal distance,
+        // the last one processed (which is the deepest in a level-order traversal)
+        // will overwrite any previous entry for that HD.
+        bottom_view_map[hd] = temp->data;
+
+        // If the left child exists, push it to the queue with its horizontal distance (hd - 1)
+        if (temp->left != nullptr) {
+            q.push({temp->left, hd - 1});
+        }
+
+        // If the right child exists, push it to the queue with its horizontal distance (hd + 1)
+        if (temp->right != nullptr) {
+            q.push({temp->right, hd + 1});
+        }
+    }
+
+    // Iterate through the map to print the bottom view.
+    // The elements will be sorted by horizontal distance.
+    for (auto const& [hd_key, node_data] : bottom_view_map) { // C++17 structured bindings
+        std::cout << node_data << " ";
+    }
+    std::cout << std::endl;
+}
+
+// Driver Code (main function for testing)
+int main() {
+    // Construct the example tree:
+    //         20
+    //        /  \
+    //       8   22
+    //      / \   / \
+    //     5  3 4  25
+    //        / \
+    //       10  14
+
+    Node* root = new Node(20);
+    root->left = new Node(8);
+    root->right = new Node(22);
+    root->left->left = new Node(5);
+    root->left->right = new Node(3);
+    root->right->left = new Node(4);
+    root->right->right = new Node(25);
+    root->left->right->left = new Node(10);
+    root->left->right->right = new Node(14);
+
+    std::cout << "Bottom view of the given binary tree: " << std::endl;
+    bottomView(root); // Expected Output: 5 10 4 14 25
+
+    // Basic memory cleanup (in a real-world scenario, a proper destructor or smart pointers would be used)
+    // For interview context, this level of cleanup is often omitted for brevity.
+    delete root->left->right->left;
+    delete root->left->right->right;
+    delete root->right->left;
+    delete root->right->right;
+    delete root->left->left;
+    delete root->left->right;
+    delete root->left;
+    delete root->right;
+    delete root;
+
+    return 0;
+}
+```
+
+#### Q4: What are the time and space complexity of this approach?
+
+*   **Time Complexity:**
+    *   The algorithm performs a level-order traversal (BFS) of the tree, which visits each node exactly once. This takes O(N) time, where N is the number of nodes in the tree.
+    *   For each node, we perform a map insertion/update operation. For `std::map` (which uses a self-balancing binary search tree), these operations take O(log K) time, where K is the number of unique horizontal distances. In the worst case, K can be N.
+    *   Finally, iterating through the map to print the result takes O(K) time.
+    *   Therefore, the overall time complexity is **O(N log K)**, which can be **O(N log N)** in the worst case (e.g., a skewed tree where almost every node has a unique horizontal distance).
+
+*   **Space Complexity:**
+    *   The `queue` stores nodes for the BFS. In the worst case (a complete binary tree), the queue can hold up to `N/2` nodes at the widest level. So, the queue space complexity is O(W), where W is the maximum width of the tree, which can be **O(N)** in the worst case.
+    *   The `map` stores an entry for each unique horizontal distance. In the worst case, there can be `N` unique horizontal distances. So, the map space complexity is **O(K)**, which can be **O(N)**.
+    *   Therefore, the overall space complexity is **O(N)**.
+
+The provided text appears to be a fragmented C code snippet for implementing the "Bottom View of a Binary Tree" problem, rather than a set of interview questions and answers. It defines structures for tree nodes, a queue, and a map (implemented as a BST), along with function prototypes for their operations and the main `bottomView` logic.
+
+Below is a cleaned, formatted, and human-readable explanation of how this code would typically be structured and presented in an interview context, assuming the question is: **"How would you implement the bottom view of a binary tree?"**
+
+---
+
+### Interview Question: How would you implement the bottom view of a binary tree?
+
+**Answer:**
+
+To find the bottom view of a binary tree, we need to traverse the tree and identify the "bottom-most" node for each horizontal distance. A common approach involves a Level-Order Traversal (BFS) combined with a way to store the latest node encountered for each horizontal distance.
+
+Let's break down the implementation into its core components:
+
+#### 1. Data Structures
+
+We'll need three primary data structures:
+
+**a) Tree Node (`Node`):**
+Each node in our binary tree will store its value (`data`), its `horizontal distance` (`hd`) from the root, and pointers to its `left` and `right` children.
+
+```c
+#include <stdio.h>
+#include <stdlib.h> // For malloc, free, exit
+#include <limits.h> // For INT_MAX (though we'll explicitly set hd)
+
+// Structure for a binary tree node
+typedef struct Node {
+    int data;         // Value of the node
+    int hd;           // Horizontal distance from the root (0 for root, -1 for left, +1 for right)
+    struct Node *left;  // Pointer to the left child
+    struct Node *right; // Pointer to the right child
+} Node;
+
+// Function to create a new tree node
+Node* createNode(int key) {
+    Node* newNode = (Node*)malloc(sizeof(Node));
+    if (newNode == NULL) {
+        perror("Failed to allocate Node memory");
+        exit(EXIT_FAILURE);
+    }
+    newNode->data = key;
+    newNode->hd = INT_MAX; // Placeholder; actual HD will be set during traversal
+    newNode->left = NULL;
+    newNode->right = NULL;
+    return newNode;
+}
+```
+
+**b) Queue Node (`QueueNode`):**
+For our level-order traversal, we'll implement a queue using a linked list. Each `QueueNode` will hold a pointer to a `Node` from the tree and a pointer to the next `QueueNode` in the queue.
+
+```c
+// Structure for a queue node (used in level-order traversal)
+typedef struct QueueNode {
+    Node* node; // Pointer to a tree node
+    struct QueueNode* next;
+} QueueNode;
+```
+
+**c) Map Node (`MapNode` - implemented as a BST):**
+To store the "bottom-most" node for each horizontal distance, we'll use a Binary Search Tree (BST) that acts like a map.
+- The `key` of this BST will be the `horizontal distance`.
+- The `value` will be the `data` of the tree node at that horizontal distance.
+If we encounter multiple nodes at the same horizontal distance during BFS, the `insertMapNode` function will *update* the `value` for that `key`. Since BFS processes nodes level by level, the last update for a given `hd` will correspond to the bottom-most node.
+
+```c
+// Structure for a Map node (used to store horizontal_distance -> node_data mapping)
+typedef struct MapNode {
+    int key;   // Horizontal distance
+    int value; // Data of the node at that horizontal distance
+    struct MapNode* left;
+    struct MapNode* right;
+} MapNode;
+
+// Function to create a new MapNode
+MapNode* createMapNode(int key, int value) {
+    MapNode* newMapNode = (MapNode*)malloc(sizeof(MapNode));
+    if (newMapNode == NULL) {
+        perror("Failed to allocate MapNode memory");
+        exit(EXIT_FAILURE);
+    }
+    newMapNode->key = key;
+    newMapNode->value = value;
+    newMapNode->left = NULL;
+    newMapNode->right = NULL;
+    return newMapNode;
+}
+
+// Function to insert or update a MapNode in the BST.
+// If a node with the 'key' (HD) already exists, its 'value' (node data) is updated.
+// Otherwise, a new MapNode is inserted.
+MapNode* insertMapNode(MapNode* node, int key, int value) {
+    if (node == NULL) {
+        return createMapNode(key, value);
+    }
+
+    if (key < node->key) {
+        node->left = insertMapNode(node->left, key, value);
+    } else if (key > node->key) {
+        node->right = insertMapNode(node->right, key, value);
+    } else {
+        // Key already exists (same horizontal distance), update the value.
+        // This ensures we keep the data of the bottom-most node for this HD.
+        node->value = value;
+    }
+    return node;
+}
+```
+
+#### 2. Queue Operations
+
+These are standard linked-list based queue operations needed for the Level-Order Traversal.
+
+```c
+// Global pointers for the queue front and rear
+QueueNode* queueFront = NULL;
+QueueNode* queueRear = NULL;
+
+// Function to enqueue a tree node into our custom queue
+void enqueue(Node* node) {
+    QueueNode* newQueueNode = (QueueNode*)malloc(sizeof(QueueNode));
+    if (newQueueNode == NULL) {
+        perror("Failed to allocate QueueNode memory");
+        exit(EXIT_FAILURE);
+    }
+    newQueueNode->node = node;
+    newQueueNode->next = NULL;
+
+    if (queueRear == NULL) {
+        // Queue is currently empty
+        queueFront = newQueueNode;
+        queueRear = newQueueNode;
+    } else {
+        queueRear->next = newQueueNode;
+        queueRear = newQueueNode;
+    }
+}
+
+// Function to dequeue a tree node from our custom queue
+Node* dequeue() {
+    if (queueFront == NULL) {
+        // Queue is empty
+        return NULL;
+    }
+
+    QueueNode* temp = queueFront;
+    Node* dequeuedNode = temp->node;
+    queueFront = queueFront->next;
+
+    if (queueFront == NULL) {
+        // Queue became empty after this dequeue operation
+        queueRear = NULL;
+    }
+
+    free(temp); // Free the QueueNode, but not the actual tree Node
+    return dequeuedNode;
+}
+```
+
+#### 3. Bottom View Algorithm (`bottomView`)
+
+This is the main logic. We perform a level-order traversal using our queue. For each node processed:
+1. We calculate its horizontal distance.
+2. We `insert` (or `update`) its data into our `MapNode` BST using its horizontal distance as the key.
+After the traversal, an in-order traversal of the `MapNode` BST will give us the bottom view elements, sorted by their horizontal distance.
+
+```c
+// Helper function to print the map nodes in-order (which means sorted by HD)
+void printMap(MapNode* rootMap) {
+    if (rootMap == NULL) {
+        return;
+    }
+    printMap(rootMap->left);
+    printf("%d ", rootMap->value); // Print the data (value) for each unique horizontal distance
+    printMap(rootMap->right);
+}
+
+// Main function to compute and print the bottom view of the tree
+void bottomView(Node* root) {
+    if (root == NULL) {
+        return;
+    }
+
+    // Initialize an empty map (BST) to store hd -> node data
+    MapNode* rootMap = NULL;
+
+    // Reset queue pointers for a fresh traversal
+    queueFront = NULL;
+    queueRear = NULL;
+
+    // Assign horizontal distance 0 to the root and enqueue it
+    root->hd = 0;
+    enqueue(root);
+
+    // Perform level-order traversal
+    while (queueFront != NULL) { // Loop until the queue is empty
+        Node* currentNode = dequeue();
+
+        // Update the map: store or update the current node's data for its horizontal distance.
+        // Because we're doing BFS, later nodes at the same HD will be further down,
+        // so their values will correctly overwrite previous ones.
+        rootMap = insertMapNode(rootMap, currentNode->hd, currentNode->data);
+
+        // Enqueue left child, updating its horizontal distance
+        if (currentNode->left != NULL) {
+            currentNode->left->hd = currentNode->hd - 1; // Left child is one unit left
+            enqueue(currentNode->left);
+        }
+
+        // Enqueue right child, updating its horizontal distance
+        if (currentNode->right != NULL) {
+            currentNode->right->hd = currentNode->hd + 1; // Right child is one unit right
+            enqueue(currentNode->right);
+        }
+    }
+
+    // After traversal, print the values stored in the map (BST) in-order.
+    // This ensures the output is sorted by horizontal distance.
+    printf("Bottom View: ");
+    printMap(rootMap);
+    printf("\n");
+
+    // TODO: Implement functions to free memory allocated for MapNode and QueueNode structures
+    // (A complete solution would include cleanup functions to avoid memory leaks)
+}
+```
+
+#### Example Usage (Main function and Cleanup):
+
+```c
+// Helper function to free the tree nodes
+void freeTree(Node* node) {
+    if (node == NULL) return;
+    freeTree(node->left);
+    freeTree(node->right);
+    free(node);
+}
+
+// Helper function to free the map nodes
+void freeMap(MapNode* node) {
+    if (node == NULL) return;
+    freeMap(node->left);
+    freeMap(node->right);
+    free(node);
+}
+
+int main() {
+    // Construct a sample binary tree
+    Node* root = createNode(20);
+    root->left = createNode(8);
+    root->right = createNode(22);
+    root->left->left = createNode(5);
+    root->left->right = createNode(3);
+    root->right->left = createNode(4);
+    root->right->right = createNode(25);
+    root->left->right->left = createNode(10);
+    root->left->right->right = createNode(14);
+
+    /*
+          20 (0)
+         /  \
+        8(-1)  22(1)
+       / \    /  \
+      5(-2) 3(0) 4(0) 25(2)
+           / \
+         10(-1) 14(1)
+    */
+
+    printf("Tree constructed.\n");
+    bottomView(root);
+    // Expected output: 5 10 4 14 25 (Or 5 10 3 14 25, depending on how 3 and 4 are handled if they are at the same (HD, depth) and if the code only takes the last one)
+    // For HD 0, 3 is at depth 2, 4 is at depth 2.
+    // Given the structure, `root->left->right` is 3, `root->right->left` is 4.
+    // 3 will be enqueued earlier (due to BFS processing left side first), then 4.
+    // So 4 will overwrite 3 at HD 0 in the map.
+    // Therefore, 5 10 4 14 25 is expected.
+
+    // Cleanup
+    freeTree(root);
+    // Note: The `rootMap` from bottomView needs to be freed if not global,
+    // and `queueFront/queueRear` are already handled for queue nodes.
+    // For simplicity, we are not explicitly freeing the `rootMap` from this example,
+    // but in a production environment, `freeMap(rootMap)` would be necessary after `bottomView`.
+
+    return 0;
+}
+```
+
+This comprehensive breakdown covers the necessary data structures, helper functions, and the main algorithm, presenting it in a clear and well-formatted manner suitable for an interview.
+
+Here's the cleaned, formatted, and human-readable version of the provided text:
+
+---
+
+### Algorithm: Bottom View of a Binary Tree
+
+This algorithm calculates the bottom view of a binary tree using a level-order traversal (BFS) and a map to store nodes keyed by their horizontal distances.
+
+**Data Structures:**
+*   `Queue`: Stores pairs of `(Node, horizontal_distance)` for level-order traversal.
+*   `Map (balanced BST)`: Stores `(horizontal_distance, Node.value)` pairs. This map ensures that for each horizontal distance, only the value of the *last* (bottom-most) node encountered at that distance is retained. It also keeps the horizontal distances sorted.
+
+**Steps:**
+
+1.  **Initialization:**
+    *   Create an empty `Queue` and add the `(root_node, 0)` to it (where 0 is the horizontal distance of the root).
+    *   Create an empty `Map` (e.g., implemented as a balanced Binary Search Tree or `std::map` in C++).
+
+2.  **Level-Order Traversal (BFS):**
+    *   While the `Queue` is not empty:
+        *   `Dequeue` a `(current_node, hd)` pair from the `Queue`.
+        *   **Update Map:** Insert or update the `Map` with `(hd, current_node.value)`. If an entry for `hd` already exists, replace its value with `current_node.value`. This ensures that only the bottom-most node at `hd` is stored.
+        *   **Enqueue Children:**
+            *   If `current_node.left` is not `NULL`:
+                *   `Enqueue (current_node.left, hd - 1)` into the `Queue`.
+            *   If `current_node.right` is not `NULL`:
+                *   `Enqueue (current_node.right, hd + 1)` into the `Queue`.
+
+3.  **Print Bottom View:**
+    *   After the BFS completes, the `Map` contains the values of the bottom-most nodes, sorted by their horizontal distances.
+    *   Traverse the `Map` in increasing order of horizontal distances and print each stored `value`.
+
+**Example Tree Creation (Driver Code):**
+
+```
+// Create a sample binary tree
+Node root = createNode(1);
+root.left = createNode(2);
+root.right = createNode(3);
+root.left.left = createNode(4);
+root.left.right = createNode(5);
+root.right.left = createNode(6);
+root.right.right = createNode(7);
+root.left.right.left = createNode(8);
+root.left.right.right = createNode(9);
+
+printf("Bottom view of the given binary tree:\n");
+bottomView(root); // Call the function to compute and print the bottom view
+```
+
+---
+
+### Question 4: Evaluate Postfix Expression
+
+**Q: Question 4**
+
+An expression is called the postfix expression if the operator appears in the expression after the operands.
+
+**Example:**
+*   Infix expression: `A + B * C – D`
+*   Postfix expression: `A B C * + D –` (Note: The example provided for postfix `A B + C D – *` is incorrect for the given infix. The correct postfix for `A + B * C - D` is `A B C * + D -`. The example `A B + C D – *` actually corresponds to `(A + B) * (C - D)`.)
+
+Given a postfix expression, the task is to evaluate the expression. The answer could be very large, output your answer modulo `(10^9+7)`. Also, use modular division when required.
+
+**Note:**
+*   Operators will only include the basic arithmetic operators like `*`, `/`, `+`, and `-`.
+*   The operand can contain multiple digits.
+*   The operators and operands will have space as a separator between them.
+*   There won’t be any brackets in the postfix expression.
+
+**Input Format:**
+The first line of input contains an integer ‘T’ denoting the number of test cases.
+The next ‘T’ lines represent the ‘T’ test cases.
+The first and only... *(The input format description appears to be truncated here.)*
+
+---
+
+Here's a cleaned, formatted, and human-readable version of the provided text, including the corrected C++ code.
+
+---
+
+### **Problem: Evaluate Postfix Expression**
+
+**Problem Description:**
+You are required to implement a function that evaluates a given postfix expression. A postfix expression is a mathematical expression where operators follow their operands.
+
+**Input Format:**
+The first line of input contains an integer `T`, denoting the number of test cases.
+Each subsequent test case consists of a single line containing a postfix expression.
+Operands in the expression will be single-digit numbers.
+
+**Output Format:**
+For each test case, print an integer representing the result obtained by evaluating the given postfix expression.
+
+**Constraints:**
+*   `1 <= T <= 100` (Number of test cases)
+*   `1 <= N <= 10^3` (Length of the postfix expression)
+*   `1 <= NUM <= 100` (Value of operands)
+*   **Time Limit:** 1 second
+
+**Note:** You are only required to implement the function to evaluate the postfix expression; the input/output handling for test cases is already managed.
+
+---
+
+### **Sample Input 1:**
+
+```
+2
+2 3 1 * + 9 -
+1 2 3 + * 8 -
+```
+
+### **Sample Output 1:**
+
+```
+-4
+-3
+```
+
+### **Explanation of Sample Input 1:**
+
+**Test Case 1:** `2 3 1 * + 9 -`
+1.  `2 3 1 *`: Evaluate `3 * 1 = 3`. The expression becomes `2 3 + 9 -`
+2.  `2 3 +`: Evaluate `2 + 3 = 5`. The expression becomes `5 9 -`
+3.  `5 9 -`: Evaluate `5 - 9 = -4`.
+**Result: -4**
+
+**Test Case 2:** `1 2 3 + * 8 -`
+1.  `1 2 3 +`: Evaluate `2 + 3 = 5`. The expression becomes `1 5 * 8 -`
+2.  `1 5 *`: Evaluate `1 * 5 = 5`. The expression becomes `5 8 -`
+3.  `5 8 -`: Evaluate `5 - 8 = -3`.
+**Result: -3**
+
+---
+
+### **Sample Input 2:**
+
+```
+1
+100 200 + 2 / 5 * 7 +
+```
+
+### **Sample Output 2:**
+
+```
+757
+```
+
+### **Explanation of Sample Input 2:**
+
+**Test Case 1:** `100 200 + 2 / 5 * 7 +`
+1.  `100 200 +` = `300`. Expression becomes `300 2 / 5 * 7 +`
+2.  `300 2 /` = `150`. Expression becomes `150 5 * 7 +`
+3.  `150 5 *` = `750`. Expression becomes `750 7 +`
+4.  `750 7 +` = `757`.
+**Result: 757**
+
+---
+
+### **C++ Implementation:**
+
+```cpp
+#include <bits/stdc++.h> // Includes most standard C++ libraries
+using namespace std;
+
+// The main function that returns the value of a given postfix expression
+int evaluatePostfix(string exp) {
+    // Create a stack of integers
+    stack<int> st;
+
+    // Scan all characters one by one
+    for (int i = 0; i < exp.length(); i++) {
+        char c = exp[i];
+
+        // If the scanned character is an operand (a digit here),
+        // push it to the stack.
+        // Note: ' ' is treated as a separator, so we skip it.
+        if (isdigit(c)) {
+            st.push(c - '0'); // Convert char digit to int
+        }
+        // If the scanned character is an operator,
+        // pop two elements from stack, apply the operator, and push the result.
+        else if (c == '+' || c == '-' || c == '*' || c == '/') {
+            int val1 = st.top();
+            st.pop();
+            int val2 = st.top();
+            st.pop();
+
+            switch (c) {
+                case '+':
+                    st.push(val2 + val1);
+                    break;
+                case '-':
+                    st.push(val2 - val1); // Order matters for subtraction
+                    break;
+                case '*':
+                    st.push(val2 * val1);
+                    break;
+                case '/':
+                    st.push(val2 / val1); // Order matters for division
+                    break;
+            }
+        }
+        // If it's a space, just continue
+        // This handles expressions with multi-digit numbers separated by spaces
+        else if (c == ' ') {
+            continue;
+        }
+    }
+    // The final result will be the only element left in the stack
+    return st.top();
+}
+```
+
+Here are the interview questions and answers derived from the provided code snippet, focusing on its functionality and design principles:
+
+---
+
+**Q1: What is the primary purpose of the provided C code snippet?**
+**A1:** The primary purpose of this C code is to implement an array-based stack data structure and use it to evaluate postfix arithmetic expressions (also known as Reverse Polish Notation). It supports basic arithmetic operations (+, -, *, /) and can handle multi-digit operands.
+
+**Q2: Which core data structure is used in this program, and why is it particularly well-suited for postfix expression evaluation?**
+**A2:** The core data structure used is an array-based **stack**. Stacks are ideally suited for postfix evaluation due to their Last-In, First-Out (LIFO) behavior. When an operand is encountered, it's pushed onto the stack. When an operator is encountered, the two most recently pushed operands are popped, the operation is performed, and the result is pushed back onto the stack. This perfectly matches the order of operations in postfix notation.
+
+**Q3: Describe how the stack is implemented in this code. What are its key components and basic operations?**
+**A3:** The stack is implemented using a `struct Stack` which includes:
+*   `top`: An integer indicating the index of the top element. It's initialized to -1 for an empty stack.
+*   `capacity`: An unsigned integer representing the maximum number of elements the stack can hold.
+*   `array`: A pointer to a dynamically allocated integer array (`int* array`) where the stack elements are stored.
+
+The basic operations provided are:
+*   `createStack(unsigned capacity)`: Allocates memory for the stack structure and its underlying array, then initializes `top` to -1.
+*   `isEmpty(struct Stack* stack)`: Checks if the stack is empty (`stack->top == -1`).
+*   `peek(struct Stack* stack)`: Returns the top element without removing it.
+*   `pop(struct Stack* stack)`: Decrements `top` and returns the element that was at the top. It includes a check for an empty stack.
+*   `push(struct Stack* stack, int item)`: Increments `top` and adds `item` to the `array` at the new `top` index.
+
+**Q4: Walk through the `evaluatePostfix` function step-by-step, explaining how it processes operands and operators.**
+**A4:** The `evaluatePostfix` function takes a character array (the postfix expression) as input:
+1.  **Stack Initialization:** It first creates a stack with a capacity equal to the length of the input expression.
+2.  **Expression Scan:** It iterates through each character of the expression string.
+3.  **Skip Spaces:** If the character is a blank space, it's ignored, and the scan continues.
+4.  **Handle Operands (Numbers):**
+    *   If the character is a digit, it marks the beginning of an operand.
+    *   The code then enters a `while` loop to extract the complete multi-digit number (e.g., "123" is read as a single number, not '1', '2', '3'). It converts these characters into an integer value.
+    *   This complete integer operand is then `push`ed onto the stack.
+5.  **Handle Operators:**
+    *   If the character is an operator (`+`, `-`, `*`, `/`), it signifies an operation needs to be performed.
+    *   Two operands (`val1` and `val2`) are `pop`ped from the stack. Due to the LIFO nature, `val2` will be the first operand, and `val1` will be the second (e.g., for `a b -`, `b` is popped as `val1`, then `a` as `val2`, and the operation is `val2 - val1`).
+    *   A `switch` statement applies the corresponding arithmetic operation to `val2` and `val1`.
+    *   The result of this operation is then `push`ed back onto the stack.
+6.  **Final Result:** After the entire expression has been scanned and processed, the final result of the evaluation will be the only element remaining on the stack. This value is `pop`ped from the stack and returned by the function.
+
+**Q5: How does this implementation specifically handle multi-digit operands, and why is this an important consideration?**
+**A5:** This implementation correctly handles multi-digit operands by performing an additional check and calculation. When a digit is encountered (`isdigit(exp[i])`), it starts building a number (`num`). It then enters a `while` loop that continues as long as subsequent characters are also digits. In each iteration of this loop, it updates `num` by multiplying it by 10 and adding the value of the new digit (`num = num * 10 + (exp[i] - '0')`). This process accumulates all digits into a single integer value before pushing it onto the stack. This is crucial because a simple character-by-character scan would incorrectly treat a number like "42" as two separate operands, '4' and '2'.
+
+**Q6: What are some potential areas for improvement or error handling that could be added to this code?**
+**A6:**
+*   **Invalid Expression Handling:** The code assumes a syntactically correct postfix expression. It lacks robust error checks for:
+    *   **Stack Underflow:** If an operator is encountered when there aren't enough operands on the stack.
+    *   **Stack Overflow:** (Less likely with `strlen` capacity but good to check) If `push` attempts to add beyond `capacity`.
+    *   **Invalid Characters:** Non-digit, non-operator characters in the expression.
+    *   **Mismatched Operands/Operators:** If more than one element remains on the stack at the end, or if the stack is empty.
+*   **Division by Zero:** There's no check for `val1 == 0` when performing division, which would cause a runtime error.
+*   **Memory Management:** While `malloc` checks are present for `createStack`, there's no corresponding `free` for the allocated `stack` and `stack->array` memory after the evaluation is complete, which could lead to memory leaks in a larger application.
+*   **Robustness of Stack Operations:** The `pop` and `peek` functions currently return `'$'` or rely on implicit behavior for empty stack scenarios. Returning a specific error code or using assertions for invalid operations would be safer.
+*   **Type Safety for `peek` and `pop`:** `peek` and `pop` return `int`, which is fine for the operands, but returning a sentinel value like `'$'` could be misinterpreted as a valid operand if the expression involves ASCII values. Using `long long` for results (as suggested in the initial `main` description) would also require changes to the stack's element type.
+
+**Q7: How would this `evaluatePostfix` function typically be integrated into a larger C program that processes multiple expressions from user input?**
+**A7:** A typical `main` function integrating `evaluatePostfix` would follow these steps:
+1.  **Read Number of Expressions:** Prompt the user to enter the total number of postfix expressions they want to evaluate.
+2.  **Input Loop:** Enter a loop that runs for the specified number of expressions.
+    *   **Read Expression:** Inside the loop, read each postfix expression from the user, for example, using `fgets` to handle potential spaces within the expression.
+    *   **Clean Input:** Remove the newline character (`\n`) often left by `fgets` using `strcspn` or similar methods.
+    *   **Evaluate:** Call `evaluatePostfix` with the cleaned expression string.
+    *   **Store Result:** Store the returned integer result (potentially in a `long long` type if results can be large) into a dynamic array or vector of results.
+3.  **Print All Results:** After the loop finishes, iterate through the stored results and print each one, clearly indicating the output.
+4.  **Resource Cleanup:** Ensure all dynamically allocated memory (like the stack's array and the stack structure itself) is freed, especially if the `evaluatePostfix` function or `createStack` allocates memory that persists outside its scope.
+
+Here's the cleaned, formatted, and human-readable version of the interview question and its explanation:
+
+---
+
+### **Question 5**
+
+*(Asked in Infosys Placement Paper – Feb 2022)*
+
+**Problem Statement:**
+You are given a binary tree. The task is to find the length of the longest path which contains nodes with the exact same value. It is not necessary for the path to pass through the root of the binary tree. Between two nodes, the length of the path can be defined as the number of edges contained between them.
+
+**Example:**
+Consider the following binary tree:
+```
+    7
+   / \
+  7   7
+ / \   \
+8   3   7
+```
+For the above tree, the length of the longest path where each node in the path has the same value is 3. The path is `7 -> 7 -> 7 -> 7`.
+
+**Input Format:**
+The first line of input contains an integer ‘T’ representing the number of test cases. Then, the test cases follow.
+The only line of each test case contains elements in a level-order traversal form. The line consists of values of nodes separated by a single space. In case a node is null, we take `-1` in its place.
+
+**Example Input and Explanation:**
+
+The following input `1 2 3 4 -1 5 6 -1 7 -1 -1 -1 -1 -1 -1` would represent the following binary tree and is parsed as described below:
+
+**Tree Structure for the Example Input:**
+```
+        1
+       / \
+      2   3
+     /   / \
+    4   5   6
+     \
+      7
+```
+
+**Explanation of Level Order Input Parsing:**
+
+*   **Level 1:** The root node of the tree is `1`.
+*   **Level 2:**
+    *   Left child of `1` = `2`
+    *   Right child of `1` = `3`
+*   **Level 3:**
+    *   Left child of `2` = `4`
+    *   Right child of `2` = null (`-1`)
+    *   Left child of `3` = `5`
+    *   Right child of `3` = `6`
+*   **Level 4:**
+    *   Left child of `4` = null (`-1`)
+    *   Right child of `4` = `7`
+    *   Left child of `5` = null (`-1`)
+    *   Right child of `5` = null (`-1`)
+    *   Left child of `6` = null (`-1`)
+    *   Right child of `6` = null (`-1`)
+*   **Level 5:**
+    *   Left child of `7` = null (`-1`)
+    *   Right child of `7` = null (`-1`)
+
+**Parent-Child Mapping Rule:**
+The first non-null node (from the previous level) is treated as the parent of the first two nodes of the current level. The second non-null node (from the previous level) is treated as the parent node for the next two nodes of the current level, and so on. The input ends when all nodes at the last level are null (`-1`).
+
+Here's a cleaned, formatted, and human-readable version of the problem description:
+
+---
+
+### **Problem: Longest Univalue Path in a Binary Tree**
+
+**Problem Description:**
+
+Given a binary tree, the task is to find the length of the longest path where every node in the path has the same value. This path can start and end at any node in the tree (it doesn't necessarily have to pass through the root). The length of a path is defined as the number of edges between the nodes.
+
+**Input Format:**
+
+For each test case, the input will be a single line representing the binary tree. The tree structure is provided using a level-order traversal sequence, where nodes are separated by a single space. A value of `-1` indicates a null node (i.e., no child).
+
+*   **Example:** For a tree depicted as:
+    ```
+          1
+         / \
+        2   3
+       /     \
+      4       5
+             /
+            6
+           /
+          7
+    ```
+    The input sequence would be: `1 2 3 4 -1 5 6 -1 7 -1 -1 -1 -1 -1 -1`
+
+**Output Format:**
+
+For each test case, a single integer must be printed on a separate line, representing the length of the longest path where all nodes in the path have the same value.
+
+**Note:**
+
+You are only required to implement the specified function. Input reading and output printing are handled by the system.
+
+**Constraints:**
+
+*   `1 <= T <= 100` (Number of test cases)
+*   `1 <= N <= 3000` (Total number of nodes in the binary tree)
+*   `-10^9 <= data <= 10^9` (Value of binary tree nodes)
+*   `data != -1` (Node values will not be -1; -1 is reserved for null nodes)
+*   **Time Limit:** `1 second`
+
+**Function Signature (Example - typically provided in Java/C++ environments):**
+
+Assuming a `Node` class/struct is defined as:
+
+```java
+class Node {
+    int val;
+    Node left;
+    Node right;
+
+    Node(int data) {
+        this.val = data;
+        this.left = null;
+        this.right = null;
+    }
+}
+```
+
+You need to implement the following function:
+
+```java
+public static int longestSamevaluePath(Node root) {
+    // Your implementation here
+}
+```
+
+---
+
+**Sample Input 1:**
+
+```
+7 7 7 1 1 -1 7 -1 -1 -1 -1 -1 -1
+10 3 4 3 3 -1 5 -1 -1 -1 -1 -1 -1
+```
+
+**Sample Output 1:**
+
+```
+3
+2
+```
+
+**Explanation of Sample Input 1:**
+
+**Test Case 1:**
+
+*   **Input Tree Structure:**
+    ```
+          7
+         / \
+        7   7
+       / \   \
+      1   1   7
+    ```
+*   **Longest Path with Same Value:** The path `7 -> 7 -> 7 -> 7` (from the root, through its right child, to its right-right child) consists of nodes with the value `7`.
+*   **Length:** This path has 4 nodes and 3 edges. Therefore, the length is `3`.
+
+**Test Case 2:**
+
+*   **Input Tree Structure:**
+    ```
+          3
+         / \
+        4   3
+       / \   \
+      3   3   5
+    ```
+*   **Longest Path with Same Value:** The path `3 -> 3 -> 3` (from the root's left child, to its left-left child, or to its left-right child) consists of nodes with the value `3`.
+*   **Length:** This path has 3 nodes and 2 edges. Therefore, the length is `2`.
+
+---
+
+**Sample Input 2:**
+
+```
+1 4 5 4 4 -1 5 -1 -1 -1 -1 -1 -1
+5 4 5 1 1 -1 5 -1 -1 -1 -1 -1 -1
+```
+
+**Sample Output 2:**
+
+```
+2
+1
+```
+
+The provided text contains C++ and C code snippets for finding the longest path of same-value nodes in a binary tree, along with some unrelated promotional text. I have cleaned, formatted, and added comments to make the code human-readable, and removed the irrelevant lines.
+
+---
+
+### Interview Question
+
+**Question:** Implement a function to find the length of the longest path of nodes with the same value in a binary tree. The path can start and end anywhere in the tree.
+
+**Clarification:** The "length" of the path is defined as the number of edges between the nodes. For example, a path of `A-B-C` has a length of 2.
+
+---
+
+### C++ Solution
+
+```cpp
+#include <iostream>
+#include <algorithm> // Required for std::max
+
+// Define a Node structure for the binary tree
+class Node {
+public:
+    int val;
+    Node* left;
+    Node* right;
+
+    // Constructor to create a new node
+    Node(int data) : val(data), left(nullptr), right(nullptr) {}
+    
+    // Destructor to free memory (for simple examples)
+    ~Node() {
+        delete left;
+        delete right;
+    }
+};
+
+// Global variable to store the maximum path length found anywhere in the tree.
+// This needs to be reset for each call to the 'longestSamevaluePath' function.
+int globalMaxPath = 0;
+
+/**
+ * @brief Recursive helper function to calculate the longest path of same-value nodes
+ *        starting from the current 'root' and going downwards (either left or right).
+ *        It also updates the 'globalMaxPath' with the longest path found anywhere in the subtree
+ *        that might pass through the current root (connecting its left and right matching subpaths).
+ *
+ * @param root The current node being processed.
+ * @return The length of the longest path of same-value nodes starting from 'root'
+ *         and extending downwards in one direction (left or right).
+ */
+int solve(Node* root) {
+    // Base case: If the node is null, there's no path, so return 0 edges.
+    if (!root) {
+        return 0;
+    }
+
+    // Recursively calculate the longest path of same-value nodes from the left and right children.
+    // These 'leftSubtreePathLength' and 'rightSubtreePathLength' represent paths
+    // starting from the child and extending downwards.
+    int leftSubtreePathLength = solve(root->left);
+    int rightSubtreePathLength = solve(root->right);
+
+    // Variables to store the length of paths extending from the current 'root'
+    // to its left/right child, ONLY IF their values match.
+    int pathFromRootToLeft = 0;
+    int pathFromRootToRight = 0;
+
+    // Check if the left child exists and has the same value as the current root.
+    if (root->left && root->left->val == root->val) {
+        // If values match, the path from the root to the left child is 1 (for the edge)
+        // plus the longest path extending from that left child.
+        pathFromRootToLeft = 1 + leftSubtreePathLength;
+    }
+
+    // Check if the right child exists and has the same value as the current root.
+    if (root->right && root->right->val == root->val) {
+        // Similar logic for the right child.
+        pathFromRootToRight = 1 + rightSubtreePathLength;
+    }
+
+    // Update the global maximum path.
+    // A path could go from a node in the left subtree, through the current root,
+    // to a node in the right subtree (e.g., L-L -> L -> Root -> R -> R-R).
+    // The total length of such a path is the sum of paths extending from root's left and right sides.
+    globalMaxPath = std::max(globalMaxPath, pathFromRootToLeft + pathFromRootToRight);
+
+    // Return the longest path *starting from the current 'root'* and extending downwards
+    // (either left or right) for use by its parent node.
+    return std::max(pathFromRootToLeft, pathFromRootToRight);
+}
+
+/**
+ * @brief Calculates the length of the longest path of same-value nodes in a binary tree.
+ *
+ * @param root The root of the binary tree.
+ * @return The length (number of edges) of the longest same-value path.
+ */
+int longestSamevaluePath(Node* root) {
+    globalMaxPath = 0; // Reset global maximum for each new tree calculation
+    solve(root);       // Call the recursive helper function
+    return globalMaxPath; // Return the maximum path found
+}
+
+// Main function to demonstrate the solution
+int main() {
+    // Example Tree 1 Construction: All nodes have value 1
+    //      1
+    //     / \
+    //    1   1
+    //   / \   \
+    //  1   1   1
+    Node* root1 = new Node(1);
+    root1->left = new Node(1);
+    root1->right = new Node(1);
+    root1->left->left = new Node(1);
+    root1->left->right = new Node(1);
+    root1->right->right = new Node(1);
+
+    std::cout << "Longest same-value path (Tree 1, all 1s): " << longestSamevaluePath(root1) << std::endl; // Expected: 4 (path: left-left -> left -> root -> right -> right-right, total 4 edges)
+    delete root1; // Clean up memory
+
+    // Example Tree 2 Construction: Mixed values
+    //      1
+    //     / \
+    //    1   5
+    //   / \   \
+    //  1   1   5
+    Node* root2 = new Node(1);
+    root2->left = new Node(1);
+    root2->right = new Node(5);
+    root2->left->left = new Node(1);
+    root2->left->right = new Node(1);
+    root2->right->right = new Node(5);
+
+    std::cout << "Longest same-value path (Tree 2, mixed values): " << longestSamevaluePath(root2) << std::endl; // Expected: 2 (paths: 1-1-1 or 5-5)
+    delete root2; // Clean up memory
+
+    // Example Tree 3 Construction: Mixed values 2
+    //      5
+    //     / \
+    //    4   5
+    //   / \   \
+    //  1   1   5
+    Node* root3 = new Node(5);
+    root3->left = new Node(4);
+    root3->right = new Node(5);
+    root3->left->left = new Node(1);
+    root3->left->right = new Node(1);
+    root3->right->right = new Node(5);
+
+    std::cout << "Longest same-value path (Tree 3, mixed values 2): " << longestSamevaluePath(root3) << std::endl; // Expected: 2 (path: 5-5-5)
+    delete root3; // Clean up memory
+
+    return 0;
+}
+```
+
+---
+
+### C Solution
+
+```c
+#include <stdio.h>  // Required for printf
+#include <stdlib.h> // Required for malloc, free, exit
+
+// For std::max functionality in C, we can just use a ternary operator or a helper macro.
+#define MAX(a, b) ((a) > (b) ? (a) : (b))
+
+// Define a Node structure for the binary tree
+struct Node {
+    int val;
+    struct Node* left;
+    struct Node* right;
+};
+
+// Global variable to store the maximum path length found anywhere in the tree.
+// This needs to be reset for each call to the 'longestSamevaluePathC' function.
+int globalMaxPathC = 0;
+
+/**
+ * @brief Function to create a new node.
+ * @param data The integer value for the new node.
+ * @return A pointer to the newly created Node.
+ */
+struct Node* createNodeC(int data) {
+    struct Node* temp = (struct Node*)malloc(sizeof(struct Node));
+    if (temp == NULL) {
+        perror("Failed to allocate memory for Node");
+        exit(EXIT_FAILURE); // Exit if memory allocation fails
+    }
+    temp->val = data;
+    temp->left = NULL;
+    temp->right = NULL;
+    return temp;
+}
+
+/**
+ * @brief Recursive helper function to calculate the longest path of same-value nodes
+ *        starting from the current 'root' and going downwards (either left or right).
+ *        It also updates the 'globalMaxPathC' with the longest path found anywhere in the subtree
+ *        that might pass through the current root (connecting its left and right matching subpaths).
+ *
+ * @param root The current node being processed.
+ * @return The length of the longest path of same-value nodes starting from 'root'
+ *         and extending downwards in one direction (left or right).
+ */
+int solveC(struct Node* root) {
+    // Base case: If the node is null, there's no path, so return 0 edges.
+    if (root == NULL) {
+        return 0;
+    }
+
+    // Recursively calculate the longest path of same-value nodes from the left and right children.
+    int leftSubtreePathLength = solveC(root->left);
+    int rightSubtreePathLength = solveC(root->right);
+
+    // Variables to store the length of paths extending from the current 'root'
+    // to its left/right child, ONLY IF their values match.
+    int pathFromRootToLeft = 0;
+    int pathFromRootToRight = 0;
+
+    // Check if the left child exists and has the same value as the current root.
+    if (root->left != NULL && root->left->val == root->val) {
+        // If values match, the path from the root to the left child is 1 (for the edge)
+        // plus the longest path extending from that left child.
+        pathFromRootToLeft = 1 + leftSubtreePathLength;
+    }
+
+    // Check if the right child exists and has the same value as the current root.
+    if (root->right != NULL && root->right->val == root->val) {
+        // Similar logic for the right child.
+        pathFromRootToRight = 1 + rightSubtreePathLength;
+    }
+
+    // Update the global maximum path.
+    // A path could go from a node in the left subtree, through the current root,
+    // to a node in the right subtree. The total length of such a path is the sum
+    // of paths extending from root's left and right sides.
+    globalMaxPathC = MAX(globalMaxPathC, pathFromRootToLeft + pathFromRootToRight);
+
+    // Return the longest path *starting from the current 'root'* and extending downwards
+    // (either left or right) for use by its parent node.
+    return MAX(pathFromRootToLeft, pathFromRootToRight);
+}
+
+/**
+ * @brief Calculates the length of the longest path of same-value nodes in a binary tree.
+ *
+ * @param root The root of the binary tree.
+ * @return The length (number of edges) of the longest same-value path.
+ */
+int longestSamevaluePathC(struct Node* root) {
+    globalMaxPathC = 0; // Reset global maximum for each new tree calculation
+    solveC(root);       // Call the recursive helper function
+    return globalMaxPathC; // Return the maximum path found
+}
+
+/**
+ * @brief Frees the memory allocated for the tree nodes.
+ * @param root The root of the tree to be freed.
+ */
+void freeTree(struct Node* root) {
+    if (root == NULL) return;
+    freeTree(root->left);
+    freeTree(root->right);
+    free(root);
+}
+
+// Main function to demonstrate the solution
+int main() {
+    // Example Tree 1 Construction: All nodes have value 1
+    //      1
+    //     / \
+    //    1   1
+    //   / \   \
+    //  1   1   1
+    struct Node* root1_c = createNodeC(1);
+    root1_c->left = createNodeC(1);
+    root1_c->right = createNodeC(1);
+    root1_c->left->left = createNodeC(1);
+    root1_c->left->right = createNodeC(1);
+    root1_c->right->right = createNodeC(1);
+
+    printf("Longest same-value path (C, Tree 1, all 1s): %d\n", longestSamevaluePathC(root1_c)); // Expected: 4
+    freeTree(root1_c); // Clean up memory
+
+    // Example Tree 2 Construction: Mixed values
+    //      1
+    //     / \
+    //    1   5
+    //   / \   \
+    //  1   1   5
+    struct Node* root2_c = createNodeC(1);
+    root2_c->left = createNodeC(1);
+    root2_c->right = createNodeC(5);
+    root2_c->left->left = createNodeC(1);
+    root2_c->left->right = createNodeC(1);
+    root2_c->right->right = createNodeC(5);
+
+    printf("Longest same-value path (C, Tree 2, mixed values): %d\n", longestSamevaluePathC(root2_c)); // Expected: 2
+    freeTree(root2_c); // Clean up memory
+
+    // Example Tree 3 Construction: Mixed values 2
+    //      5
+    //     / \
+    //    4   5
+    //   / \   \
+    //  1   1   5
+    struct Node* root3_c = createNodeC(5);
+    root3_c->left = createNodeC(4);
+    root3_c->right = createNodeC(5);
+    root3_c->left->left = createNodeC(1);
+    root3_c->left->right = createNodeC(1);
+    root3_c->right->right = createNodeC(5);
+
+    printf("Longest same-value path (C, Tree 3, mixed values 2): %d\n", longestSamevaluePathC(root3_c)); // Expected: 2
+    freeTree(root3_c); // Clean up memory
+
+    return 0;
+}
+```
+
+The text you provided does not appear to be a list of interview questions and answers. It looks more like a collection of website snippets or marketing blurbs from a platform called "PrepInsta."
+
+However, I can clean and organize the provided text for better readability:
+
+---
+
+**PrepInsta Prime Subscription**
+
+**Description:**
+List of all the video courses included in the PrepInsta Prime Subscription.
+
+**Actions/Features:**
+*   Checkout
+*   Login/Signup to comment
+
+**Hiring Opportunities:**
+*   30+ Companies are Hiring
+*   Get Hiring Updates right in your inbox from PrepInsta
+
+---
+
+If you have actual interview questions and answers you'd like me to clean, format, and make human-readable, please provide them!

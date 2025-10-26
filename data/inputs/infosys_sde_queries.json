@@ -1,0 +1,23 @@
+[
+  {
+    "site": "GeeksforGeeks",
+    "search_query": "Infosys SDE interview questions",
+    "initial_url_guess": "https://www.geeksforgeeks.org/dsa/infosys-sde-sheet-interview-questions-and-answers/",
+    "valid": true,
+    "url": "https://www.geeksforgeeks.org/dsa/infosys-sde-sheet-interview-questions-and-answers/"
+  },
+  {
+    "site": "InterviewBit",
+    "search_query": "Infosys SDE interview questions",
+    "initial_url_guess": "https://www.interviewbit.com/infosys-interview-questions/",
+    "valid": true,
+    "url": "https://www.interviewbit.com/infosys-interview-questions/"
+  },
+  {
+    "site": "PrepInsta",
+    "search_query": "Infosys SDE interview questions",
+    "initial_url_guess": "https://prepinsta.com/infosys/",
+    "valid": true,
+    "url": "https://prepinsta.com/infosys/"
+  }
+]

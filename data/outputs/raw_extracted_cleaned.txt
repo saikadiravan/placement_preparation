@@ -1,0 +1,11 @@
+According to the provided text, to prepare for coding interviews at Amazon:
+
+"The secret lies in the amount of practice you do. Put in a lot of effort in solving challenging problems on Data Structures an[d Algorithms]." (The sentence is cut off in the provided text, but the core idea is clear).
+
+Here are the inferred questions based on the provided answers:
+
+**Q1: What is the title of the introductory video for the Prime Course?**
+A1: Prime Course Trailer
+
+**Q5: What is a postfix expression?**
+A5: An expression is called the postfix expression if the operator appears in the expression after the operands.

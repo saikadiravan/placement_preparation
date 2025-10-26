@@ -1,0 +1,270 @@
+{
+  "total_days": 21,
+  "daily_hours": 5,
+  "schedule": [
+    {
+      "day": 1,
+      "date": "2025-10-27",
+      "topics": [
+        "Dynamic Programming - Intro"
+      ],
+      "problems": [
+        "Fibonacci Number (LC 509)",
+        "House Robber (LC 198)",
+        "Climbing Stairs (LC 70)"
+      ],
+      "lp_focus": null,
+      "notes": "Identify overlapping subproblems and optimal substructure. Practice memoization and tabulation.",
+      "completed": true
+    },
+    {
+      "day": 2,
+      "date": "2025-10-28",
+      "topics": [
+        "Leadership Principles"
+      ],
+      "problems": [],
+      "lp_focus": "Invent and Simplify, Are Right, A Lot",
+      "notes": "Recall situations where you innovated, simplified complex problems, or made sound judgments based on data and experience.",
+      "completed": true
+    },
+    {
+      "day": 3,
+      "date": "2025-10-29",
+      "topics": [
+        "System Design"
+      ],
+      "problems": [],
+      "lp_focus": null,
+      "notes": "Deep dive: Design a Distributed Cache (e.g., Redis). Consider consistency, availability, partitioning, eviction policies."
+    },
+    {
+      "day": 4,
+      "date": "2025-10-30",
+      "topics": [
+        "Graphs",
+        "BFS/DFS"
+      ],
+      "problems": [
+        "Number of Islands (LC 200)",
+        "Clone Graph (LC 133)",
+        "Course Schedule (LC 207)"
+      ],
+      "lp_focus": null,
+      "notes": "Practice graph traversal algorithms. Understand adjacency list/matrix representations. Topological sort for dependencies."
+    },
+    {
+      "day": 5,
+      "date": "2025-10-31",
+      "topics": [
+        "Dynamic Programming - Medium"
+      ],
+      "problems": [
+        "Longest Increasing Subsequence (LC 300)",
+        "Coin Change (LC 322)",
+        "Minimum Path Sum (LC 64)"
+      ],
+      "lp_focus": null,
+      "notes": "Work on more complex DP problems. Focus on state definition and transition equations.",
+      "completed": true
+    },
+    {
+      "day": 6,
+      "date": "2025-11-01",
+      "topics": [
+        "Backtracking",
+        "Recursion"
+      ],
+      "problems": [
+        "Generate Parentheses (LC 22)",
+        "Permutations (LC 46)",
+        "Subsets (LC 78)"
+      ],
+      "lp_focus": null,
+      "notes": "Understand the backtracking template: choose, explore, unchoose. Practice pruning the search space."
+    },
+    {
+      "day": 7,
+      "date": "2025-11-02",
+      "topics": [
+        "Leadership Principles"
+      ],
+      "problems": [],
+      "lp_focus": "Learn and Be Curious, Hire and Develop the Best",
+      "notes": "Reflect on how you've grown, learned new skills, and helped others develop. Emphasize continuous improvement."
+    },
+    {
+      "day": 8,
+      "date": "2025-11-03",
+      "topics": [
+        "System Design"
+      ],
+      "problems": [],
+      "lp_focus": null,
+      "notes": "Deep dive: Design a Chat System (e.g., WhatsApp). Consider real-time communication, message storage, scaling."
+    },
+    {
+      "day": 9,
+      "date": "2025-11-04",
+      "topics": [
+        "Heaps",
+        "Priority Queues"
+      ],
+      "problems": [
+        "Kth Largest Element in an Array (LC 215)",
+        "Merge K Sorted Lists (LC 23)",
+        "Top K Frequent Elements (LC 347)"
+      ],
+      "lp_focus": null,
+      "notes": "Understand heap properties and operations. Use heaps for problems involving finding min/max k elements."
+    },
+    {
+      "day": 10,
+      "date": "2025-11-05",
+      "topics": [
+        "Binary Search",
+        "Divide and Conquer"
+      ],
+      "problems": [
+        "Search in Rotated Sorted Array (LC 33)",
+        "Find Minimum in Rotated Sorted Array (LC 153)",
+        "Median of Two Sorted Arrays (LC 4)"
+      ],
+      "lp_focus": null,
+      "notes": "Master binary search variants. Apply divide and conquer for problems that can be broken into smaller, independent subproblems."
+    },
+    {
+      "day": 11,
+      "date": "2025-11-06",
+      "topics": [
+        "Dynamic Programming - Hard"
+      ],
+      "problems": [
+        "0/1 Knapsack Problem (variant: LC 416 Partition Equal Subset Sum)",
+        "Word Break (LC 139)",
+        "Longest Common Subsequence (LC 1143)"
+      ],
+      "lp_focus": null,
+      "notes": "Tackle challenging DP problems. Focus on optimizing space and time complexity."
+    },
+    {
+      "day": 12,
+      "date": "2025-11-07",
+      "topics": [
+        "Leadership Principles"
+      ],
+      "problems": [],
+      "lp_focus": "Insist on the Highest Standards, Think Big, Bias for Action",
+      "notes": "Discuss how you raised the bar for quality, envisioned ambitious solutions, and took calculated risks to achieve results."
+    },
+    {
+      "day": 13,
+      "date": "2025-11-08",
+      "topics": [
+        "System Design"
+      ],
+      "problems": [],
+      "lp_focus": null,
+      "notes": "Deep dive: Design a Recommendation System. Explore collaborative filtering, content-based filtering, data storage, and serving."
+    },
+    {
+      "day": 14,
+      "date": "2025-11-09",
+      "topics": [
+        "Graphs",
+        "Advanced"
+      ],
+      "problems": [
+        "Dijkstra's Algorithm (LC 743 Network Delay Time)",
+        "Bellman-Ford (concept)",
+        "Minimum Spanning Tree (concept - Prim/Kruskal)"
+      ],
+      "lp_focus": null,
+      "notes": "Understand shortest path algorithms and their applications. Review MST concepts."
+    },
+    {
+      "day": 15,
+      "date": "2025-11-10",
+      "topics": [
+        "Tries",
+        "String Algorithms"
+      ],
+      "problems": [
+        "Implement Trie (Prefix Tree) (LC 208)",
+        "Add and Search Word - Data structure design (LC 211)",
+        "Word Search II (LC 212)"
+      ],
+      "lp_focus": null,
+      "notes": "Learn about Tries for efficient prefix searching. Practice using them for word-related problems."
+    },
+    {
+      "day": 16,
+      "date": "2025-11-11",
+      "topics": [
+        "Mock Interview 1 (DSA Focus)"
+      ],
+      "problems": [
+        "Random selection of 2-3 medium/hard problems"
+      ],
+      "lp_focus": null,
+      "notes": "Simulate a real coding interview. Focus on communication, problem-solving steps, and coding clean solutions. Get feedback."
+    },
+    {
+      "day": 17,
+      "date": "2025-11-12",
+      "topics": [
+        "Leadership Principles"
+      ],
+      "problems": [],
+      "lp_focus": "Frugality, Earn Trust, Dive Deep",
+      "notes": "Share examples of achieving results with limited resources, building strong relationships through reliability, and demonstrating attention to detail."
+    },
+    {
+      "day": 18,
+      "date": "2025-11-13",
+      "topics": [
+        "System Design"
+      ],
+      "problems": [],
+      "lp_focus": null,
+      "notes": "Deep dive: Design a Ride-Sharing App (e.g., Uber/Lyft). Focus on matching, real-time location, payment, notifications."
+    },
+    {
+      "day": 19,
+      "date": "2025-11-14",
+      "topics": [
+        "Mock Interview 2 (DSA + Behavioral)"
+      ],
+      "problems": [
+        "Random selection of 1-2 medium/hard problems"
+      ],
+      "lp_focus": "Customer Obsession, Ownership, Invent and Simplify",
+      "notes": "Practice integrating LP answers with technical discussions. Refine your STAR stories."
+    },
+    {
+      "day": 20,
+      "date": "2025-11-15",
+      "topics": [
+        "Review DSA Weaknesses",
+        "Advanced Data Structures"
+      ],
+      "problems": [
+        "Problems from areas identified as weak during mock interviews or previous practice."
+      ],
+      "lp_focus": null,
+      "notes": "Revisit challenging problems or topics. Explore segment trees, Fenwick trees (concepts) if time permits and relevant."
+    },
+    {
+      "day": 21,
+      "date": "2025-11-16",
+      "topics": [
+        "Final DSA Review"
+      ],
+      "problems": [
+        "Mix of frequently asked Amazon problems across categories"
+      ],
+      "lp_focus": null,
+      "notes": "Consolidate learning, focus on patterns and common interview problem types."
+    }
+  ]
+}

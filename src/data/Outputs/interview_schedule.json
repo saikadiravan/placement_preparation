@@ -1,0 +1,323 @@
+
+
+
+{
+  "total_days": 30,
+  "schedule": [
+    {
+      "company": "Google",
+      "category": "DSA",
+      "tasks": [
+        {
+          "id": 1,
+          "title": "Arrays & Strings (Google Pattern Problems)",
+          "duration_hours": 3,
+          "priority": "high",
+          "date": "2025-11-01",
+          "completed": false
+        },
+        {
+          "id": 2,
+          "title": "Dynamic Programming (Knapsack, LIS, LCS)",
+          "duration_hours": 3,
+          "priority": "high",
+          "date": "2025-11-03",
+          "completed": false
+        },
+        {
+          "id": 3,
+          "title": "Graphs — BFS, DFS, Shortest Path",
+          "duration_hours": 2,
+          "priority": "medium",
+          "date": "2025-11-05",
+          "completed": false
+        },
+        {
+          "id": 4,
+          "title": "System Design — Low-Level Design Practice",
+          "duration_hours": 2,
+          "priority": "medium",
+          "date": "2025-11-06",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "company": "Google",
+      "category": "Interview Questions",
+      "tasks": [
+        {
+          "id": 5,
+          "title": "Top 50 Google DSA Interview Questions",
+          "duration_hours": 3,
+          "priority": "high",
+          "date": "2025-11-08",
+          "completed": false
+        },
+        {
+          "id": 6,
+          "title": "Google Behavioral Round Preparation",
+          "duration_hours": 1,
+          "priority": "medium",
+          "date": "2025-11-09",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "company": "Google",
+      "category": "CS Fundamentals",
+      "tasks": [
+        {
+          "id": 7,
+          "title": "Operating Systems — Scheduling & Deadlocks",
+          "duration_hours": 2,
+          "priority": "medium",
+          "date": "2025-11-10",
+          "completed": false
+        },
+        {
+          "id": 8,
+          "title": "Computer Networks — TCP/IP & Routing",
+          "duration_hours": 2,
+          "priority": "medium",
+          "date": "2025-11-11",
+          "completed": false
+        },
+        {
+          "id": 9,
+          "title": "DBMS — Indexing & Normalization",
+          "duration_hours": 2,
+          "priority": "medium",
+          "date": "2025-11-12",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "company": "Google",
+      "category": "Resume Preparation",
+      "tasks": [
+        {
+          "id": 10,
+          "title": "Update Resume with Google-Style Projects",
+          "duration_hours": 2,
+          "priority": "high",
+          "date": "2025-11-13",
+          "completed": false
+        }
+      ]
+    },
+
+    {
+      "company": "Microsoft",
+      "category": "DSA",
+      "tasks": [
+        {
+          "id": 11,
+          "title": "Trees & Graphs (Level Order, DFS/BFS)",
+          "duration_hours": 3,
+          "priority": "high",
+          "date": "2025-11-14",
+          "completed": false
+        },
+        {
+          "id": 12,
+          "title": "Dynamic Programming — Partition & Matrix Chain",
+          "duration_hours": 3,
+          "priority": "high",
+          "date": "2025-11-15",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "company": "Microsoft",
+      "category": "Interview Questions",
+      "tasks": [
+        {
+          "id": 13,
+          "title": "Top 50 Microsoft Interview Questions (LeetCode)",
+          "duration_hours": 3,
+          "priority": "high",
+          "date": "2025-11-16",
+          "completed": false
+        },
+        {
+          "id": 14,
+          "title": "Behavioral + Leadership Principles Round",
+          "duration_hours": 1,
+          "priority": "medium",
+          "date": "2025-11-17",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "company": "Microsoft",
+      "category": "CS Fundamentals",
+      "tasks": [
+        {
+          "id": 15,
+          "title": "System Design — Designing Scalable Systems",
+          "duration_hours": 3,
+          "priority": "high",
+          "date": "2025-11-18",
+          "completed": false
+        },
+        {
+          "id": 16,
+          "title": "DBMS + SQL Optimization",
+          "duration_hours": 2,
+          "priority": "medium",
+          "date": "2025-11-19",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "company": "Microsoft",
+      "category": "Resume Preparation",
+      "tasks": [
+        {
+          "id": 17,
+          "title": "Microsoft Resume Review + STAR Method Stories",
+          "duration_hours": 2,
+          "priority": "medium",
+          "date": "2025-11-20",
+          "completed": false
+        }
+      ]
+    },
+
+    {
+      "company": "Oracle",
+      "category": "DSA",
+      "tasks": [
+        {
+          "id": 18,
+          "title": "Stacks, Queues, Linked Lists",
+          "duration_hours": 2,
+          "priority": "medium",
+          "date": "2025-11-21",
+          "completed": false
+        },
+        {
+          "id": 19,
+          "title": "Database Query Optimization Practice",
+          "duration_hours": 2,
+          "priority": "high",
+          "date": "2025-11-22",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "company": "Oracle",
+      "category": "Interview Questions",
+      "tasks": [
+        {
+          "id": 20,
+          "title": "Top 40 Oracle SQL and DBMS Interview Questions",
+          "duration_hours": 3,
+          "priority": "high",
+          "date": "2025-11-23",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "company": "Oracle",
+      "category": "CS Fundamentals",
+      "tasks": [
+        {
+          "id": 21,
+          "title": "DBMS + Transactions + Normalization",
+          "duration_hours": 3,
+          "priority": "medium",
+          "date": "2025-11-24",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "company": "Oracle",
+      "category": "Resume Preparation",
+      "tasks": [
+        {
+          "id": 22,
+          "title": "Database Project Resume Enhancement",
+          "duration_hours": 2,
+          "priority": "low",
+          "date": "2025-11-25",
+          "completed": false
+        }
+      ]
+    },
+
+    {
+      "company": "Infosys",
+      "category": "DSA",
+      "tasks": [
+        {
+          "id": 23,
+          "title": "Basic DSA Patterns (Sorting, Searching)",
+          "duration_hours": 2,
+          "priority": "medium",
+          "date": "2025-11-26",
+          "completed": false
+        },
+        {
+          "id": 24,
+          "title": "Problem Solving using Arrays and Strings",
+          "duration_hours": 2,
+          "priority": "medium",
+          "date": "2025-11-27",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "company": "Infosys",
+      "category": "Interview Questions",
+      "tasks": [
+        {
+          "id": 25,
+          "title": "Infosys Logical and Aptitude Test Questions",
+          "duration_hours": 2,
+          "priority": "high",
+          "date": "2025-11-28",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "company": "Infosys",
+      "category": "CS Fundamentals",
+      "tasks": [
+        {
+          "id": 26,
+          "title": "Basic OOPs and DBMS Theory Review",
+          "duration_hours": 2,
+          "priority": "medium",
+          "date": "2025-11-29",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "company": "Infosys",
+      "category": "Resume Preparation",
+      "tasks": [
+        {
+          "id": 27,
+          "title": "Aptitude + Logical Project Resume Update",
+          "duration_hours": 2,
+          "priority": "low",
+          "date": "2025-11-30",
+          "completed": false
+        }
+      ]
+    }
+  ]
+}
