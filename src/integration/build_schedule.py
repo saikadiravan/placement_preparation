@@ -2,6 +2,7 @@
 import os
 import sys
 from pathlib import Path
+
 from src.etl.query_builder import main as run_query_builder
 from src.etl.extractor import main as run_extractor
 from src.etl.great_filter import main as run_great_filter
@@ -13,7 +14,6 @@ def build_full_schedule(company: str = "Amazon", role: str = "SDE"):
 
     # 1. Generate URLs
     print("1. Generating interview URLs...")
-    # Simulate user input
     sys.stdin = open(0)  # Reset stdin
     os.environ["COMPANY"] = company
     os.environ["ROLE"] = role
@@ -25,18 +25,19 @@ def build_full_schedule(company: str = "Amazon", role: str = "SDE"):
 
     # 3. Clean & generate insights
     print("\n3. Generating AI-powered insights...")
+    # FIXED: No longer passing (company, role) because it uses os.getenv internally
     run_great_filter()
 
     # 4. Generate study plan
-    print("\n4. Generating 30-day study plan...")
+    print("\n4. Generating dynamic study plan...")
+    # FIXED: No longer passing (company, role) because it uses os.getenv internally
     plan = generate_study_plan()
 
-    print(f"\nSUCCESS! Full pipeline complete.")
+    print(f"\n✅ SUCCESS! Full pipeline complete.")
     print(f"   → Plan: {plan['total_days']} days")
     print(f"   → Saved: {OUTPUTS_DIR / 'interview_schedule.json'}")
     print(f"   → Start API: python -m src.recommendation.app")
     print(f"   → View: http://localhost:5000/schedule")
-
 
 if __name__ == "__main__":
     company = input("Enter company (default: Amazon): ").strip() or "Amazon"

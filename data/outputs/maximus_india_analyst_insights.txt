@@ -1,17 +1,40 @@
-```
-Amazon SDE Interview Analysis
+Here's an extraction of DSA problems, System Design, and Behavioral principles from the provided data:
 
-This analysis extracts Data Structures & Algorithms (DSA) problems, System Design, and Behavioral principles from the provided Amazon SDE interview preparation guide.
+**DSA Problems**
 
----
+**I. Core Data Structures & Algorithms Fundamentals**
+*   **DSA Fundamentals:**
+    *   Logic Building Problems
+    *   Analysis of Algorithms
+*   **Data Structures:**
+    *   Array
+    *   String
+    *   Hashing
+    *   Linked List
+    *   Stack
+    *   Queue
+    *   Tree (including Binary Tree, BST)
+    *   Graph
+    *   Trie
+    *   Heap
+*   **Algorithms:**
+    *   Searching Algorithms
+    *   Sorting Algorithms
+    *   Recursion
+    *   Greedy Algorithms
+    *   Graph Algorithms (BFS, DFS, Dijkstra, Topological Sort, Kosaraju's)
+    *   Dynamic Programming (DP)
+    *   Bitwise Algorithms
+*   **Advanced Data Structures/Algorithms:**
+    *   Segment Tree
+    *   Binary Indexed Tree (Fenwick Tree)
+    *   Square Root (Sqrt) Decomposition Algorithm
+    *   Binary Lifting
+    *   Geometry
 
-**1. DSA Problems**
+**II. Specific DSA Problems (Categorized by Data Structure/Algorithm Type)**
 
-Amazon SDE interviews heavily emphasize Data Structures and Algorithms. The hiring process includes an Online Assessment with medium-level coding questions, and subsequent technical rounds with DS & algorithm-based problems, increasing in difficulty. Common data structures include Array, String, Linked List, Stack, Queue, Tree (Binary Tree, BST), and Graph. Tree-based recursion is explicitly highlighted as a crucial skill.
-
-**A. Data Structures & Associated Problems:**
-
-*   **Array**
+*   **Array Problems:**
     *   Largest Sum Contiguous Subarray
     *   Search in a row-wise and column-wise sorted matrix
     *   Print a given matrix in spiral form
@@ -22,7 +45,7 @@ Amazon SDE interviews heavily emphasize Data Structures and Algorithms. The hiri
     *   Convert array into Zig-Zag fashion
     *   Find duplicates in an array
     *   Find a triplet that sum to a given value
-*   **String**
+*   **String Problems:**
     *   Validate an IP Address
     *   Multiply Strings
     *   Implement Atoi
@@ -37,7 +60,7 @@ Amazon SDE interviews heavily emphasize Data Structures and Algorithms. The hiri
     *   Remove minimum number of characters so that two strings become anagram
     *   Find the smallest window in a string containing all characters of another string
     *   Length of the longest substring without repeating characters
-*   **Linked List**
+*   **Linked List Problems:**
     *   Reverse a linked list
     *   Segregate even and odd nodes in a Linked List
     *   Detect loop in a linked list
@@ -52,19 +75,38 @@ Amazon SDE interviews heavily emphasize Data Structures and Algorithms. The hiri
     *   Delete without head pointer
     *   Given a linked list of 0s, 1s and 2s, sort it
     *   Intersection of Two Linked Lists
-*   **Stack**
+*   **Searching Problems:**
+    *   Search an element in a sorted and rotated array
+    *   Square root of an integer
+    *   First and last occurrences of x
+    *   Find a peak element
+    *   Find the smallest positive number missing from an unsorted array
+    *   Allocate minimum number of pages
+    *   Counting elements in two arrays
+    *   Median of two sorted arrays of different sizes
+*   **Sorting Problems:**
+    *   k largest (or smallest) elements in an array
+    *   Sort an array of 0s, 1s, and 2s
+    *   Count Inversions in an array
+    *   Merge Without Extra Space
+    *   Minimum Platforms
+    *   Quick Sort
+    *   Heap Sort
+    *   Merge k Sorted Arrays
+    *   Overlapping Intervals
+*   **Stack Problems:**
     *   Check for Balanced Brackets in an expression (well-formedness) using Stack
     *   Sort a stack using recursion
     *   The Celebrity Problem
     *   Next Greater Element
     *   Queue using two Stacks
-*   **Queue**
+*   **Queue Problems:**
     *   Stack using two queues
     *   Connect n ropes with minimum cost
     *   Minimum time required to rot all oranges
     *   First negative integer in every window of size k
     *   Reversing a Queue
-*   **Tree (Binary Tree, BST)**
+*   **Tree Problems:**
     *   Inorder Traversal
     *   Preorder Traversal
     *   Kth largest element in BST
@@ -81,7 +123,7 @@ Amazon SDE interviews heavily emphasize Data Structures and Algorithms. The hiri
     *   Construct Tree from Inorder & Preorder
     *   ZigZag Tree Traversal
     *   Serialize and Deserialize a Binary Tree
-*   **Graph**
+*   **Graph Problems:**
     *   BFS of Graph
     *   DFS of Graph
     *   Find the number of islands
@@ -92,14 +134,14 @@ Amazon SDE interviews heavily emphasize Data Structures and Algorithms. The hiri
     *   Dijkstra Algorithm
     *   Detect Cycle in a Directed Graph
     *   Detect cycle in an undirected graph
-*   **Trie**
+*   **Trie Problems:**
     *   Trie Insert and Search
     *   Trie Delete
     *   Print unique rows in a given Binary matrix
     *   Longest Common Prefix using Trie
     *   Minimum XOR Value Pair
     *   Palindrome pair in an array of words (or strings)
-*   **Heap and Hash**
+*   **Heap and Hash Problems:**
     *   Minimum Cost of ropes
     *   k largest elements
     *   Kth element in Matrix
@@ -113,29 +155,16 @@ Amazon SDE interviews heavily emphasize Data Structures and Algorithms. The hiri
     *   Swapping pairs make sum equal
     *   Smallest distinct window
     *   Find first repeated character
-
-**B. Algorithms & Associated Problems:**
-
-*   **Searching Algorithms**
-    *   Search an element in a sorted and rotated array
-    *   Square root of an integer
-    *   First and last occurrences of x
-    *   Find a peak element
-    *   Find the smallest positive number missing from an unsorted array
-    *   Allocate minimum number of pages
-    *   Counting elements in two arrays
-    *   Median of two sorted arrays of different sizes
-*   **Sorting Algorithms**
-    *   k largest(or smallest) elements in an array
-    *   Sort an array of 0s, 1s, and 2s
-    *   Count Inversions in an array
-    *   Merge Without Extra Space
-    *   Minimum Platforms
-    *   Quick Sort
-    *   Heap Sort
-    *   Merge k Sorted Arrays
-    *   Overlapping Intervals
-*   **Recursion and Backtracking**
+*   **BitMagic Problems:**
+    *   Find the Missing Number
+    *   Power of 2
+    *   Reverse Bits
+    *   Maximum subset XOR
+    *   Check set bits
+    *   Minimum X (xor) A
+    *   Longest Consecutive 1's
+    *   Number of 1 Bits
+*   **Recursion and Backtracking Problems:**
     *   Write a program to print all permutations of a given string
     *   Rat in a Maze Problem - I
     *   Josephus problem
@@ -148,7 +177,7 @@ Amazon SDE interviews heavily emphasize Data Structures and Algorithms. The hiri
     *   Pascal Triangle
     *   Solve the Sudoku
     *   Largest number in K swaps
-*   **Dynamic Programming**
+*   **Dynamic Programming Problems:**
     *   0 - 1 Knapsack Problem
     *   Partition Equal Subset Sum
     *   Coin Change
@@ -166,54 +195,39 @@ Amazon SDE interviews heavily emphasize Data Structures and Algorithms. The hiri
     *   Jump Game
     *   Special Keyboard
     *   Longest Palindromic Subsequence
-*   **BitMagic**
-    *   Find the Missing Number
-    *   Power of 2
-    *   Reverse Bits
-    *   Maximum subset XOR
-    *   Check set bits
-    *   Minimum X (xor) A
-    *   Longest Consecutive 1's
-    *   Number of 1 Bits
-*   **Advanced Data Structures/Algorithms (mentioned as topics)**
-    *   Segment Tree
-    *   Binary Indexed Tree or Fenwick Tree
-    *   Square Root (Sqrt) Decomposition Algorithm
-    *   Binary Lifting
-    *   Geometry
 
-**C. Other Technical Aspects:**
+**III. Computer Fundamentals (MCQs)**
+*   OOPs
+*   DBMS (Database Management Systems)
+*   Operating Systems
+*   Data Structures & Algorithms (also covered above)
 
-*   **Computer Fundamentals (MCQs):** OOPs, DBMS, Operating Systems, Data Structures & Algorithms.
-*   **Language-Based Questions:** C, C++, Java specific queries to check grasp of the chosen language.
-*   **Puzzles:** To assess problem-solving skills and logical thinking.
+**IV. Language Based Questions**
+*   C
+*   C++
+*   Java
+
+**V. Puzzles**
+*   Tricky questions to test problem-solving skills and logical thinking.
 
 ---
 
-**2. System Design**
+**System Design**
 
-The provided text explicitly *mentions* "System Design" as a general topic available on GeeksforGeeks but does not detail specific System Design problems or principles relevant to the Amazon SDE interview within the "Amazon SDE Sheet" content.
-
-However, "Project Discussion" is a significant part of the technical rounds. While not explicitly termed "System Design," deep grilling on projects will implicitly involve design choices, architecture, and technology stack. Candidates are advised to:
-*   Thoroughly revise all work done on projects.
-*   Be prepared for deep grilling, mentioning only topics they are confident about.
-*   Be ready to discuss "what's new" in their project and their input.
-*   For AWS projects, strong confidence and sufficient answers are required.
+The term "System Design" is explicitly mentioned as an "Advanced" topic in the GeeksforGeeks navigation menu for interview preparation. However, the provided text does not list specific System Design problems or detailed principles within the "Amazon SDE Sheet" content itself. It is acknowledged as a general area for preparation.
 
 ---
 
-**3. Behavioral Principles**
+**Behavioral Principles**
 
-Behavioral aspects are primarily assessed in the "Bar Raiser Round" but are foundational throughout the interview process.
-
-*   **Core Principles:**
-    *   **Amazon Leadership Principles:** Explicitly evaluated. Candidates should understand and be able to demonstrate these principles through their experiences.
-    *   **Cultural Fit Evaluation:** Assesses alignment with Amazon's culture and values.
-*   **Key Skills & Traits:**
-    *   **Solid Communication Skills:** Essential for explaining technical solutions and discussing experiences.
-    *   **Analytical Thinking:** Demonstrated through problem-solving and decision-making.
-    *   **Ability to Solve Real-World Problems:** Applying technical knowledge effectively to practical scenarios.
-    *   **Project Discussion:** Used to evaluate experience, ownership, and technical depth in a real-world context.
-
----
-```
+*   **Communication Skills:** Strong communication is explicitly mentioned as essential for success.
+*   **Analytical Thinking:** Required for solving problems effectively.
+*   **Real-world Problem-Solving Ability:** Focus in technical rounds.
+*   **Leadership Principles:** Evaluated during the Bar Raiser Round.
+*   **Cultural Fit:** Assessed during the Bar Raiser Round.
+*   **Project Discussion:**
+    *   Thorough revision of all past project work.
+    *   Ability to be "grilled very deep" on projects.
+    *   Confidence in discussing chosen technology stack.
+    *   For AWS projects, specific confidence in providing sufficient answers is required.
+    *   Demonstrating "what's new" or "your input" even for basic clones.

@@ -21,6 +21,9 @@ INPUTS_DIR.mkdir(parents=True, exist_ok=True)
 OUTPUTS_DIR.mkdir(parents=True, exist_ok=True)
 LOGS_DIR.mkdir(parents=True, exist_ok=True)
 
+DB_DIR = DATA_DIR / "chroma_db"
+DB_DIR.mkdir(parents=True, exist_ok=True)
+
 # Optional: Force working directory (extra safety)
 os.chdir(PROJECT_ROOT)
 print(f"[PATHS] Changed working dir to: {Path.cwd()}")

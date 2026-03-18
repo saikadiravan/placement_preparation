@@ -1,0 +1,176 @@
+```txt
+SITE: GeeksforGeeks
+
+Overall Insights:
+*   Provides a comprehensive "SDE Sheet" focusing heavily on Data Structures and Algorithms (DSA).
+*   Details the Amazon SDE hiring process, including online assessment and multiple technical rounds.
+*   Emphasizes the need for strong DSA, communication, analytical thinking, and real-world problem-solving.
+*   Lists a vast array of specific DSA problems, categorized by topic.
+
+Amazon SDE Hiring Process:
+*   **Online Application**
+*   **Online Assessment Test (60 minutes)**:
+    *   2 medium-level coding questions.
+    *   20 MCQs covering OOPs, DBMS, Operating Systems, Data Structures & Algorithms.
+*   **Technical Interview Round 1**:
+    *   Project discussion.
+    *   DS & algorithm-based coding problems.
+    *   Conceptual quizzes.
+    *   Focus on real-world problem-solving ability.
+*   **Technical Interview Round 2**:
+    *   More challenging DS & algorithm questions.
+    *   Commonly asked DS: Matrix, Binary Tree, BST, Linked List. Second round focuses more on Trees, BST, and Graph.
+    *   Clear knowledge of tree-based recursion is a must.
+*   **Bar Raiser Round**:
+    *   Behavioral questions.
+    *   Leadership Principles evaluation.
+    *   Project discussion.
+    *   Cultural fit evaluation.
+
+Computer Fundamentals & Language Questions:
+*   MCQs on OOPs, DBMS, Operating Systems, Data Structures, Algorithms.
+*   Language-based questions to check grasp of C, C++, Java.
+
+Frequently Asked DSA Problems:
+
+**Top 5 DSA Topics (by problem volume/emphasis):**
+1.  Arrays
+2.  Strings
+3.  Linked Lists
+4.  Trees (including BST)
+5.  Dynamic Programming
+
+Detailed List of DSA Problems:
+*   **Array**: Largest Sum Contiguous Subarray, Search in row/column sorted matrix, Print matrix in spiral form, Array rotation, Trapping Rain Water, Count pairs with given sum, Subarray with least average, Convert array into Zig-Zag fashion, Find duplicates, Triplet that sums to a given value.
+*   **String**: Validate IP Address, Multiply Strings, Implement Atoi, Check if string rotated by two places, Permutations, Longest Repeating Subsequence, Roman Number to Integer, Length of longest substring, String formation from substring, Check if two strings are anagram, Look-and-Say Sequence, Remove minimum characters for anagram, Smallest window in string, Longest substring without repeating characters.
+*   **Linked List**: Reverse, Segregate even/odd nodes, Detect loop, Delete all occurrences of key, Remove loop, Nth node from end, Merge K sorted, Flatten binary tree into linked list, Add two numbers, Check if palindrome, Clone with next/random pointer, Delete without head pointer, Sort 0s/1s/2s, Intersection of Two Linked Lists.
+*   **Searching**: Search in sorted/rotated array, Square root of an integer, First/last occurrences of x, Find peak element, Smallest positive number missing, Allocate minimum number of pages, Counting elements in two arrays, Median of two sorted arrays.
+*   **Sorting**: k largest/smallest elements, Sort 0s/1s/2s, Count Inversions, Merge Without Extra Space, Minimum Platforms, Quick Sort, Heap Sort, Merge k Sorted Arrays, Overlapping Intervals.
+*   **Stack**: Balanced Brackets, Sort stack using recursion, The Celebrity Problem, Next Greater Element, Queue using two Stacks.
+*   **Queue**: Stack using two queues, Connect n ropes with minimum cost, Minimum time required to rot all oranges, First negative integer in every window of size k, Reversing a Queue.
+*   **Tree**: Inorder/Preorder Traversal, Kth largest element in BST, Left/Right View of Binary Tree, Check for BST, Diameter of a Binary Tree, Boundary Traversal, Height of Binary Tree, Lowest Common Ancestor, Binary Tree to DLL, Root to leaf path sum, Reverse Level Order Traversal, Construct Tree from Inorder & Preorder, ZigZag Tree Traversal, Serialize and Deserialize a Binary Tree.
+*   **Graph**: BFS/DFS, Find the number of islands, Topological sort, Steps by Knight, Strongly Connected Components (Kosaraju's Algo), Alien Dictionary, Dijkstra Algorithm, Detect Cycle (Directed/Undirected Graph).
+*   **Trie**: Insert and Search, Delete, Print unique rows in Binary matrix, Longest Common Prefix, Minimum XOR Value Pair, Palindrome pair.
+*   **Heap and Hash**: Minimum Cost of ropes, k largest elements, Kth element in Matrix, Find median in a stream, Kth largest element in a stream, Rearrange characters, Nearly sorted, Nuts and Bolts Problem, Check if two strings are k-anagrams, Sort an array according to the other, Swapping pairs make sum equal, Smallest distinct window, Find first repeated character.
+*   **BitMagic**: Find the Missing Number, Power of 2, Reverse Bits, Maximum subset XOR, Check set bits, Minimum X (xor) A, Longest Consecutive 1's, Number of 1 Bits.
+*   **Recursion and Backtracking**: Print all permutations of a given string, Rat in a Maze Problem, Josephus problem, Combination Sum, Partition Equal Subset Sum, N-Queen Problem, Shuffle integers, Hamiltonian Path, Find the string in grid, Pascal Triangle, Solve the Sudoku, Largest number in K swaps.
+*   **Dynamic Programming**: 0 - 1 Knapsack Problem, Partition Equal Subset Sum, Coin Change, Longest Common Subsequence, Stock buy and sell, Interleaved Strings, Edit Distance, Stickler Thief, Longest Common Substring, Number of Coins, Egg Dropping Puzzle, Word Break, Wildcard Pattern Matching, Total Decoding Messages, Jump Game, Special Keyboard, Longest Palindromic Subsequence.
+
+Other Important Aspects:
+*   **Puzzles**: Commonly asked to check problem-solving skills (e.g., "20 Puzzles Commonly Asked During SDE Interviews").
+*   **Project Discussion**: Thoroughly revise projects. Be prepared for deep grilling. Only mention topics you are confident about. AWS projects require strong confidence.
+
+---
+
+SITE: InterviewBit
+
+Overall Insights:
+*   Highlights Amazon's Leadership Principles as central to its culture and interview process.
+*   Provides practical tips for interview preparation, including the STAR method for behavioral questions.
+*   Outlines the recruitment process and round structure, confirming the presence of System Design.
+*   Offers example DSA problems categorized by difficulty.
+
+Amazon Interview Preparation Tips:
+*   **Understand the Leadership Principles Well**: Crucial for demonstrating genuine interest and cultural fit. Cite real-life instances.
+*   **Be Thorough with Data Structures and Algorithms**: Amazon appreciates great problem solvers. Strong logic structures and algorithmic problem-solving are key. Good projects earn "brownie points."
+*   **Use the STAR method to format your Response**: For behavioral questions, structure answers as Situation, Task, Action, and Result. Prepare real-life stories.
+*   **Know and Describe your Strengths**: Be confident and honest in highlighting your skills.
+*   **Discuss with your interviewer and keep the conversation going**: Engage the interviewer, ask questions about company culture, technology, future innovations, and their personal experience.
+
+Amazon Recruitment Process & Rounds:
+*   **Recruiter Connect**: Maintain a good LinkedIn profile, message recruiters, apply on the job portal, or get a referral.
+*   **Initial Coding Test**: Consists of DS/Algo problems.
+*   **Interview Rounds (Total 5)**:
+    *   **HR Round (1)**: Behavioral questions, Computer Science theory questions (experience, conflicts with colleagues/managers).
+    *   **Data Structures and Algorithms Rounds (3)**: DS/Algo problems (production-ready code expected). Minor behavioral questions possible. Problems range from easy to hard. Leadership principles are also considered.
+    *   **System Design Round (1)**: Confirmed as one of the 5 rounds in FAQ.
+
+Frequently Asked Questions (FAQs):
+*   **Amazon Interview Rounds**: 5 rounds (4- Data Structures and Algorithms, 1- System Design, and 1- HR).
+*   **Interview Difficulty**: Usually Easy to Medium Level, depends on preparation.
+*   **Applying for Jobs**: Use the Amazon Jobs portal; multiple roles can be applied for simultaneously.
+*   **Questions to Ask Interviewer**: About company culture, current technology, future innovations, interviewer's personal experience, and skills to develop.
+*   **Coding Interview Preparation**: Practice challenging DS/Algo problems. Good knowledge of fundamental Computer Science Concepts (OOP, Computer Networks, Operating Systems) is helpful.
+*   **Projects**: Not a must for SDE, but good projects show interest and earn "brownie points."
+
+Example DSA Problems:
+*   **Easy**: Majority Element, Unique Binary Search Trees, Best Time to Buy and Sell Stocks I, Best Time to Buy and Sell Stocks II.
+*   **Intermediate (Medium)**: Gas Station, Distribute Candy, Longest Increasing Subsequence, Max Product Subarray, Ways to Decode.
+*   **Advanced (Hard)**: Best Time to Buy and Sell Stocks III.
+
+---
+
+SITE: PrepInsta
+
+Overall Insights:
+*   Focuses specifically on the Amazon Coding Round format and difficulty distribution.
+*   Provides concrete examples of coding problems with detailed problem statements and complexity expectations.
+*   Emphasizes the importance of practicing Amazon code questions to understand complexity and format.
+
+Amazon Coding Test Format:
+*   **Purpose**: Assesses problem-solving skills and ability to apply algorithms and data structures.
+*   **Structure**: 3 questions to be completed in 3 hours.
+*   **Difficulty Distribution**:
+    *   One Easy problem: Based on Algorithm, Aptitude, and Data Structures.
+    *   One Medium problem: Based on Greedy Algorithm.
+    *   One Hard problem: Usually based on Dynamic Programming.
+
+Example Coding Questions:
+*   **Question 1 (Strings)**: Check if strings are rotations of each other.
+    *   Input: Two strings s1 and s2.
+    *   Task: Determine if s2 is a rotated version of s1.
+    *   Expected Time Complexity: O(N)
+    *   Expected Space Complexity: O(N)
+*   **Question 2 (Strings/Palindrome)**: Jarvis is weak in computing palindromes for Alphanumeric characters.
+    *   Input: A string containing alphanumeric characters.
+    *   Task: Find out whether the string is a palindrome, ignoring symbols, whitespaces, and case.
+    *   Expected Time Complexity: O(N)
+    *   Expected Space Complexity: O(1)
+*   **Question 3 (Binary Tree)**: Given a binary tree, print the bottom view from left to right.
+    *   Task: Return an array containing the bottom view of the given tree. If multiple nodes are at the same horizontal distance and bottom-most, print the later one in level traversal.
+    *   Expected Time Complexity: O(N)
+    *   Expected Auxiliary Space: O(N)
+*   **Question 4 (Stack/Expression Evaluation)**: Evaluate a postfix expression.
+    *   Input: A postfix expression with basic arithmetic operators ('*', '/', '+', '-'), multiple-digit operands, and space separators. No brackets.
+    *   Task: Evaluate the expression, outputting the answer modulo (10^9+7). Use modular division when required.
+
+---
+
+Overall Summary & Key Takeaways (Deloitte Analyst Perspective):
+
+The Amazon SDE interview process is rigorous, heavily weighted towards technical proficiency, particularly in Data Structures and Algorithms, but also places significant emphasis on behavioral aspects and cultural fit through its Leadership Principles.
+
+Common Themes Across Sites:
+*   **DSA is Paramount**: All sources stress the critical importance of Data Structures and Algorithms. This is the core of technical rounds and the online assessment.
+*   **Behavioral & Leadership Principles**: Amazon's 16 Leadership Principles are a non-negotiable part of the interview, especially in the Bar Raiser and HR rounds. The STAR method is recommended for answering behavioral questions.
+*   **Structured Interview Process**: A multi-stage process involving an online assessment, multiple technical rounds, an HR round, and a Bar Raiser round.
+*   **System Design**: Confirmed as a dedicated round by InterviewBit, though GeeksforGeeks mentions it in course titles, implying its relevance.
+*   **Project Discussion**: Projects are a key part of technical rounds, requiring deep understanding and confidence in your work.
+*   **Computer Science Fundamentals**: OOPs, DBMS, Operating Systems are tested via MCQs and conceptual questions.
+
+**Top 5 DSA Topics (Aggregated from all sources):**
+1.  **Arrays**: Fundamental, with problems ranging from basic manipulation to complex subarray sums and matrix traversals.
+2.  **Strings**: Common for pattern matching, manipulation, and palindrome checks.
+3.  **Linked Lists**: Essential for understanding dynamic memory and pointer manipulation.
+4.  **Trees (including Binary Trees and BSTs)**: Crucial for advanced data organization, traversal, and recursive problem-solving. Graph problems often build on tree concepts.
+5.  **Dynamic Programming**: A frequent topic for hard-level problems, requiring optimization over recursion. Greedy Algorithms are also prominent for medium-level problems.
+
+**Must-Know Leadership Principles (Implicitly and Explicitly from InterviewBit):**
+*   **Customer Obsession**: Always start with the customer and work backward.
+*   **Ownership**: Take responsibility for results.
+*   **Invent and Simplify**: Innovate and find simpler solutions.
+*   **Are Right, A Lot**: Seek diverse perspectives and challenge decisions.
+*   **Learn and Be Curious**: Continuously seek new knowledge and explore possibilities.
+*   (Candidates should be prepared to discuss real-life examples for these and other LPs using the STAR method.)
+
+Key Behavioral Interview Advice:
+*   **STAR Method**: Essential for structuring answers to behavioral questions (Situation, Task, Action, Result).
+*   **Show Enthusiasm and Curiosity**: Ask thoughtful questions about the company, technology, and team.
+*   **Highlight Strengths**: Confidently articulate your skills and achievements.
+*   **Cultural Fit**: Demonstrate alignment with Amazon's Leadership Principles.
+
+System Design Emphasis:
+*   While not extensively detailed with specific problems, its inclusion as a dedicated round signifies its importance for SDE roles. Candidates should prepare for designing scalable, reliable, and efficient systems.
+
+In summary, aspiring Amazon SDEs must master DSA, practice extensively, understand and exemplify the Leadership Principles, and be ready to discuss their projects in depth. Preparation should cover a wide range of DSA topics, with a focus on Arrays, Strings, Linked Lists, Trees, and Dynamic Programming, alongside core CS fundamentals and system design concepts.
+```

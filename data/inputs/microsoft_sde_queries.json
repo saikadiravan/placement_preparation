@@ -1,0 +1,23 @@
+[
+  {
+    "site": "GeeksforGeeks",
+    "search_query": "Microsoft SDE interview questions",
+    "initial_url_guess": "https://www.geeksforgeeks.org/dsa/microsoft-sde-sheet-interview-questions-and-answers/",
+    "valid": false,
+    "url": "https://www.geeksforgeeks.org/dsa/microsoft-sde-sheet-interview-questions-and-answers/"
+  },
+  {
+    "site": "InterviewBit",
+    "search_query": "Microsoft SDE interview questions",
+    "initial_url_guess": "https://www.interviewbit.com/microsoft-interview-questions/",
+    "valid": false,
+    "url": "https://www.interviewbit.com/microsoft-interview-questions/"
+  },
+  {
+    "site": "PrepInsta",
+    "search_query": "Microsoft SDE interview questions",
+    "initial_url_guess": "https://prepinsta.com/microsoft/",
+    "valid": true,
+    "url": "https://prepinsta.com/microsoft/"
+  }
+]
