@@ -1,0 +1,38 @@
+{
+    "company": "google",
+    "role": "sde",
+    "interviewProcess": [
+        "Online Assessment / Phone Screen",
+        "Technical Interview (DSA)",
+        "Technical Interview (DSA)",
+        "System Design Interview",
+        "Behavioral Interview"
+    ],
+    "dsaTopics": [
+        "Arrays & Strings",
+        "Hash Tables",
+        "Linked Lists",
+        "Trees (Binary Trees, BSTs)",
+        "Graphs (DFS, BFS)",
+        "Dynamic Programming",
+        "Heaps & Priority Queues",
+        "Sorting & Searching",
+        "Backtracking"
+    ],
+    "systemDesignTopics": [
+        "Design a URL Shortener",
+        "Design a Distributed Cache",
+        "Design a Chat System",
+        "Design Google Search",
+        "Design a Ride-Sharing Service"
+    ],
+    "behavioralQuestions": [
+        "Tell me about a challenging technical problem you faced and how you solved it.",
+        "Describe a time you failed and what you learned from it.",
+        "How do you prioritize your work when faced with multiple urgent tasks?",
+        "Tell me about a time you had a disagreement with a team member or manager. How did you resolve it?",
+        "Why are you interested in Google and this SDE role?"
+    ],
+    "difficulty": "Hard",
+    "avgRounds": 5
+}

@@ -1,323 +1,378 @@
 {
-  "total_days": 21,
-  "daily_hours": 5,
-  "schedule": [
-    {
-      "day": 1,
-      "date": "YYYY-MM-DD",
-      "topics": [
-        "Array",
-        "Searching Algorithms"
-      ],
-      "problems": [
-        "Largest Sum Contiguous Subarray",
-        "Search in a row-wise and column-wise sorted matrix",
-        "Program for array rotation"
-      ],
-      "lp_focus": "Ownership, Bias for Action",
-      "notes": "Focus on fundamental array manipulations and basic search techniques. Understand time/space complexity. Begin thinking about how to take initiative in problem-solving."
-    },
-    {
-      "day": 2,
-      "date": "YYYY-MM-DD",
-      "topics": [
-        "Array",
-        "String"
-      ],
-      "problems": [
-        "Trapping Rain Water",
-        "Find duplicates in an array",
-        "Validate an IP Address",
-        "Implement Atoi"
-      ],
-      "lp_focus": "Dive Deep, Insist on the Highest Standards",
-      "notes": "Tackle more complex array problems requiring careful logic. Introduce string parsing and manipulation. Pay attention to edge cases and robust solutions."
-    },
-    {
-      "day": 3,
-      "date": "YYYY-MM-DD",
-      "topics": [
-        "String",
-        "Linked List"
-      ],
-      "problems": [
-        "Permutations of a given string",
-        "Length of the longest substring without repeating characters",
-        "Reverse a linked list",
-        "Detect loop in a linked list"
-      ],
-      "lp_focus": "Learn and Be Curious, Invent and Simplify",
-      "notes": "Explore string algorithms like permutations and sliding window. Master linked list basics, including pointer manipulation and cycle detection. Explore different approaches."
-    },
-    {
-      "day": 4,
-      "date": "YYYY-MM-DD",
-      "topics": [
-        "Linked List",
-        "Stack"
-      ],
-      "problems": [
-        "Merge K sorted linked lists",
-        "Function to check if a singly linked list is palindrome",
-        "Check for Balanced Brackets in an expression",
-        "Next Greater Element"
-      ],
-      "lp_focus": "Customer Obsession, Deliver Results",
-      "notes": "Advance linked list skills with merge and palindrome checks. Understand stack applications for expression validation and finding patterns. Aim for efficient solutions."
-    },
-    {
-      "day": 5,
-      "date": "YYYY-MM-DD",
-      "topics": [
-        "Stack",
-        "Queue"
-      ],
-      "problems": [
-        "Sort a stack using recursion",
-        "Queue using two Stacks",
-        "Stack using two queues",
-        "Connect n ropes with minimum cost"
-      ],
-      "lp_focus": "Frugality, Think Big",
-      "notes": "Deepen understanding of stack and queue inter-conversions and their applications. Introduce basic greedy approaches for optimization problems."
-    },
-    {
-      "day": 6,
-      "date": "YYYY-MM-DD",
-      "topics": [
-        "Queue",
-        "Tree (Binary Tree)"
-      ],
-      "problems": [
-        "First negative integer in every window of size k",
-        "Inorder Traversal",
-        "Preorder Traversal",
-        "Height of Binary Tree"
-      ],
-      "lp_focus": "Dive Deep, Learn and Be Curious",
-      "notes": "Practice queue problems, especially with sliding windows. Start with binary tree traversals (recursive and iterative) and basic properties. Tree-based recursion is crucial."
-    },
-    {
-      "day": 7,
-      "date": "YYYY-MM-DD",
-      "topics": [
-        "Tree (Binary Tree, BST)"
-      ],
-      "problems": [
-        "Diameter of a Binary Tree",
-        "Lowest Common Ancestor in a Binary Tree",
-        "Check for BST",
-        "Kth largest element in BST"
-      ],
-      "lp_focus": "Invent and Simplify, Are Right, A Lot",
-      "notes": "Focus on advanced tree problems, including LCA and diameter. Understand BST properties and how to leverage them for efficient search and retrieval."
-    },
-    {
-      "day": 8,
-      "date": "YYYY-MM-DD",
-      "topics": [
-        "Graph"
-      ],
-      "problems": [
-        "BFS of Graph",
-        "DFS of Graph",
-        "Find the number of islands",
-        "Detect cycle in an undirected graph"
-      ],
-      "lp_focus": "Think Big, Deliver Results",
-      "notes": "Introduce graph theory with BFS and DFS traversals. Apply these to common problems like finding connected components and cycle detection."
-    },
-    {
-      "day": 9,
-      "date": "YYYY-MM-DD",
-      "topics": [
-        "Graph",
-        "Trie"
-      ],
-      "problems": [
-        "Topological sort",
-        "Dijkstra Algorithm",
-        "Trie Insert and Search",
-        "Longest Common Prefix using Trie"
-      ],
-      "lp_focus": "Dive Deep, Invent and Simplify",
-      "notes": "Explore advanced graph algorithms like topological sort and Dijkstra. Understand Trie data structure for efficient string operations."
-    },
-    {
-      "day": 10,
-      "date": "YYYY-MM-DD",
-      "topics": [
-        "Heap and Hash"
-      ],
-      "problems": [
-        "k largest elements",
-        "Find median in a stream",
-        "Rearrange characters",
-        "Smallest distinct window"
-      ],
-      "lp_focus": "Frugality, Bias for Action",
-      "notes": "Master heap (priority queue) applications for finding k-th elements and stream processing. Explore hash map usage for frequency counting and window problems."
-    },
-    {
-      "day": 11,
-      "date": "YYYY-MM-DD",
-      "topics": [
-        "Searching Algorithms",
-        "Sorting Algorithms"
-      ],
-      "problems": [
-        "Search an element in a sorted and rotated array",
-        "Square root of an integer",
-        "Sort an array of 0s, 1s, and 2s",
-        "Merge Without Extra Space"
-      ],
-      "lp_focus": "Insist on the Highest Standards, Ownership",
-      "notes": "Review advanced searching techniques (e.g., binary search variations). Practice efficient sorting algorithms and in-place manipulations."
-    },
-    {
-      "day": 12,
-      "date": "YYYY-MM-DD",
-      "topics": [
-        "Recursion and Backtracking"
-      ],
-      "problems": [
-        "Rat in a Maze Problem - I",
-        "Combination Sum",
-        "N-Queen Problem",
-        "Solve the Sudoku"
-      ],
-      "lp_focus": "Learn and Be Curious, Think Big",
-      "notes": "Develop strong recursive thinking and backtracking skills. Understand how to explore solution spaces systematically. Practice pruning techniques."
-    },
-    {
-      "day": 13,
-      "date": "YYYY-MM-DD",
-      "topics": [
-        "Dynamic Programming"
-      ],
-      "problems": [
-        "0 - 1 Knapsack Problem",
-        "Longest Common Subsequence",
-        "Coin Change",
-        "Partition Equal Subset Sum"
-      ],
-      "lp_focus": "Dive Deep, Invent and Simplify",
-      "notes": "Begin with foundational DP problems. Focus on identifying overlapping subproblems and optimal substructure. Practice memoization and tabulation."
-    },
-    {
-      "day": 14,
-      "date": "YYYY-MM-DD",
-      "topics": [
-        "Dynamic Programming"
-      ],
-      "problems": [
-        "Stock buy and sell",
-        "Edit Distance",
-        "Word Break",
-        "Longest Palindromic Subsequence"
-      ],
-      "lp_focus": "Are Right, A Lot, Deliver Results",
-      "notes": "Continue with intermediate DP problems. Practice recognizing DP patterns in various contexts. Aim for clear state definitions and transitions."
-    },
-    {
-      "day": 15,
-      "date": "YYYY-MM-DD",
-      "topics": [
-        "Dynamic Programming",
-        "BitMagic"
-      ],
-      "problems": [
-        "Egg Dropping Puzzle",
-        "Wildcard Pattern Matching",
-        "Find the Missing Number",
-        "Power of 2"
-      ],
-      "lp_focus": "Frugality, Insist on the Highest Standards",
-      "notes": "Tackle more challenging DP problems. Introduce BitMagic for efficient manipulation of numbers. Understand bitwise operators and their applications."
-    },
-    {
-      "day": 16,
-      "date": "YYYY-MM-DD",
-      "topics": [
-        "System Design",
-        "Behavioral Principles"
-      ],
-      "problems": [
-        "N/A"
-      ],
-      "lp_focus": "Dive Deep, Ownership, Earn Trust",
-      "notes": "Dedicate time to thoroughly revise your past projects. Be prepared for deep technical grilling on architecture, design choices, trade-offs, and 'what's new'. Prepare STAR stories demonstrating Ownership and Earn Trust."
-    },
-    {
-      "day": 17,
-      "date": "YYYY-MM-DD",
-      "topics": [
-        "System Design",
-        "Behavioral Principles"
-      ],
-      "problems": [
-        "N/A"
-      ],
-      "lp_focus": "Think Big, Customer Obsession, Hire and Develop the Best",
-      "notes": "Focus on scalability, reliability, and performance aspects of system design (even if implicit in project discussions). Prepare STAR stories for Customer Obsession and how you've helped others grow."
-    },
-    {
-      "day": 18,
-      "date": "YYYY-MM-DD",
-      "topics": [
-        "Behavioral Principles",
-        "Computer Fundamentals"
-      ],
-      "problems": [
-        "N/A"
-      ],
-      "lp_focus": "Bias for Action, Learn and Be Curious, Deliver Results",
-      "notes": "Practice articulating your experiences using the STAR method for LPs like Bias for Action, Learn and Be Curious, and Deliver Results. Review OOPs, DBMS, and OS concepts for MCQ/discussion."
-    },
-    {
-      "day": 19,
-      "date": "YYYY-MM-DD",
-      "topics": [
-        "Mixed DSA Practice",
-        "Puzzles"
-      ],
-      "problems": [
-        "Median of two sorted arrays of different sizes",
-        "Longest Consecutive 1's",
-        "The Celebrity Problem",
-        "Puzzles (general logical thinking)"
-      ],
-      "lp_focus": "Are Right, A Lot, Invent and Simplify",
-      "notes": "Solve a mix of medium-to-hard problems across different DSA topics to simulate interview conditions. Practice logical puzzles to sharpen problem-solving skills."
-    },
-    {
-      "day": 20,
-      "date": "YYYY-MM-DD",
-      "topics": [
-        "Comprehensive DSA Review",
-        "Language-Based Questions"
-      ],
-      "problems": [
-        "Serialize and Deserialize a Binary Tree",
-        "Alien Dictionary",
-        "Longest Repeating Subsequence",
-        "Clone a linked list with next and random pointer"
-      ],
-      "lp_focus": "Insist on the Highest Standards, Dive Deep",
-      "notes": "Review challenging problems and concepts. Ensure a strong grasp of your chosen programming language's specifics (e.g., memory management, data structures, concurrency). Identify any weak areas for a quick brush-up."
-    },
-    {
-      "day": 21,
-      "date": "YYYY-MM-DD",
-      "topics": [
-        "Mock Interview",
-        "Final Review"
-      ],
-      "problems": [
-        "N/A"
-      ],
-      "lp_focus": "All Leadership Principles (holistic assessment)",
-      "notes": "Conduct a full mock interview (coding + system design discussion + behavioral). Practice articulating thoughts clearly and concisely. Focus on confidence and demonstrating all LPs. Light review of key concepts."
-    }
-  ]
+    "company": "google",
+    "role": "sde",
+    "total_days": 21,
+    "schedule": [
+        {
+            "day": 1,
+            "focus": "DSA: String Manipulation Basics",
+            "tasks": [
+                {
+                    "title": "Remove Duplicate Letters (as a foundational string problem)",
+                    "category": "dsa"
+                },
+                {
+                    "title": "License Key Formatting",
+                    "category": "dsa"
+                },
+                {
+                    "title": "Unique Email Addresses",
+                    "category": "dsa"
+                },
+                {
+                    "title": "Backspace String Compare",
+                    "category": "dsa"
+                }
+            ],
+            "tips": "Start by thoroughly understanding and implementing solutions to fundamental string manipulation problems."
+        },
+        {
+            "day": 2,
+            "focus": "DSA: Arrays and Hashing",
+            "tasks": [
+                {
+                    "title": "Two Sum",
+                    "category": "dsa"
+                },
+                {
+                    "title": "Plus One",
+                    "category": "dsa"
+                },
+                {
+                    "title": "Summary Ranges",
+                    "category": "dsa"
+                },
+                {
+                    "title": "Bulls and Cows",
+                    "category": "dsa"
+                }
+            ],
+            "tips": "Leverage hash maps to efficiently solve problems involving lookups and frequency counting."
+        },
+        {
+            "day": 3,
+            "focus": "DSA: Sorting and Searching",
+            "tasks": [
+                {
+                    "title": "Merge Intervals",
+                    "category": "dsa"
+                },
+                {
+                    "title": "Merge Sort vs Quick Sort (conceptual)",
+                    "category": "behavioral"
+                },
+                {
+                    "title": "Binary Search related problems (general practice)",
+                    "category": "dsa"
+                }
+            ],
+            "tips": "Be prepared to discuss the trade-offs between different sorting algorithms like merge sort and quick sort."
+        },
+        {
+            "day": 4,
+            "focus": "DSA: Trees (Basic Traversal & Properties)",
+            "tasks": [
+                {
+                    "title": "Count Complete Tree Nodes",
+                    "category": "dsa"
+                },
+                {
+                    "title": "Binary Tree Longest Consecutive Sequence",
+                    "category": "dsa"
+                },
+                {
+                    "title": "Zigzag Iterator (can be adapted for tree level order)",
+                    "category": "dsa"
+                }
+            ],
+            "tips": "Focus on tree traversals (pre-order, in-order, post-order, level-order) and their applications."
+        },
+        {
+            "day": 5,
+            "focus": "DSA: Trees (Advanced & Design)",
+            "tasks": [
+                {
+                    "title": "Evaluate Division",
+                    "category": "dsa"
+                },
+                {
+                    "title": "Android Unlock Patterns",
+                    "category": "dsa"
+                }
+            ],
+            "tips": "Consider how trees can represent complex relationships and explore graph-like problems that use tree concepts."
+        },
+        {
+            "day": 6,
+            "focus": "DSA: Linked Lists",
+            "tasks": [
+                {
+                    "title": "Add Two Numbers",
+                    "category": "dsa"
+                },
+                {
+                    "title": "Sentence Similarity (can be adapted for linked list manipulation)",
+                    "category": "dsa"
+                },
+                {
+                    "title": "Logger Rate Limiter (can be implemented with linked lists/queues)",
+                    "category": "dsa"
+                }
+            ],
+            "tips": "Practice manipulating linked lists, including reversing, merging, and detecting cycles."
+        },
+        {
+            "day": 7,
+            "focus": "DSA: Graphs (Basics & Traversal)",
+            "tasks": [
+                {
+                    "title": "Number of Islands",
+                    "category": "dsa"
+                },
+                {
+                    "title": "UTF-8 Validation",
+                    "category": "dsa"
+                },
+                {
+                    "title": "Max Points on a Line",
+                    "category": "dsa"
+                }
+            ],
+            "tips": "Master Depth-First Search (DFS) and Breadth-First Search (BFS) for graph traversal problems."
+        },
+        {
+            "day": 8,
+            "focus": "DSA: Graphs (Advanced & Applications)",
+            "tasks": [
+                {
+                    "title": "Most Stones Removed with Same Row or Column",
+                    "category": "dsa"
+                },
+                {
+                    "title": "Bomb Enemy",
+                    "category": "dsa"
+                },
+                {
+                    "title": "Number of Islands II",
+                    "category": "dsa"
+                }
+            ],
+            "tips": "Apply graph algorithms to problems involving connectivity, reachability, and optimization."
+        },
+        {
+            "day": 9,
+            "focus": "DSA: Dynamic Programming (Introduction)",
+            "tasks": [
+                {
+                    "title": "Climbing Stairs (classic DP)",
+                    "category": "dsa"
+                },
+                {
+                    "title": "Decode String",
+                    "category": "dsa"
+                },
+                {
+                    "title": "Encode String with Shortest Length",
+                    "category": "dsa"
+                }
+            ],
+            "tips": "Begin with simpler DP problems to grasp the concepts of overlapping subproblems and optimal substructure."
+        },
+        {
+            "day": 10,
+            "focus": "DSA: Dynamic Programming (Intermediate)",
+            "tasks": [
+                {
+                    "title": "Longest Substring with At Most Two Distinct Characters",
+                    "category": "dsa"
+                },
+                {
+                    "title": "Longest Substring with At Most K Distinct Characters",
+                    "category": "dsa"
+                },
+                {
+                    "title": "Split Array Largest Sum",
+                    "category": "dsa"
+                }
+            ],
+            "tips": "Practice DP problems that involve optimization and counting, often combining with other data structures."
+        },
+        {
+            "day": 11,
+            "focus": "DSA: Backtracking and Recursion",
+            "tasks": [
+                {
+                    "title": "Word Squares",
+                    "category": "dsa"
+                },
+                {
+                    "title": "24 Game",
+                    "category": "dsa"
+                },
+                {
+                    "title": "Cracking the Safe",
+                    "category": "dsa"
+                }
+            ],
+            "tips": "Understand how to formulate recursive solutions and optimize them with backtracking techniques."
+        },
+        {
+            "day": 12,
+            "focus": "DSA: Greedy Algorithms",
+            "tasks": [
+                {
+                    "title": "Minimum Domino Rotations For Equal Row",
+                    "category": "dsa"
+                },
+                {
+                    "title": "Minimize Max Distance to Gas Station",
+                    "category": "dsa"
+                },
+                {
+                    "title": "Minimum Cost to Hire K Workers",
+                    "category": "dsa"
+                }
+            ],
+            "tips": "Focus on identifying problems where making the locally optimal choice leads to a globally optimal solution."
+        },
+        {
+            "day": 13,
+            "focus": "DSA: Complex Problems & Edge Cases",
+            "tasks": [
+                {
+                    "title": "Longest Absolute File Path",
+                    "category": "dsa"
+                },
+                {
+                    "title": "K Empty Slots",
+                    "category": "dsa"
+                },
+                {
+                    "title": "Next Closest Time",
+                    "category": "dsa"
+                }
+            ],
+            "tips": "Practice problems that require careful handling of edge cases and specific problem constraints."
+        },
+        {
+            "day": 14,
+            "focus": "System Design (Introduction & Core Concepts)",
+            "tasks": [
+                {
+                    "title": "Review System Design Fundamentals (Scalability, Availability, Latency, CAP Theorem)",
+                    "category": "system-design"
+                },
+                {
+                    "title": "How would you split a search query across multiple machines?",
+                    "category": "behavioral"
+                }
+            ],
+            "tips": "Familiarize yourself with the fundamental principles of designing scalable and robust systems."
+        },
+        {
+            "day": 15,
+            "focus": "System Design (Specific Scenarios)",
+            "tasks": [
+                {
+                    "title": "Design the game Snake (focus on data structures and core logic)",
+                    "category": "dsa"
+                },
+                {
+                    "title": "Design Search Autocomplete System",
+                    "category": "dsa"
+                }
+            ],
+            "tips": "Apply your DSA knowledge to think about the data structures and algorithms needed for system components."
+        },
+        {
+            "day": 16,
+            "focus": "Behavioral & Project Deep Dive",
+            "tasks": [
+                {
+                    "title": "Questions from Project: How it works, Bigram and ngram model approach, etc.",
+                    "category": "behavioral"
+                },
+                {
+                    "title": "Questions from Project: Bi-directional Sync b/w mysql and sqilte db.",
+                    "category": "behavioral"
+                }
+            ],
+            "tips": "Be ready to articulate the technical details and design choices of your past projects in depth."
+        },
+        {
+            "day": 17,
+            "focus": "Googliness & Behavioral",
+            "tasks": [
+                {
+                    "title": "Why should one use merge sort over quick sort and vice-versa.",
+                    "category": "behavioral"
+                },
+                {
+                    "title": "What data structures will you use to develop the game Snake?",
+                    "category": "behavioral"
+                }
+            ],
+            "tips": "Demonstrate a collaborative mindset and a passion for problem-solving, even in behavioral questions."
+        },
+        {
+            "day": 18,
+            "focus": "Mock Interview 1 (DSA Focus)",
+            "tasks": [
+                {
+                    "title": "Practice solving 2 medium DSA problems under timed conditions.",
+                    "category": "review"
+                },
+                {
+                    "title": "Simulate a Google phone interview with a focus on explaining thought process.",
+                    "category": "review"
+                }
+            ],
+            "tips": "Focus on clear communication and thinking aloud during your mock interviews to simulate the real environment."
+        },
+        {
+            "day": 19,
+            "focus": "Mock Interview 2 (Mixed DSA & System Design Concepts)",
+            "tasks": [
+                {
+                    "title": "Practice 1 medium DSA problem and discuss a simplified system design scenario.",
+                    "category": "review"
+                },
+                {
+                    "title": "Practice coding on a shared document, emphasizing clear variable names and logic.",
+                    "category": "review"
+                }
+            ],
+            "tips": "Emphasize clarity in your shared document coding and be ready to pivot between technical problem-solving and system design discussions."
+        },
+        {
+            "day": 20,
+            "focus": "Review and Consolidation",
+            "tasks": [
+                {
+                    "title": "Review your weakest DSA topics and any challenging problems encountered.",
+                    "category": "review"
+                },
+                {
+                    "title": "Revisit key behavioral scenarios and prepare STAR method responses.",
+                    "category": "review"
+                }
+            ],
+            "tips": "Consolidate your learning by revisiting areas where you feel less confident, ensuring a strong foundational understanding."
+        },
+        {
+            "day": 21,
+            "focus": "Final Preparation & Mindset",
+            "tasks": [
+                {
+                    "title": "Light review of core concepts and algorithms.",
+                    "category": "review"
+                },
+                {
+                    "title": "Focus on getting adequate rest and maintaining a positive mindset.",
+                    "category": "review"
+                }
+            ],
+            "tips": "Approach the interview with confidence, knowing that your preparation has equipped you to showcase your problem-solving abilities."
+        }
+    ]
 }

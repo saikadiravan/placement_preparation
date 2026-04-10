@@ -1,0 +1,20 @@
+{
+    "company": "infosys",
+    "role": "devops engineer",
+    "interviewProcess": [
+        "Aptitude Test / Online Assessment",
+        "Technical Interview (focus on Linux, Networking, Scripting, Cloud, CI/CD concepts)",
+        "HR Interview"
+    ],
+    "dsaTopics": [],
+    "systemDesignTopics": [],
+    "behavioralQuestions": [
+        "Tell me about yourself.",
+        "Why are you interested in a DevOps role at Infosys?",
+        "Describe a challenge you faced in a project and how you overcame it.",
+        "How do you handle working under pressure or with tight deadlines?",
+        "Where do you see yourself in the next 3-5 years?"
+    ],
+    "difficulty": "Easy",
+    "avgRounds": 2
+}

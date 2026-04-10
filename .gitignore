@@ -1,1 +1,54 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Environment variables
 .env
+
+# Streamlit config (optional, if you don’t want to share secrets)
+.streamlit/secrets.toml
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Testing
+.coverage
+htmlcov/
+
+# PyInstaller
+*.spec
+
+# mypy / type check
+.mypy_cache/
+
+# pytest
+.pytest_cache/
+
+# pipenv
+Pipfile.lock
+
+# pyenv
+.python-version

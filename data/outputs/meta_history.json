@@ -1,0 +1,28 @@
+{
+    "company": "meta",
+    "role": "sde",
+    "interviewProcess": [
+        "Round 1: OA",
+        "Round 2: DSA",
+        "Round 3: System Design / Behavioral"
+    ],
+    "dsaTopics": [
+        "Three Sum"
+    ],
+    "systemDesignTopics": [
+        "Design a URL shortener",
+        "Design a chat system",
+        "Design a news feed",
+        "Design a distributed key-value store",
+        "Design a ride-sharing app"
+    ],
+    "behavioralQuestions": [
+        "Tell me about yourself",
+        "Why Meta?",
+        "Tell me about a time you failed",
+        "How do you handle conflict?",
+        "Where do you see yourself in 5 years?"
+    ],
+    "difficulty": "Hard",
+    "avgRounds": 5
+}

@@ -1,0 +1,53 @@
+{
+    "company": "Meta",
+    "role": "sde",
+    "interviewProcess": [
+        "Initial Screening (Resume/Recruiter Call)",
+        "Online Assessment (OA) / Technical Phone Screen (typically 1-2 rounds focusing on Data Structures and Algorithms)",
+        "Onsite Interview (Multiple rounds which typically include 1-2 Data Structures and Algorithms rounds, 1 System Design round, and 1 Behavioral/Leadership Principles round)",
+        "Offer"
+    ],
+    "dsaTopics": [
+        "Arrays",
+        "Strings",
+        "Hash Maps",
+        "Linked Lists",
+        "Trees (General)",
+        "Binary Trees",
+        "Binary Search Trees",
+        "Graphs (General)",
+        "Depth-First Search (DFS)",
+        "Breadth-First Search (BFS)",
+        "Dynamic Programming",
+        "Recursion",
+        "Backtracking",
+        "Sorting Algorithms",
+        "Searching Algorithms (Binary Search)",
+        "Heaps (Min/Max Heaps)",
+        "Priority Queues",
+        "Stacks",
+        "Queues",
+        "Two Pointers",
+        "Sliding Window",
+        "Greedy Algorithms",
+        "Tries",
+        "Union-Find (Disjoint Set Union)",
+        "Bit Manipulation"
+    ],
+    "systemDesignTopics": [
+        "Design a News Feed (e.g., Facebook/Instagram Feed)",
+        "Design a URL Shortener",
+        "Design a Chat Application (e.g., WhatsApp/Messenger)",
+        "Design a Recommendation System",
+        "Design an API Rate Limiter"
+    ],
+    "behavioralQuestions": [
+        "Tell me about a time you faced a significant challenge and how you overcame it.",
+        "Why Meta and why this role?",
+        "Describe a time when you failed and what you learned from it.",
+        "How do you handle conflict or disagreement with a teammate?",
+        "Tell me about a project you're most proud of."
+    ],
+    "difficulty": "Hard",
+    "avgRounds": 5
+}

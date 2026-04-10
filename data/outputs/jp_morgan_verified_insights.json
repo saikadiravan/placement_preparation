@@ -1,0 +1,49 @@
+{
+    "company": "JP Morgan",
+    "role": "devops engineer",
+    "interviewProcess": [
+        "Online Assessment (OA): Typically includes 1-2 coding challenges (medium difficulty, often LeetCode style) and may include an optional personality or aptitude test. Focuses on problem-solving and basic algorithmic skills.",
+        "Behavioral Interview: Focuses on cultural fit, teamwork, conflict resolution, project management, and past experiences. Candidates are expected to use the STAR method to describe situations, tasks, actions, and results, demonstrating how they interact with others and fit into a corporate culture.",
+        "Technical Interview (DSA & Coding): One or two rounds focusing on data structures, algorithms, and clean code implementation in a chosen language. Problems are generally medium difficulty, similar to those found on platforms like NeetCode.",
+        "DevOps / System Design Interview: Focuses on infrastructure-as-code (IaC), CI/CD pipelines, cloud technologies (AWS/Azure/GCP), networking, distributed systems, containerization (Docker, Kubernetes), monitoring, logging, and security principles. Candidates will be asked to design and discuss scalable, fault-tolerant systems relevant to a financial institution."
+    ],
+    "dsaTopics": [
+        "Two Sum",
+        "Group Anagrams",
+        "Longest Consecutive Sequence",
+        "Container With Most Water",
+        "Product of Array Except Self",
+        "Valid Parentheses",
+        "Merge Two Sorted Lists",
+        "Binary Tree Level Order Traversal",
+        "Validate Binary Search Tree",
+        "Subtree of Another Tree",
+        "Word Break",
+        "Course Schedule",
+        "Number of Islands",
+        "Pacific Atlantic Water Flow",
+        "LRU Cache",
+        "Merge k Sorted Lists",
+        "Meeting Rooms II"
+    ],
+    "systemDesignTopics": [
+        "Design a highly available and scalable financial transaction processing system.",
+        "Design a CI/CD pipeline for a microservices architecture handling millions of requests per day.",
+        "Design a global logging and monitoring system for distributed applications across multiple data centers.",
+        "How would you ensure disaster recovery and business continuity for a critical banking application?",
+        "Design a secure API Gateway to manage traffic and authentication for internal and external financial services.",
+        "Discuss strategies for implementing zero-downtime deployments and blue/green or canary releases.",
+        "Design an infrastructure for real-time data analytics from various financial market feeds."
+    ],
+    "behavioralQuestions": [
+        "Tell me about a time you faced a significant technical challenge in a project. How did you approach it, and what was the outcome?",
+        "Describe a situation where you had to work with a difficult team member or stakeholder. How did you handle the situation, and what was the resolution?",
+        "Why are you interested in a DevOps Engineer role at JP Morgan, and what do you know about our company culture?",
+        "Tell me about a time you made a mistake at work. What did you learn from it, and how did you apply that learning in a subsequent situation?",
+        "How do you stay updated with new technologies and industry trends relevant to DevOps?",
+        "Describe a project where you took initiative beyond your assigned responsibilities or demonstrated leadership.",
+        "How do you prioritize tasks when you have multiple competing deadlines or urgent requests?"
+    ],
+    "difficulty": "Medium",
+    "avgRounds": 4
+}

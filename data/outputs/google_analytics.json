@@ -1,0 +1,156 @@
+{
+    "difficultyLeaderboard": {
+        "company": "google",
+        "overallScore": 9.1,
+        "avgProblemDifficulty": 9.0,
+        "numRounds": 7,
+        "systemDesignWeight": 0.2,
+        "behavioralWeight": 0.8,
+        "dsaDifficulty": 9.0
+    },
+    "analyticsDashboard": {
+        "dsaTopicFrequency": [
+            {
+                "topic": "Longest Absolute File Path",
+                "frequency": 40
+            },
+            {
+                "topic": "K Empty Slots",
+                "frequency": 37
+            },
+            {
+                "topic": "Next Closest Time",
+                "frequency": 34
+            },
+            {
+                "topic": "Two Sum",
+                "frequency": 31
+            },
+            {
+                "topic": "Unique Email Addresses",
+                "frequency": 28
+            },
+            {
+                "topic": "Fruit Into Baskets",
+                "frequency": 25
+            }
+        ],
+        "roundTypes": [
+            {
+                "name": "Online Assessment",
+                "value": 30
+            },
+            {
+                "name": "Technical Coding",
+                "value": 40
+            },
+            {
+                "name": "System Design",
+                "value": 0
+            },
+            {
+                "name": "Behavioral",
+                "value": 15
+            }
+        ],
+        "problemPatterns": [
+            {
+                "pattern": "Two Pointer",
+                "count": 3
+            },
+            {
+                "pattern": "Sliding Window",
+                "count": 2
+            },
+            {
+                "pattern": "BFS/DFS",
+                "count": 2
+            },
+            {
+                "pattern": "Dynamic Programming",
+                "count": 2
+            },
+            {
+                "pattern": "Binary Search",
+                "count": 2
+            },
+            {
+                "pattern": "Greedy",
+                "count": 4
+            }
+        ],
+        "systemDesignFrequency": []
+    },
+    "extractedLists": {
+        "dsa": [
+            "Longest Absolute File Path",
+            "K Empty Slots",
+            "Next Closest Time",
+            "Two Sum",
+            "Unique Email Addresses",
+            "Fruit Into Baskets",
+            "License Key Formatting",
+            "Range Sum Query 2D - Mutable",
+            "Minimum Domino Rotations For Equal Row",
+            "Guess the Word",
+            "Unique Word Abbreviation",
+            "Robot Room Cleaner",
+            "Evaluate Division",
+            "Odd Even Jump",
+            "Repeated String Match",
+            "Sentence Screen Fitting",
+            "Cracking the Safe",
+            "Encode and Decode Strings",
+            "Bomb Enemy",
+            "Binary Tree Longest Consecutive Sequence",
+            "Zigzag Iterator",
+            "Campus Bikes",
+            "UTF-8 Validation",
+            "Missing Ranges",
+            "Longest Substring with At Most Two Distinct Characters",
+            "Backspace String Compare",
+            "Design Search Autocomplete System",
+            "Longest Substring with At Most K Distinct Characters",
+            "Count Complete Tree Nodes",
+            "Maximum Vacation Days",
+            "Most Stones Removed with Same Row or Column",
+            "Split Array Largest Sum",
+            "Minimum Cost to Hire K Workers",
+            "Minimum Area Rectangle",
+            "Trapping Rain Water",
+            "The Skyline Problem",
+            "Strobogrammatic Number III",
+            "Merge Intervals",
+            "Decode String",
+            "Number of Islands",
+            "Best Meeting Point",
+            "Moving Average from Data Stream",
+            "Minimize Max Distance to Gas Station",
+            "Android Unlock Patterns",
+            "Plus One",
+            "LRU Cache",
+            "Sentence Similarity",
+            "Logger Rate Limiter",
+            "Word Squares",
+            "Expressive Words",
+            "Encode String with Shortest Length",
+            "24 Game",
+            "Sentence Similarity II",
+            "Summary Ranges",
+            "Bulls and Cows",
+            "Max Points on a Line",
+            "Number of Islands II",
+            "Add Two Numbers",
+            "Brace Expansion II",
+            "Meeting Rooms II"
+        ],
+        "systemDesign": [],
+        "behavioral": [
+            "Why should one use merge sort over quick sort and vice-versa.",
+            "Questions from Project: How it works , Bigram and ngram model approach, etc.",
+            "Questions from Project: Bi-directional Sync b/w mysql and sqilte db.",
+            "What data structures will you use to develop the game Snake?",
+            "How would you split a search query across multiple machines?"
+        ]
+    }
+}

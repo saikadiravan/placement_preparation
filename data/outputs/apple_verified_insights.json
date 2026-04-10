@@ -1,0 +1,55 @@
+{
+    "company": "apple",
+    "role": "solution architect",
+    "interviewProcess": [
+        "Initial Application & Resume Screening",
+        "Recruiter Phone Screen (to assess basic qualifications and fit)",
+        "Technical Phone Interview (1-2 rounds, focused on Data Structures & Algorithms)",
+        "Onsite Interviews (4-5 rounds, including multiple DSA/coding, System Design, and Behavioral/Leadership Principles)",
+        "Hiring Committee Review",
+        "Offer"
+    ],
+    "dsaTopics": [
+        "Two Sum",
+        "Add Two Numbers",
+        "Longest Substring Without Repeating Characters",
+        "Longest Palindromic Substring",
+        "String to Integer (atoi)",
+        "3Sum",
+        "Valid Parentheses",
+        "Merge Two Sorted Lists",
+        "Search in Rotated Sorted Array",
+        "Trapping Rain Water",
+        "Permutations",
+        "Group Anagrams",
+        "Maximum Subarray",
+        "Merge Intervals",
+        "LRU Cache",
+        "Min Stack",
+        "Number of Islands",
+        "Reverse Linked List",
+        "Product of Array Except Self",
+        "Valid Anagram",
+        "Find Median from Data Stream",
+        "Serialize and Deserialize Binary Tree",
+        "Coin Change",
+        "Insert Delete GetRandom O(1)",
+        "LFU Cache"
+    ],
+    "systemDesignTopics": [
+        "Design a highly available and scalable photo sharing service",
+        "Design a real-time notification system",
+        "Design a URL shortener",
+        "Design a distributed key-value store",
+        "Design an Apple Maps routing service"
+    ],
+    "behavioralQuestions": [
+        "Tell me about a time you faced a significant technical challenge and how you overcame it.",
+        "Describe a project where you had to influence stakeholders without direct authority.",
+        "How do you handle disagreements with team members or managers?",
+        "Why Apple? What excites you about this role and our products?",
+        "Tell me about a time you failed or made a mistake. What did you learn from it?"
+    ],
+    "difficulty": "Hard",
+    "avgRounds": 5
+}

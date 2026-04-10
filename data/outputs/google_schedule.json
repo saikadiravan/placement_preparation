@@ -1,0 +1,561 @@
+{
+    "company": "google",
+    "role": "SDE",
+    "total_days": 21,
+    "difficulty": "Hard",
+    "schedule": [
+        {
+            "day": 1,
+            "focus": "DSA: Two Pointers & Basic String Manipulation",
+            "tasks": [
+                {
+                    "title": "Two Sum",
+                    "category": "dsa",
+                    "id": "d1_t1",
+                    "completed": false
+                },
+                {
+                    "title": "Unique Email Addresses",
+                    "category": "dsa",
+                    "id": "d1_t2",
+                    "completed": false
+                },
+                {
+                    "title": "License Key Formatting",
+                    "category": "dsa",
+                    "id": "d1_t3",
+                    "completed": false
+                },
+                {
+                    "title": "Remove Vowels from a String",
+                    "category": "dsa",
+                    "id": "d1_t4",
+                    "completed": false
+                }
+            ],
+            "tip": "Remember that Google interviewers want to see you think aloud; start with a brute-force approach and then explain how you'd optimize it, even for simpler problems like Two Sum.",
+            "date": "2026-04-11"
+        },
+        {
+            "day": 2,
+            "focus": "DSA: Sliding Window Fundamentals",
+            "tasks": [
+                {
+                    "title": "Fruit Into Baskets",
+                    "category": "dsa",
+                    "id": "d2_t1",
+                    "completed": false
+                },
+                {
+                    "title": "Longest Substring with At Most Two Distinct Characters",
+                    "category": "dsa",
+                    "id": "d2_t2",
+                    "completed": false
+                },
+                {
+                    "title": "Longest Substring with At Most K Distinct Characters",
+                    "category": "dsa",
+                    "id": "d2_t3",
+                    "completed": false
+                }
+            ],
+            "tip": "Clarify assumptions and constraints upfront. For sliding window problems, ensure you discuss edge cases and how your window moves effectively, a key aspect Google looks for.",
+            "date": "2026-04-12"
+        },
+        {
+            "day": 3,
+            "focus": "DSA: Array & String Problems",
+            "tasks": [
+                {
+                    "title": "Sentence Screen Fitting",
+                    "category": "dsa",
+                    "id": "d3_t1",
+                    "completed": false
+                },
+                {
+                    "title": "UTF-8 Validation",
+                    "category": "dsa",
+                    "id": "d3_t2",
+                    "completed": false
+                },
+                {
+                    "title": "Missing Ranges",
+                    "category": "dsa",
+                    "id": "d3_t3",
+                    "completed": false
+                },
+                {
+                    "title": "Plus One",
+                    "category": "dsa",
+                    "id": "d3_t4",
+                    "completed": false
+                }
+            ],
+            "tip": "Google values clear communication. When explaining your solution for problems like Sentence Screen Fitting, articulate each step of your logic, even if it seems obvious to you.",
+            "date": "2026-04-13"
+        },
+        {
+            "day": 4,
+            "focus": "DSA: Linked Lists & Basic Tree Traversal",
+            "tasks": [
+                {
+                    "title": "Add Two Numbers",
+                    "category": "dsa",
+                    "id": "d4_t1",
+                    "completed": false
+                },
+                {
+                    "title": "Merge Intervals",
+                    "category": "dsa",
+                    "id": "d4_t2",
+                    "completed": false
+                },
+                {
+                    "title": "Summary Ranges",
+                    "category": "dsa",
+                    "id": "d4_t3",
+                    "completed": false
+                }
+            ],
+            "tip": "Be prepared to discuss time and space complexity for each solution. For linked list problems like Add Two Numbers, explicitly mention the Big O notation for your approach.",
+            "date": "2026-04-14"
+        },
+        {
+            "day": 5,
+            "focus": "DSA: Trees - Basic & Advanced",
+            "tasks": [
+                {
+                    "title": "Binary Tree Longest Consecutive Sequence",
+                    "category": "dsa",
+                    "id": "d5_t1",
+                    "completed": false
+                },
+                {
+                    "title": "Count Complete Tree Nodes",
+                    "category": "dsa",
+                    "id": "d5_t2",
+                    "completed": false
+                },
+                {
+                    "title": "Zigzag Iterator",
+                    "category": "dsa",
+                    "id": "d5_t3",
+                    "completed": false
+                }
+            ],
+            "tip": "Demonstrate your understanding of recursion and iteration. For tree problems, explain why you chose a recursive or iterative approach, showing you've considered alternatives, which Google appreciates.",
+            "date": "2026-04-15"
+        },
+        {
+            "day": 6,
+            "focus": "DSA: Graphs - BFS & DFS",
+            "tasks": [
+                {
+                    "title": "Number of Islands",
+                    "category": "dsa",
+                    "id": "d6_t1",
+                    "completed": false
+                },
+                {
+                    "title": "Bomb Enemy",
+                    "category": "dsa",
+                    "id": "d6_t2",
+                    "completed": false
+                },
+                {
+                    "title": "Robot Room Cleaner",
+                    "category": "dsa",
+                    "id": "d6_t3",
+                    "completed": false
+                }
+            ],
+            "tip": "When tackling graph problems like Number of Islands, clearly define your base cases and recursive steps. Google interviewers look for logical structuring of algorithms.",
+            "date": "2026-04-16"
+        },
+        {
+            "day": 7,
+            "focus": "DSA: More Graphs & Union-Find",
+            "tasks": [
+                {
+                    "title": "Most Stones Removed with Same Row or Column",
+                    "category": "dsa",
+                    "id": "d7_t1",
+                    "completed": false
+                },
+                {
+                    "title": "Number of Islands II",
+                    "category": "dsa",
+                    "id": "d7_t2",
+                    "completed": false
+                },
+                {
+                    "title": "Campus Bikes",
+                    "category": "dsa",
+                    "id": "d7_t3",
+                    "completed": false
+                }
+            ],
+            "tip": "For problems requiring Union-Find, like Most Stones Removed, articulate the purpose of `find` and `union` operations and why this data structure is efficient for the given problem.",
+            "date": "2026-04-17"
+        },
+        {
+            "day": 8,
+            "focus": "DSA: Optimization & Dynamic Programming Intro",
+            "tasks": [
+                {
+                    "title": "Trapping Rain Water",
+                    "category": "dsa",
+                    "id": "d8_t1",
+                    "completed": false
+                },
+                {
+                    "title": "The Skyline Problem",
+                    "category": "dsa",
+                    "id": "d8_t2",
+                    "completed": false
+                },
+                {
+                    "title": "Split Array Largest Sum",
+                    "category": "dsa",
+                    "id": "d8_t3",
+                    "completed": false
+                }
+            ],
+            "tip": "Show problem-solving efficiency by discussing trade-offs between different algorithmic approaches. For Trapping Rain Water, explain why a naive O(N^2) solution is suboptimal and how to achieve O(N).",
+            "date": "2026-04-18"
+        },
+        {
+            "day": 9,
+            "focus": "DSA: Dynamic Programming",
+            "tasks": [
+                {
+                    "title": "Decode String",
+                    "category": "dsa",
+                    "id": "d9_t1",
+                    "completed": false
+                },
+                {
+                    "title": "Encode String with Shortest Length",
+                    "category": "dsa",
+                    "id": "d9_t2",
+                    "completed": false
+                },
+                {
+                    "title": "Expressive Words",
+                    "category": "dsa",
+                    "id": "d9_t3",
+                    "completed": false
+                }
+            ],
+            "tip": "When solving DP problems, clearly define your state and transition equations. Explaining the recurrence relation, as you would for Decode String, is crucial for Google interviews.",
+            "date": "2026-04-19"
+        },
+        {
+            "day": 10,
+            "focus": "DSA: Advanced Trees & Recursion",
+            "tasks": [
+                {
+                    "title": "Longest Absolute File Path",
+                    "category": "dsa",
+                    "id": "d10_t1",
+                    "completed": false
+                },
+                {
+                    "title": "K Empty Slots",
+                    "category": "dsa",
+                    "id": "d10_t2",
+                    "completed": false
+                },
+                {
+                    "title": "Odd Even Jump",
+                    "category": "dsa",
+                    "id": "d10_t3",
+                    "completed": false
+                }
+            ],
+            "tip": "Think aloud about how you're handling edge cases and complex logic. For K Empty Slots, describing your thought process as you consider different configurations is exactly what Google interviewers want to see.",
+            "date": "2026-04-20"
+        },
+        {
+            "day": 11,
+            "focus": "DSA: Heap & Priority Queue",
+            "tasks": [
+                {
+                    "title": "LRU Cache",
+                    "category": "dsa",
+                    "id": "d11_t1",
+                    "completed": false
+                },
+                {
+                    "title": "Logger Rate Limiter",
+                    "category": "dsa",
+                    "id": "d11_t2",
+                    "completed": false
+                },
+                {
+                    "title": "Meeting Rooms II",
+                    "category": "dsa",
+                    "id": "d11_t3",
+                    "completed": false
+                }
+            ],
+            "tip": "For problems like LRU Cache, explain the data structures you'd use (e.g., HashMap and Doubly Linked List) and how they interact to achieve O(1) operations, demonstrating your understanding of underlying mechanics.",
+            "date": "2026-04-21"
+        },
+        {
+            "day": 12,
+            "focus": "DSA: Complex Problems & Pattern Recognition",
+            "tasks": [
+                {
+                    "title": "Range Sum Query 2D - Mutable",
+                    "category": "dsa",
+                    "id": "d12_t1",
+                    "completed": false
+                },
+                {
+                    "title": "Minimum Domino Rotations For Equal Row",
+                    "category": "dsa",
+                    "id": "d12_t2",
+                    "completed": false
+                },
+                {
+                    "title": "Evaluate Division",
+                    "category": "dsa",
+                    "id": "d12_t3",
+                    "completed": false
+                }
+            ],
+            "tip": "Google interviewers are looking for candidates who can break down complex problems. When approaching Evaluate Division, discuss how you'd model the problem as a graph and then apply traversal techniques.",
+            "date": "2026-04-22"
+        },
+        {
+            "day": 13,
+            "focus": "DSA: String Algorithms & Pattern Matching",
+            "tasks": [
+                {
+                    "title": "Guess the Word",
+                    "category": "dsa",
+                    "id": "d13_t1",
+                    "completed": false
+                },
+                {
+                    "title": "Unique Word Abbreviation",
+                    "category": "dsa",
+                    "id": "d13_t2",
+                    "completed": false
+                },
+                {
+                    "title": "Repeated String Match",
+                    "category": "dsa",
+                    "id": "d13_t3",
+                    "completed": false
+                }
+            ],
+            "tip": "For problems involving string matching like Repeated String Match, consider different algorithmic approaches and their complexities. Explaining the evolution of your solution demonstrates good problem-solving skills.",
+            "date": "2026-04-23"
+        },
+        {
+            "day": 14,
+            "focus": "DSA: Geometric & Miscellaneous Hard Problems",
+            "tasks": [
+                {
+                    "title": "Minimum Area Rectangle",
+                    "category": "dsa",
+                    "id": "d14_t1",
+                    "completed": false
+                },
+                {
+                    "title": "Max Points on a Line",
+                    "category": "dsa",
+                    "id": "d14_t2",
+                    "completed": false
+                },
+                {
+                    "title": "Strobogrammatic Number III",
+                    "category": "dsa",
+                    "id": "d14_t3",
+                    "completed": false
+                }
+            ],
+            "tip": "Even for harder problems, starting with a brute-force idea and then refining it is a great strategy that aligns with Google's emphasis on problem-solving process over immediate perfection.",
+            "date": "2026-04-24"
+        },
+        {
+            "day": 15,
+            "focus": "Mock Interview 1 & Behavioral Prep",
+            "tasks": [
+                {
+                    "title": "Mock Interview",
+                    "category": "mock",
+                    "id": "d15_t1",
+                    "completed": false
+                },
+                {
+                    "title": "Why should one use merge sort over quick sort and vice-versa.",
+                    "category": "behavioral",
+                    "id": "d15_t2",
+                    "completed": false
+                },
+                {
+                    "title": "Questions from Project: How it works , Bigram and ngram model approach, etc.",
+                    "category": "behavioral",
+                    "id": "d15_t3",
+                    "completed": false
+                }
+            ],
+            "tip": "During mock interviews, focus on articulating your thought process clearly and comprehensively, just as you would in a real Google interview, especially when asked to compare algorithms like merge sort and quick sort.",
+            "date": "2026-04-25"
+        },
+        {
+            "day": 16,
+            "focus": "Mock Interview 2 & Behavioral Prep",
+            "tasks": [
+                {
+                    "title": "Mock Interview",
+                    "category": "mock",
+                    "id": "d16_t1",
+                    "completed": false
+                },
+                {
+                    "title": "Questions from Project: Bi-directional Sync b/w mysql and sqilte db.",
+                    "category": "behavioral",
+                    "id": "d16_t2",
+                    "completed": false
+                },
+                {
+                    "title": "What data structures will you use to develop the game Snake?",
+                    "category": "behavioral",
+                    "id": "d16_t3",
+                    "completed": false
+                }
+            ],
+            "tip": "Reflect on your performance in mock interviews. If you struggled with explaining your approach to data structure choices for Snake, practice articulating these decisions with confidence, a key 'Googliness' trait.",
+            "date": "2026-04-26"
+        },
+        {
+            "day": 17,
+            "focus": "Behavioral Deep Dive",
+            "tasks": [
+                {
+                    "title": "All Behavioral Questions (Consolidated)",
+                    "category": "behavioral",
+                    "id": "d17_t1",
+                    "completed": false
+                },
+                {
+                    "title": "How would you split a search query across multiple machines?",
+                    "category": "behavioral",
+                    "id": "d17_t2",
+                    "completed": false
+                }
+            ],
+            "tip": "For behavioral questions like splitting search queries, demonstrate you can think about system-level design and distributed systems, showcasing a broader understanding beyond just algorithms.",
+            "date": "2026-04-27"
+        },
+        {
+            "day": 18,
+            "focus": "DSA: Hard Problems & Optimization Review",
+            "tasks": [
+                {
+                    "title": "Cracking the Safe",
+                    "category": "dsa",
+                    "id": "d18_t1",
+                    "completed": false
+                },
+                {
+                    "title": "Minimize Max Distance to Gas Station",
+                    "category": "dsa",
+                    "id": "d18_t2",
+                    "completed": false
+                },
+                {
+                    "title": "Minimum Cost to Hire K Workers",
+                    "category": "dsa",
+                    "id": "d18_t3",
+                    "completed": false
+                }
+            ],
+            "tip": "Google interviewers appreciate seeing how you handle ambiguity. For problems like Cracking the Safe, clearly state assumptions and explore different strategies, showing your problem-solving flexibility.",
+            "date": "2026-04-28"
+        },
+        {
+            "day": 19,
+            "focus": "DSA: String & Pattern Focus",
+            "tasks": [
+                {
+                    "title": "Encode and Decode Strings",
+                    "category": "dsa",
+                    "id": "d19_t1",
+                    "completed": false
+                },
+                {
+                    "title": "Bulls and Cows",
+                    "category": "dsa",
+                    "id": "d19_t2",
+                    "completed": false
+                },
+                {
+                    "title": "Android Unlock Patterns",
+                    "category": "dsa",
+                    "id": "d19_t3",
+                    "completed": false
+                }
+            ],
+            "tip": "When explaining solutions for encoding/decoding or pattern-based problems, focus on clarity and efficiency. Google wants to see that you can design practical and performant solutions.",
+            "date": "2026-04-29"
+        },
+        {
+            "day": 20,
+            "focus": "Revision & Practice",
+            "tasks": [
+                {
+                    "title": "Review Weak Areas Identified in Mocks",
+                    "category": "revision",
+                    "id": "d20_t1",
+                    "completed": false
+                },
+                {
+                    "title": "Practice Mixed DSA Problems (Medium Difficulty)",
+                    "category": "revision",
+                    "id": "d20_t2",
+                    "completed": false
+                },
+                {
+                    "title": "Revisit Behavioral Scenarios",
+                    "category": "revision",
+                    "id": "d20_t3",
+                    "completed": false
+                }
+            ],
+            "tip": "This is a crucial revision day. Focus on areas where you felt less confident during mocks, ensuring you can articulate solutions and thought processes smoothly, as Google values thorough preparation.",
+            "date": "2026-04-30"
+        },
+        {
+            "day": 21,
+            "focus": "Final Polish & Mindset",
+            "tasks": [
+                {
+                    "title": "Review Google's Core Values and 'Googliness'",
+                    "category": "revision",
+                    "id": "d21_t1",
+                    "completed": false
+                },
+                {
+                    "title": "Light Problem Solving (Easy/Medium)",
+                    "category": "revision",
+                    "id": "d21_t2",
+                    "completed": false
+                },
+                {
+                    "title": "Relax and Prepare Mentally",
+                    "category": "revision",
+                    "id": "d21_t3",
+                    "completed": false
+                }
+            ],
+            "tip": "On your final preparation day, remember Google's emphasis on collaborative engineers. Think about how your past experiences demonstrate teamwork and a willingness to learn, key aspects of 'Googliness'.",
+            "date": "2026-05-01"
+        }
+    ],
+    "start_date": "2026-04-11"
+}

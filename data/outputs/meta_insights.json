@@ -1,0 +1,42 @@
+{
+    "company": "meta",
+    "role": "sde",
+    "interviewProcess": [
+        "Round: Coding (DSA problems like Three Sum and Kth Largest Element in an Array)",
+        "Round: System Design (Design a search product like Facebook)"
+    ],
+    "dsaTopics": [
+        "Three Sum",
+        "Kth Largest Element in an Array"
+    ],
+    "systemDesignTopics": [
+        "Design a search product like Facebook"
+    ],
+    "behavioralQuestions": [
+        "Tell me about a time you failed.",
+        "Why Meta?",
+        "Tell me about a challenge you faced and how you overcame it.",
+        "Where do you see yourself in 5 years?",
+        "How do you handle conflict with a team member?"
+    ],
+    "difficulty": "Hard",
+    "avgRounds": 5,
+    "_sources": {
+        "github": {
+            "status": "failed",
+            "chars": 0
+        },
+        "web": {
+            "status": "empty",
+            "chars": 0
+        },
+        "reddit": {
+            "status": "ok",
+            "chars": 52700
+        },
+        "ambitionbox": {
+            "status": "ok",
+            "chars": 19827
+        }
+    }
+}

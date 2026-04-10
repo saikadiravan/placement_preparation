@@ -1,0 +1,28 @@
+{
+    "company": "tcs",
+    "role": "system engineer",
+    "interviewProcess": [
+        "Online Aptitude & Technical Assessment",
+        "Technical Interview",
+        "HR Interview"
+    ],
+    "dsaTopics": [
+        "Arrays",
+        "Strings",
+        "Linked Lists",
+        "Stacks & Queues",
+        "Trees (basic traversal)",
+        "Sorting",
+        "Searching"
+    ],
+    "systemDesignTopics": [],
+    "behavioralQuestions": [
+        "Tell me about yourself.",
+        "Why do you want to work for TCS?",
+        "Where do you see yourself in 5 years?",
+        "Describe a challenging situation you faced and how you handled it.",
+        "How do you prioritize tasks and manage your time effectively?"
+    ],
+    "difficulty": "Easy",
+    "avgRounds": 2
+}

@@ -1,0 +1,35 @@
+{
+    "company": "tcs",
+    "role": "system engineer",
+    "interviewProcess": [
+        "Round 1: Technical round focusing on basic programming concepts (OOP, DBMS).",
+        "Round 2: HR round."
+    ],
+    "dsaTopics": [],
+    "systemDesignTopics": [],
+    "behavioralQuestions": [
+        "What are your five main weaknesses?",
+        "How many years of experience do you have?",
+        "So, tell me about yourself?"
+    ],
+    "difficulty": "Easy",
+    "avgRounds": 2,
+    "_sources": {
+        "github": {
+            "status": "failed",
+            "chars": 0
+        },
+        "web": {
+            "status": "empty",
+            "chars": 0
+        },
+        "reddit": {
+            "status": "ok",
+            "chars": 32482
+        },
+        "ambitionbox": {
+            "status": "ok",
+            "chars": 16491
+        }
+    }
+}

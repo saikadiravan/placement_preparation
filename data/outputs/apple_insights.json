@@ -1,0 +1,91 @@
+{
+    "company": "apple",
+    "role": "sde",
+    "interviewProcess": [
+        "Round 1: Technical coding assessment focusing on data structures and algorithms, requiring extensive LeetCode preparation.",
+        "Round 2: Onsite technical rounds, which include multiple coding challenges and behavioral discussions, often based on previous interview patterns.",
+        "Round 3: HR discussion covering motivations, fit, and general company inquiries."
+    ],
+    "dsaTopics": [
+        "Two Sum",
+        "LRU Cache",
+        "Frog Jump",
+        "Spiral Matrix",
+        "Add Two Numbers",
+        "Peeking Iterator",
+        "Median of Two Sorted Arrays",
+        "Maximum Subarray",
+        "Flatten Nested List Iterator",
+        "Trapping Rain Water",
+        "Perfect Rectangle",
+        "Reverse Linked List",
+        "Find Median from Data Stream",
+        "Number of Islands",
+        "Longest Palindromic Substring",
+        "The Skyline Problem",
+        "Find in Mountain Array",
+        "Interleaving String",
+        "Largest Palindrome Product",
+        "UTF-8 Validation",
+        "Product of Array Except Self",
+        "Sparse Matrix Multiplication",
+        "String to Integer (atoi)",
+        "Serialize and Deserialize N-ary Tree",
+        "Design Tic-Tac-Toe",
+        "Merge Intervals",
+        "Happy Number",
+        "Longest Increasing Path in a Matrix",
+        "Group Anagrams",
+        "Merge k Sorted Lists",
+        "Longest Substring Without Repeating Characters",
+        "Merge Two Sorted Lists",
+        "Word Break",
+        "Android Unlock Patterns",
+        "Valid Parentheses",
+        "Alien Dictionary",
+        "Word Search II",
+        "Max Points on a Line",
+        "Search in Rotated Sorted Array",
+        "Rotate Image",
+        "Valid Anagram",
+        "Reverse Integer",
+        "Count Primes",
+        "Letter Combinations of a Phone Number",
+        "Basic Calculator II",
+        "Fizz Buzz",
+        "Best Time to Buy and Sell Stock",
+        "Concatenated Words",
+        "First Unique Character in a String",
+        "Knight Probability in Chessboard"
+    ],
+    "systemDesignTopics": [
+        "Handling asynchronous API calls and token refresh"
+    ],
+    "behavioralQuestions": [
+        "What was the toughest situation that you encountered during your employment at your last company?",
+        "Tell me about yourself.",
+        "Why Apple?",
+        "Where do you see yourself in 5 years?",
+        "What are your strengths and weaknesses?"
+    ],
+    "difficulty": "Hard",
+    "avgRounds": 5,
+    "_sources": {
+        "github": {
+            "status": "ok",
+            "chars": 2057
+        },
+        "web": {
+            "status": "empty",
+            "chars": 0
+        },
+        "reddit": {
+            "status": "ok",
+            "chars": 45468
+        },
+        "ambitionbox": {
+            "status": "ok",
+            "chars": 15133
+        }
+    }
+}
